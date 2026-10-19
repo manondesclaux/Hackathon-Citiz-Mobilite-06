@@ -5,4 +5,7 @@ __pycache__/
 Filosofi2021_carreaux_200m_csv/
 data_citiz/
 releves_citiz/
-sorties/
+sorties/*
+!sorties/carte_citiz.html
+!sorties/carte_citiz_filosofi.html
+!sorties/carte_citiz_ages.html
