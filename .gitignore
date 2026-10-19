@@ -1,1 +1,8 @@
 env
+.venv/
+__pycache__/
+# données volumineuses ou régénérables
+Filosofi2021_carreaux_200m_csv/
+data_citiz/
+releves_citiz/
+sorties/

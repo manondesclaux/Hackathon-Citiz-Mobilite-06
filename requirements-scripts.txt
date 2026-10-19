@@ -1,0 +1,9 @@
+# scripts/ (local). Les notebooks Fabric (fabric/) utilisent les paquets du runtime Fabric.
+pandas>=3.0
+folium>=0.20
+scipy>=1.18
+pyproj>=3.8
+matplotlib>=3.11
+pyarrow>=26.0
+requests>=2.34
+geopandas   # scripts/carte_population.py uniquement (installe aussi shapely)
