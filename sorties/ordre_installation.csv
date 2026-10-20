@@ -1,0 +1,21 @@
+ordre,vague,commune,arret_proche,lat,lon,usage_attendu,population_400m,habitants_supplementaires,arrets_400m,part_sans_voiture,voisins_deja_installes,score_ordre,cout_cumule_eur,habitants_cumules
+1,Vague 1 — noyau,Nice,Place Arson,43.7,7.3,31.2,12729.5,12729.5,22,36.6,0.0,79.0,50000,12730.0
+2,Vague 1 — noyau,Nice,Saint-Roch,43.7,7.3,30.7,9876.0,9876.0,10,36.6,1.0,80.9,100000,22606.0
+3,Vague 1 — noyau,Nice,Hôpital Pasteur,43.7,7.3,29.9,6815.5,6815.5,21,36.6,1.0,79.8,150000,29421.0
+4,Vague 1 — noyau,Nice,Franklin,43.7,7.3,30.9,10831.5,10831.5,23,36.6,0.0,77.0,200000,40252.0
+5,Vague 1 — noyau,Nice,Nice Gare,43.7,7.3,31.0,11530.5,11530.5,13,36.6,1.0,84.6,250000,51783.0
+6,Vague 1 — noyau,Nice,Notre Dame,43.7,7.3,30.5,8900.5,8900.5,17,36.6,2.0,92.4,300000,60684.0
+7,Vague 1 — noyau,Nice,Mirasol / Pessicart,43.7,7.2,29.7,6199.0,6199.0,18,36.6,2.0,87.5,350000,66882.0
+8,Vague 2 — extension,Nice,Cyrille Besset,43.7,7.2,30.7,9754.0,9754.0,13,36.6,2.0,92.2,400000,76636.0
+9,Vague 2 — extension,Nice,Cernuschi,43.7,7.2,30.2,7582.5,7582.5,14,36.6,1.0,79.0,450000,84219.0
+10,Vague 2 — extension,Beausoleil,Gaumattes,43.7,7.4,26.8,4522.5,4429.5,26,30.1,0.0,49.3,500000,88648.0
+11,Vague 2 — extension,Cannes,Rue Saint Jean,43.6,7.0,26.4,4991.0,4991.0,15,28.3,0.0,42.9,550000,93640.0
+12,Vague 2 — extension,Cannes,Place du Marché,43.6,7.0,26.9,6325.5,6325.5,8,28.3,0.0,42.9,600000,99965.0
+13,Vague 2 — extension,Le Cannet,Paul Doumer,43.6,7.0,23.8,5387.5,5387.5,16,20.4,1.0,35.1,650000,105352.0
+14,Vague 2 — extension,Menton,Menton Gare SNCF,43.8,7.5,24.9,4628.0,4628.0,15,24.5,0.0,32.6,700000,109980.0
+15,Vague 3 — élargissement,Le Cannet,Commandant Lamy,43.6,7.0,23.6,4814.5,4814.5,13,20.4,1.0,32.3,750000,114795.0
+16,Vague 3 — élargissement,Antibes,PLACE DE GAULLE,43.6,7.1,23.8,5883.5,5883.5,13,19.8,0.0,23.8,800000,120678.0
+17,Vague 3 — élargissement,Antibes,PRINTEMPS,43.6,7.1,23.5,5161.5,5161.5,12,19.8,1.0,31.4,850000,125840.0
+18,Vague 3 — élargissement,Vallauris,EMAUX,43.6,7.1,23.6,5954.5,5954.5,13,19.2,0.0,22.5,900000,131794.0
+19,Vague 3 — élargissement,Cagnes-sur-Mer,Bourdet,43.7,7.2,23.2,5802.0,5802.0,17,18.2,0.0,21.1,950000,137596.0
+20,Vague 3 — élargissement,Roquebrune-Cap-Martin,Carnolès Marché,43.8,7.5,22.7,4426.0,4137.5,18,18.3,0.0,17.9,1000000,141734.0

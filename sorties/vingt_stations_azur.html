@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_913c59c0b977c6b85ab1f56902b1c430 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_913c59c0b977c6b85ab1f56902b1c430" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_913c59c0b977c6b85ab1f56902b1c430 = L.map(
+                "map_913c59c0b977c6b85ab1f56902b1c430",
+                {
+                    center: [43.7, 7.2],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_935f6f5ee6b4fe55e374e11887066c89 = L.tileLayer(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "Tiles \u00a9 Esri",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_935f6f5ee6b4fe55e374e11887066c89.addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var circle_adf126d57560dc5db022477fc338c8cd = L.circle(
+                [43.70227824119312, 7.285391235408556],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_8878cce089dc3fdb93a3b1d3d6445c4a = L.marker(
+                [43.70227824119312, 7.285391235408556],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_1010ddc90e382706e5f66a7026645793 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e1\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_ecd3f48823b144c3b3cc9e85bc40a5ca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc1c7295e0ce7cd4c9e20fc169a1454b = $(`<div id="html_bc1c7295e0ce7cd4c9e20fc169a1454b" style="width: 100.0%; height: 100.0%;"><b>#1 Nice</b><br>repère : Place Arson<br>12,730 hab. à 400 m (+12,730 nouveaux)<br>22 pôles d'arrêts · concurrence : 0 stations, 4 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 31 %</div>`)[0];
+                popup_ecd3f48823b144c3b3cc9e85bc40a5ca.setContent(html_bc1c7295e0ce7cd4c9e20fc169a1454b);
+            
+        
+
+        marker_8878cce089dc3fdb93a3b1d3d6445c4a.bindPopup(popup_ecd3f48823b144c3b3cc9e85bc40a5ca)
+        ;
+
+        
+    
+    
+            marker_8878cce089dc3fdb93a3b1d3d6445c4a.bindTooltip(
+                `<div>
+                     #1 Nice — Place Arson
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8878cce089dc3fdb93a3b1d3d6445c4a.setIcon(div_icon_1010ddc90e382706e5f66a7026645793);
+            
+    
+            var circle_ff816303d00bdd63d25c50c556b9871a = L.circle(
+                [43.69968747049833, 7.255790418990498],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_fc9bfb40ad6bfa4ac3b0620d67afbb50 = L.marker(
+                [43.69968747049833, 7.255790418990498],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_379869405ae77a9bd8be43364737c4c4 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e2\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_66db694aa7eb71607e571345cbbef12e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b89bbc0dcc6ab449a597717543d5512b = $(`<div id="html_b89bbc0dcc6ab449a597717543d5512b" style="width: 100.0%; height: 100.0%;"><b>#2 Nice</b><br>repère : Franklin<br>10,832 hab. à 400 m (+10,832 nouveaux)<br>23 pôles d'arrêts · concurrence : 0 stations, 1 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 31 %</div>`)[0];
+                popup_66db694aa7eb71607e571345cbbef12e.setContent(html_b89bbc0dcc6ab449a597717543d5512b);
+            
+        
+
+        marker_fc9bfb40ad6bfa4ac3b0620d67afbb50.bindPopup(popup_66db694aa7eb71607e571345cbbef12e)
+        ;
+
+        
+    
+    
+            marker_fc9bfb40ad6bfa4ac3b0620d67afbb50.bindTooltip(
+                `<div>
+                     #2 Nice — Franklin
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fc9bfb40ad6bfa4ac3b0620d67afbb50.setIcon(div_icon_379869405ae77a9bd8be43364737c4c4);
+            
+    
+            var circle_a110fe0c42be47ed9d4757f91289ec45 = L.circle(
+                [43.708835077901085, 7.260311928232641],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_5c4336e4c9a59d267ca54c9af7a235c9 = L.marker(
+                [43.708835077901085, 7.260311928232641],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_be52d4978edb9804622ca07bbfa6fb19 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e3\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_d2de5c94a70b4a65317d68ebff694044 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a5c42fb2de04438dece276235ee3074 = $(`<div id="html_9a5c42fb2de04438dece276235ee3074" style="width: 100.0%; height: 100.0%;"><b>#3 Nice</b><br>repère : Nice Gare<br>11,530 hab. à 400 m (+11,530 nouveaux)<br>13 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 31 %</div>`)[0];
+                popup_d2de5c94a70b4a65317d68ebff694044.setContent(html_9a5c42fb2de04438dece276235ee3074);
+            
+        
+
+        marker_5c4336e4c9a59d267ca54c9af7a235c9.bindPopup(popup_d2de5c94a70b4a65317d68ebff694044)
+        ;
+
+        
+    
+    
+            marker_5c4336e4c9a59d267ca54c9af7a235c9.bindTooltip(
+                `<div>
+                     #3 Nice — Nice Gare
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5c4336e4c9a59d267ca54c9af7a235c9.setIcon(div_icon_be52d4978edb9804622ca07bbfa6fb19);
+            
+    
+            var circle_7e645d57f9474305ebc77b5ff17507ab = L.circle(
+                [43.70362299568698, 7.267989267259812],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_fc76e10c62112132a36f3ef8176ec0d5 = L.marker(
+                [43.70362299568698, 7.267989267259812],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_41323d6b56b71521721a42f567b583de = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e4\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_5d2467051d977ae7228874b2c6d25c25 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d783db34f39d2450822e0beafd59b73e = $(`<div id="html_d783db34f39d2450822e0beafd59b73e" style="width: 100.0%; height: 100.0%;"><b>#4 Nice</b><br>repère : Notre Dame<br>8,900 hab. à 400 m (+8,900 nouveaux)<br>17 pôles d'arrêts · concurrence : 0 stations, 1 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 30 %</div>`)[0];
+                popup_5d2467051d977ae7228874b2c6d25c25.setContent(html_d783db34f39d2450822e0beafd59b73e);
+            
+        
+
+        marker_fc76e10c62112132a36f3ef8176ec0d5.bindPopup(popup_5d2467051d977ae7228874b2c6d25c25)
+        ;
+
+        
+    
+    
+            marker_fc76e10c62112132a36f3ef8176ec0d5.bindTooltip(
+                `<div>
+                     #4 Nice — Notre Dame
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fc76e10c62112132a36f3ef8176ec0d5.setIcon(div_icon_41323d6b56b71521721a42f567b583de);
+            
+    
+            var circle_122db7fb1e538a63413c638d2ff88178 = L.circle(
+                [43.71771885102852, 7.254936749590783],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_dd9e178b1e3b0352e2c67f1487c1a0e7 = L.marker(
+                [43.71771885102852, 7.254936749590783],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_67f34bd4368a3895fdab315b79349560 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e5\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_25e872325de615ba54d1e830733333a8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b7877df619e57f613f0b1e35447b187c = $(`<div id="html_b7877df619e57f613f0b1e35447b187c" style="width: 100.0%; height: 100.0%;"><b>#5 Nice</b><br>repère : Cyrille Besset<br>9,754 hab. à 400 m (+9,754 nouveaux)<br>13 pôles d'arrêts · concurrence : 0 stations, 6 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 31 %</div>`)[0];
+                popup_25e872325de615ba54d1e830733333a8.setContent(html_b7877df619e57f613f0b1e35447b187c);
+            
+        
+
+        marker_dd9e178b1e3b0352e2c67f1487c1a0e7.bindPopup(popup_25e872325de615ba54d1e830733333a8)
+        ;
+
+        
+    
+    
+            marker_dd9e178b1e3b0352e2c67f1487c1a0e7.bindTooltip(
+                `<div>
+                     #5 Nice — Cyrille Besset
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_dd9e178b1e3b0352e2c67f1487c1a0e7.setIcon(div_icon_67f34bd4368a3895fdab315b79349560);
+            
+    
+            var circle_5c7f96e933f2491f1876402e9a0f47b6 = L.circle(
+                [43.71329286549365, 7.292307636151327],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_a29649c992db67d389677efbdeb6079d = L.marker(
+                [43.71329286549365, 7.292307636151327],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_23cac5d5d94f027dff19cf9e79d652ca = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e6\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_93028e202fb92186e4d5419ec9c474fe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ba9ee949fd764e044700743f3abb8feb = $(`<div id="html_ba9ee949fd764e044700743f3abb8feb" style="width: 100.0%; height: 100.0%;"><b>#6 Nice</b><br>repère : Saint-Roch<br>9,876 hab. à 400 m (+9,876 nouveaux)<br>10 pôles d'arrêts · concurrence : 0 stations, 5 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 31 %</div>`)[0];
+                popup_93028e202fb92186e4d5419ec9c474fe.setContent(html_ba9ee949fd764e044700743f3abb8feb);
+            
+        
+
+        marker_a29649c992db67d389677efbdeb6079d.bindPopup(popup_93028e202fb92186e4d5419ec9c474fe)
+        ;
+
+        
+    
+    
+            marker_a29649c992db67d389677efbdeb6079d.bindTooltip(
+                `<div>
+                     #6 Nice — Saint-Roch
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a29649c992db67d389677efbdeb6079d.setIcon(div_icon_23cac5d5d94f027dff19cf9e79d652ca);
+            
+    
+            var circle_2839aa51bc0214bccb8b2ab8f61b5f5e = L.circle(
+                [43.72211302813628, 7.284462218532959],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_ae36256178f39c3ca3a40ab7c21a8beb = L.marker(
+                [43.72211302813628, 7.284462218532959],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_b243818b478ec9d664754fe7c8f5f5b6 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e7\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_e379ac0c271864511cd5d3b3518137f9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3f1257cd3b092ee338dbb253ca9f0888 = $(`<div id="html_3f1257cd3b092ee338dbb253ca9f0888" style="width: 100.0%; height: 100.0%;"><b>#7 Nice</b><br>repère : Hôpital Pasteur<br>6,816 hab. à 400 m (+6,816 nouveaux)<br>21 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 30 %</div>`)[0];
+                popup_e379ac0c271864511cd5d3b3518137f9.setContent(html_3f1257cd3b092ee338dbb253ca9f0888);
+            
+        
+
+        marker_ae36256178f39c3ca3a40ab7c21a8beb.bindPopup(popup_e379ac0c271864511cd5d3b3518137f9)
+        ;
+
+        
+    
+    
+            marker_ae36256178f39c3ca3a40ab7c21a8beb.bindTooltip(
+                `<div>
+                     #7 Nice — Hôpital Pasteur
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ae36256178f39c3ca3a40ab7c21a8beb.setIcon(div_icon_b243818b478ec9d664754fe7c8f5f5b6);
+            
+    
+            var circle_4c7f2a08cc655512f30dc88c136125a6 = L.circle(
+                [43.72666838624369, 7.252034761897972],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_07b8e481271deacb4c628eace0ee9dc4 = L.marker(
+                [43.72666838624369, 7.252034761897972],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_cb2d534ee26839014581d2e3d6f33fef = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e8\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_44b516519415bf7fb453a573b59db0bd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_163c84687fa67b1e0bcf0382a74ef9bb = $(`<div id="html_163c84687fa67b1e0bcf0382a74ef9bb" style="width: 100.0%; height: 100.0%;"><b>#8 Nice</b><br>repère : Cernuschi<br>7,582 hab. à 400 m (+7,582 nouveaux)<br>14 pôles d'arrêts · concurrence : 0 stations, 1 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 30 %</div>`)[0];
+                popup_44b516519415bf7fb453a573b59db0bd.setContent(html_163c84687fa67b1e0bcf0382a74ef9bb);
+            
+        
+
+        marker_07b8e481271deacb4c628eace0ee9dc4.bindPopup(popup_44b516519415bf7fb453a573b59db0bd)
+        ;
+
+        
+    
+    
+            marker_07b8e481271deacb4c628eace0ee9dc4.bindTooltip(
+                `<div>
+                     #8 Nice — Cernuschi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_07b8e481271deacb4c628eace0ee9dc4.setIcon(div_icon_cb2d534ee26839014581d2e3d6f33fef);
+            
+    
+            var circle_67a755d8713dccda41bf0b41bcd5038a = L.circle(
+                [43.71037420451462, 7.250329912888692],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_6a3df0c5ecf3e8b6896ac3fbf6c63a0f = L.marker(
+                [43.71037420451462, 7.250329912888692],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_4e892204b4b80d59018a2bf93714fce1 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e9\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_c933cfa40d70ba6a4dbafc3fc7f16167 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9cfeb630d408cbd2348bf5374be2d94c = $(`<div id="html_9cfeb630d408cbd2348bf5374be2d94c" style="width: 100.0%; height: 100.0%;"><b>#9 Nice</b><br>repère : Mirasol / Pessicart<br>6,199 hab. à 400 m (+6,199 nouveaux)<br>18 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 37 %<br>occupation attendue ≈ 30 %</div>`)[0];
+                popup_c933cfa40d70ba6a4dbafc3fc7f16167.setContent(html_9cfeb630d408cbd2348bf5374be2d94c);
+            
+        
+
+        marker_6a3df0c5ecf3e8b6896ac3fbf6c63a0f.bindPopup(popup_c933cfa40d70ba6a4dbafc3fc7f16167)
+        ;
+
+        
+    
+    
+            marker_6a3df0c5ecf3e8b6896ac3fbf6c63a0f.bindTooltip(
+                `<div>
+                     #9 Nice — Mirasol / Pessicart
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6a3df0c5ecf3e8b6896ac3fbf6c63a0f.setIcon(div_icon_4e892204b4b80d59018a2bf93714fce1);
+            
+    
+            var circle_649bb36dcb4972e6325649393ed89f37 = L.circle(
+                [43.73997880743848, 7.4174613372638145],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_cbf598ded1a4cd78f1914a3adf94558f = L.marker(
+                [43.73997880743848, 7.4174613372638145],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_aca688b1ae2248c5f2909c8cccf82381 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e10\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_3ed60a28f224e7f4d9bcbd937f479354 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_114fe66d66ea735c324da814bf2a5055 = $(`<div id="html_114fe66d66ea735c324da814bf2a5055" style="width: 100.0%; height: 100.0%;"><b>#10 Beausoleil</b><br>repère : Gaumattes<br>4,522 hab. à 400 m (+4,430 nouveaux)<br>26 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 30 %<br>occupation attendue ≈ 27 %</div>`)[0];
+                popup_3ed60a28f224e7f4d9bcbd937f479354.setContent(html_114fe66d66ea735c324da814bf2a5055);
+            
+        
+
+        marker_cbf598ded1a4cd78f1914a3adf94558f.bindPopup(popup_3ed60a28f224e7f4d9bcbd937f479354)
+        ;
+
+        
+    
+    
+            marker_cbf598ded1a4cd78f1914a3adf94558f.bindTooltip(
+                `<div>
+                     #10 Beausoleil — Gaumattes
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cbf598ded1a4cd78f1914a3adf94558f.setIcon(div_icon_aca688b1ae2248c5f2909c8cccf82381);
+            
+    
+            var circle_fb038b476d839a5f7197e5509ab90900 = L.circle(
+                [43.55756593824733, 7.015396152207915],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_1a2224a1349857703f989b3fc4ffb644 = L.marker(
+                [43.55756593824733, 7.015396152207915],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_28e7670295a4fb3167d4f454d89a07c8 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e11\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_63e37daeea64a9315c052e519e98a6cc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28c9ea0b5a0b9b5dfcf41088092fda98 = $(`<div id="html_28c9ea0b5a0b9b5dfcf41088092fda98" style="width: 100.0%; height: 100.0%;"><b>#11 Cannes</b><br>repère : Rue Saint Jean<br>4,991 hab. à 400 m (+4,991 nouveaux)<br>15 pôles d'arrêts · concurrence : 0 stations, 5 véhicules<br>ménages sans voiture (commune) : 28 %<br>occupation attendue ≈ 26 %</div>`)[0];
+                popup_63e37daeea64a9315c052e519e98a6cc.setContent(html_28c9ea0b5a0b9b5dfcf41088092fda98);
+            
+        
+
+        marker_1a2224a1349857703f989b3fc4ffb644.bindPopup(popup_63e37daeea64a9315c052e519e98a6cc)
+        ;
+
+        
+    
+    
+            marker_1a2224a1349857703f989b3fc4ffb644.bindTooltip(
+                `<div>
+                     #11 Cannes — Rue Saint Jean
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1a2224a1349857703f989b3fc4ffb644.setIcon(div_icon_28e7670295a4fb3167d4f454d89a07c8);
+            
+    
+            var circle_9662a1a80493d27722eea1b845d6e130 = L.circle(
+                [43.55100129617104, 6.976198100797998],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_80bfac88cf4b04d64a077ac6055073bf = L.marker(
+                [43.55100129617104, 6.976198100797998],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_3598d165f0089f6fee5f35c8ce7a593b = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e12\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_57029e51a024a7c301de9405649fc8f3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ad7b681e523f1bb3bb1c801ada99f8cf = $(`<div id="html_ad7b681e523f1bb3bb1c801ada99f8cf" style="width: 100.0%; height: 100.0%;"><b>#12 Cannes</b><br>repère : Place du Marché<br>6,326 hab. à 400 m (+6,326 nouveaux)<br>8 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 28 %<br>occupation attendue ≈ 27 %</div>`)[0];
+                popup_57029e51a024a7c301de9405649fc8f3.setContent(html_ad7b681e523f1bb3bb1c801ada99f8cf);
+            
+        
+
+        marker_80bfac88cf4b04d64a077ac6055073bf.bindPopup(popup_57029e51a024a7c301de9405649fc8f3)
+        ;
+
+        
+    
+    
+            marker_80bfac88cf4b04d64a077ac6055073bf.bindTooltip(
+                `<div>
+                     #12 Cannes — Place du Marché
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_80bfac88cf4b04d64a077ac6055073bf.setIcon(div_icon_3598d165f0089f6fee5f35c8ce7a593b);
+            
+    
+            var circle_88f636f16e2b0f592d30d182f6ff1cd7 = L.circle(
+                [43.77439519541544, 7.49527901896991],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_6daacf38df617634634896a545a0c308 = L.marker(
+                [43.77439519541544, 7.49527901896991],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_5619cb8554b1a37e10e893ec0e1da9cb = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e13\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_2c43aab432b8edfee0c19b57a4e38ad4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51673ee39e8d5a411b8f429a96122291 = $(`<div id="html_51673ee39e8d5a411b8f429a96122291" style="width: 100.0%; height: 100.0%;"><b>#13 Menton</b><br>repère : Menton Gare SNCF<br>4,628 hab. à 400 m (+4,628 nouveaux)<br>15 pôles d'arrêts · concurrence : 0 stations, 3 véhicules<br>ménages sans voiture (commune) : 24 %<br>occupation attendue ≈ 25 %</div>`)[0];
+                popup_2c43aab432b8edfee0c19b57a4e38ad4.setContent(html_51673ee39e8d5a411b8f429a96122291);
+            
+        
+
+        marker_6daacf38df617634634896a545a0c308.bindPopup(popup_2c43aab432b8edfee0c19b57a4e38ad4)
+        ;
+
+        
+    
+    
+            marker_6daacf38df617634634896a545a0c308.bindTooltip(
+                `<div>
+                     #13 Menton — Menton Gare SNCF
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6daacf38df617634634896a545a0c308.setIcon(div_icon_5619cb8554b1a37e10e893ec0e1da9cb);
+            
+    
+            var circle_d13636527275a36247b913bc64c55b52 = L.circle(
+                [43.56665315949945, 7.017401775140549],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_3c8b8c24edc96060c6590ab0bb13f3e9 = L.marker(
+                [43.56665315949945, 7.017401775140549],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_cbcb527e6991348b162051e2c02b6323 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e14\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_f8915976c0bd36853b72bc687cb0d1d1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c41fca8df3c640d70f6f30fdc72954f7 = $(`<div id="html_c41fca8df3c640d70f6f30fdc72954f7" style="width: 100.0%; height: 100.0%;"><b>#14 Le Cannet</b><br>repère : Paul Doumer<br>5,388 hab. à 400 m (+5,388 nouveaux)<br>16 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 20 %<br>occupation attendue ≈ 24 %</div>`)[0];
+                popup_f8915976c0bd36853b72bc687cb0d1d1.setContent(html_c41fca8df3c640d70f6f30fdc72954f7);
+            
+        
+
+        marker_3c8b8c24edc96060c6590ab0bb13f3e9.bindPopup(popup_f8915976c0bd36853b72bc687cb0d1d1)
+        ;
+
+        
+    
+    
+            marker_3c8b8c24edc96060c6590ab0bb13f3e9.bindTooltip(
+                `<div>
+                     #14 Le Cannet — Paul Doumer
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3c8b8c24edc96060c6590ab0bb13f3e9.setIcon(div_icon_cbcb527e6991348b162051e2c02b6323);
+            
+    
+            var circle_2981a4bbf7a84910c468370203bead6d = L.circle(
+                [43.58043117518026, 7.120521606551834],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_408355c9c1e90fb5c5b3f6e741b617a5 = L.marker(
+                [43.58043117518026, 7.120521606551834],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_a4e76fa7539a10c430134a827424d1ae = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e15\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_3058848eae3bd7ac003ee8b5aeb500c9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_74890537971e2b7bd78ec24f2b9af3c7 = $(`<div id="html_74890537971e2b7bd78ec24f2b9af3c7" style="width: 100.0%; height: 100.0%;"><b>#15 Antibes</b><br>repère : PLACE DE GAULLE<br>5,884 hab. à 400 m (+5,884 nouveaux)<br>13 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 20 %<br>occupation attendue ≈ 24 %</div>`)[0];
+                popup_3058848eae3bd7ac003ee8b5aeb500c9.setContent(html_74890537971e2b7bd78ec24f2b9af3c7);
+            
+        
+
+        marker_408355c9c1e90fb5c5b3f6e741b617a5.bindPopup(popup_3058848eae3bd7ac003ee8b5aeb500c9)
+        ;
+
+        
+    
+    
+            marker_408355c9c1e90fb5c5b3f6e741b617a5.bindTooltip(
+                `<div>
+                     #15 Antibes — PLACE DE GAULLE
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_408355c9c1e90fb5c5b3f6e741b617a5.setIcon(div_icon_a4e76fa7539a10c430134a827424d1ae);
+            
+    
+            var circle_1e5a839a8cad6a5b5125c8fb84825bd8 = L.circle(
+                [43.57680832241324, 7.056432366573456],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_6ef0b1d9e2f4be9543a5078323dde478 = L.marker(
+                [43.57680832241324, 7.056432366573456],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_087f90ee16f6e957f0e8e326187d3857 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e16\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_215dd818ac7ba2a40ee867f0b53dd42d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_af27b00bbe544aef5a023ee6fcd348f9 = $(`<div id="html_af27b00bbe544aef5a023ee6fcd348f9" style="width: 100.0%; height: 100.0%;"><b>#16 Vallauris</b><br>repère : EMAUX<br>5,954 hab. à 400 m (+5,954 nouveaux)<br>13 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 19 %<br>occupation attendue ≈ 24 %</div>`)[0];
+                popup_215dd818ac7ba2a40ee867f0b53dd42d.setContent(html_af27b00bbe544aef5a023ee6fcd348f9);
+            
+        
+
+        marker_6ef0b1d9e2f4be9543a5078323dde478.bindPopup(popup_215dd818ac7ba2a40ee867f0b53dd42d)
+        ;
+
+        
+    
+    
+            marker_6ef0b1d9e2f4be9543a5078323dde478.bindTooltip(
+                `<div>
+                     #16 Vallauris — EMAUX
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6ef0b1d9e2f4be9543a5078323dde478.setIcon(div_icon_087f90ee16f6e957f0e8e326187d3857);
+            
+    
+            var circle_80cb13b03eff4fd6f12be5c8f3d2a11e = L.circle(
+                [43.57566860174363, 7.016939726172061],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_d585c7e6340d91eae768b54e1b1eca27 = L.marker(
+                [43.57566860174363, 7.016939726172061],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_62194bdf2e4a194d13c52407b14c0ba4 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e17\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_89888e8610c0d9093a4c2cb880ddee6f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e8cfbb0265d9a592fa2f2a78596d901e = $(`<div id="html_e8cfbb0265d9a592fa2f2a78596d901e" style="width: 100.0%; height: 100.0%;"><b>#17 Le Cannet</b><br>repère : Commandant Lamy<br>4,814 hab. à 400 m (+4,814 nouveaux)<br>13 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 20 %<br>occupation attendue ≈ 24 %</div>`)[0];
+                popup_89888e8610c0d9093a4c2cb880ddee6f.setContent(html_e8cfbb0265d9a592fa2f2a78596d901e);
+            
+        
+
+        marker_d585c7e6340d91eae768b54e1b1eca27.bindPopup(popup_89888e8610c0d9093a4c2cb880ddee6f)
+        ;
+
+        
+    
+    
+            marker_d585c7e6340d91eae768b54e1b1eca27.bindTooltip(
+                `<div>
+                     #17 Le Cannet — Commandant Lamy
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d585c7e6340d91eae768b54e1b1eca27.setIcon(div_icon_62194bdf2e4a194d13c52407b14c0ba4);
+            
+    
+            var circle_1147a4fac9db404b970d0654564b504a = L.circle(
+                [43.57120732959282, 7.113563200972845],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_093f3ef40e4b6bad8fc3a06f2ed60126 = L.marker(
+                [43.57120732959282, 7.113563200972845],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_88bf9aa03a7f65dee52d8fee3d721ad4 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e18\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_7b0585606352c0585330630467d40593 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_266e854fb3eead4431f9a0c6264825fe = $(`<div id="html_266e854fb3eead4431f9a0c6264825fe" style="width: 100.0%; height: 100.0%;"><b>#18 Antibes</b><br>repère : PRINTEMPS<br>5,162 hab. à 400 m (+5,162 nouveaux)<br>12 pôles d'arrêts · concurrence : 0 stations, 1 véhicules<br>ménages sans voiture (commune) : 20 %<br>occupation attendue ≈ 24 %</div>`)[0];
+                popup_7b0585606352c0585330630467d40593.setContent(html_266e854fb3eead4431f9a0c6264825fe);
+            
+        
+
+        marker_093f3ef40e4b6bad8fc3a06f2ed60126.bindPopup(popup_7b0585606352c0585330630467d40593)
+        ;
+
+        
+    
+    
+            marker_093f3ef40e4b6bad8fc3a06f2ed60126.bindTooltip(
+                `<div>
+                     #18 Antibes — PRINTEMPS
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_093f3ef40e4b6bad8fc3a06f2ed60126.setIcon(div_icon_88bf9aa03a7f65dee52d8fee3d721ad4);
+            
+    
+            var circle_aa5e914854ce2b5ad731fc36591bc7e0 = L.circle(
+                [43.66433967384044, 7.151018538186007],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_6bb0a563b9df2beb898c6d4fa5b1021f = L.marker(
+                [43.66433967384044, 7.151018538186007],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_92598992ecd9a4250ca2b989a41688b7 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e19\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_d6280d73223f4bc7a96b78ac0919189e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9e5f157a6d2a2078fa55637de4bdbfdf = $(`<div id="html_9e5f157a6d2a2078fa55637de4bdbfdf" style="width: 100.0%; height: 100.0%;"><b>#19 Cagnes-sur-Mer</b><br>repère : Bourdet<br>5,802 hab. à 400 m (+5,802 nouveaux)<br>17 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 18 %<br>occupation attendue ≈ 23 %</div>`)[0];
+                popup_d6280d73223f4bc7a96b78ac0919189e.setContent(html_9e5f157a6d2a2078fa55637de4bdbfdf);
+            
+        
+
+        marker_6bb0a563b9df2beb898c6d4fa5b1021f.bindPopup(popup_d6280d73223f4bc7a96b78ac0919189e)
+        ;
+
+        
+    
+    
+            marker_6bb0a563b9df2beb898c6d4fa5b1021f.bindTooltip(
+                `<div>
+                     #19 Cagnes-sur-Mer — Bourdet
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6bb0a563b9df2beb898c6d4fa5b1021f.setIcon(div_icon_92598992ecd9a4250ca2b989a41688b7);
+            
+    
+            var circle_3a8d71ee8efbeeebc8401c1ee4bc543b = L.circle(
+                [43.765076883280194, 7.483285511199138],
+                {"bubblingMouseEvents": true, "color": "#167d9a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#167d9a", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 400, "stroke": true, "weight": 1}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var marker_f4303b59deed77d9bdf0b4c978ba4df2 = L.marker(
+                [43.765076883280194, 7.483285511199138],
+                {
+}
+            ).addTo(map_913c59c0b977c6b85ab1f56902b1c430);
+        
+    
+            var div_icon_1e7b9f3890ce06c2375e72d98812dac6 = L.divIcon({
+  "html": "\u003cdiv style=\"background:#143f63;color:white;border-radius:50%;width:26px;height:26px;text-align:center;line-height:26px;font-weight:bold\"\u003e20\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+        var popup_a6fdd88437eedd33ce95e4747a3d8dda = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fbb20fece9cf89f7867558fba8496f97 = $(`<div id="html_fbb20fece9cf89f7867558fba8496f97" style="width: 100.0%; height: 100.0%;"><b>#20 Roquebrune-Cap-Martin</b><br>repère : Carnolès Marché<br>4,426 hab. à 400 m (+4,138 nouveaux)<br>18 pôles d'arrêts · concurrence : 0 stations, 0 véhicules<br>ménages sans voiture (commune) : 18 %<br>occupation attendue ≈ 23 %</div>`)[0];
+                popup_a6fdd88437eedd33ce95e4747a3d8dda.setContent(html_fbb20fece9cf89f7867558fba8496f97);
+            
+        
+
+        marker_f4303b59deed77d9bdf0b4c978ba4df2.bindPopup(popup_a6fdd88437eedd33ce95e4747a3d8dda)
+        ;
+
+        
+    
+    
+            marker_f4303b59deed77d9bdf0b4c978ba4df2.bindTooltip(
+                `<div>
+                     #20 Roquebrune-Cap-Martin — Carnolès Marché
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f4303b59deed77d9bdf0b4c978ba4df2.setIcon(div_icon_1e7b9f3890ce06c2375e72d98812dac6);
+            
+</script>
+</html>

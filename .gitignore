@@ -4,6 +4,7 @@ __pycache__/
 # données volumineuses ou régénérables
 Filosofi2021_carreaux_200m_csv/
 data_citiz/
+data_insee/
 data_concurrents/
 releves_citiz/
 sorties/*
@@ -17,3 +18,12 @@ data/raw/
 
 # Fichiers système macOS
 .DS_Store
+!sorties/ordre_installation.csv
+!sorties/ordre_installation.html
+!sorties/flotte_recommandee.csv
+!sorties/vingt_stations_azur.csv
+!sorties/vingt_stations_azur.html
+!sorties/top10_azur_vs_usage.csv
+!sorties/motorisation_communes.csv
+!sorties/plafonds_communes.csv
+!sorties/stations_usage_motorisation.csv
