@@ -4,8 +4,10 @@ __pycache__/
 # données volumineuses ou régénérables
 Filosofi2021_carreaux_200m_csv/
 data_citiz/
+data_concurrents/
 releves_citiz/
 sorties/*
 !sorties/carte_citiz.html
 !sorties/carte_citiz_filosofi.html
 !sorties/carte_citiz_ages.html
+!sorties/carte_citiz_concurrents.html
