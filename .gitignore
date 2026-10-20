@@ -11,3 +11,9 @@ sorties/*
 !sorties/carte_citiz_filosofi.html
 !sorties/carte_citiz_ages.html
 !sorties/carte_citiz_concurrents.html
+
+# Téléchargements bruts et caches des scripts de collecte (volumineux, régénérables)
+data/raw/
+
+# Fichiers système macOS
+.DS_Store

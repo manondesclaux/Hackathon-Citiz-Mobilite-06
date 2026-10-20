@@ -7,3 +7,4 @@ matplotlib>=3.11
 pyarrow>=26.0
 requests>=2.34
 geopandas   # scripts/carte_population.py uniquement (installe aussi shapely)
+shapely>=2.0
