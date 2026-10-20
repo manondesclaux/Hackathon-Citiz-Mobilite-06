@@ -1,0 +1,37 @@
+{
+  "habitants_06": 1107427,
+  "part_habitants_sans_arret_tc_400m": 0.087,
+  "part_habitants_tc_correct_ou_fort": 0.823,
+  "par_quintile_de_niveau_de_vie": {
+    "Q1 modestes": {
+      "habitants": 221396.0,
+      "part_tc_correct_ou_fort": 0.906,
+      "options_400m_moyennes": 17.7
+    },
+    "Q2": {
+      "habitants": 221249.0,
+      "part_tc_correct_ou_fort": 0.935,
+      "options_400m_moyennes": 19.0
+    },
+    "Q3": {
+      "habitants": 221805.0,
+      "part_tc_correct_ou_fort": 0.899,
+      "options_400m_moyennes": 16.1
+    },
+    "Q4": {
+      "habitants": 221466.0,
+      "part_tc_correct_ou_fort": 0.814,
+      "options_400m_moyennes": 11.0
+    },
+    "Q5 aisés": {
+      "habitants": 221510.0,
+      "part_tc_correct_ou_fort": 0.56,
+      "options_400m_moyennes": 6.1
+    }
+  },
+  "dense_vs_peu_dense": {
+    "part_population_zones_denses": 0.479,
+    "tc_correct_ou_fort_denses": 0.999,
+    "tc_correct_ou_fort_peu_denses": 0.661
+  }
+}

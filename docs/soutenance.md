@@ -1,0 +1,74 @@
+# Trame de soutenance (10 minutes + démo)
+
+Chaque diapositive : un message, un chiffre, une source. Les chiffres viennent de `decision/resultats/`. Les relire
+après chaque exécution de `decision/run_all.sh`.
+
+## 1. Le problème
+Citiz est absent des Alpes-Maritimes (1,1 million d'habitants). Deux opérateurs y ont déjà arrêté : Auto Bleue en
+2018, Mobilize Share en 2026. Question : **où ouvrir, pour qui, à quel coût, sans répéter ces échecs ?**
+
+## 2. Notre réponse en une phrase
+20 stations et 43 véhicules pour 500 k€ la première année, d'abord à Nice. Environ 159 000 habitants nouvellement
+à 5 minutes à pied d'une voiture partagée (valeur à vol d'oiseau, corrigée à pied sur la diapo 7).
+
+## 3. Objectif 1 : qui a accès à quoi aujourd'hui (carte, couche 1)
+- 8,7 % des habitants n'ont aucun arrêt de transport actif à 400 m.
+- Le service TC est correct ou fort pour 91 % des quartiers modestes, contre 56 % des plus aisés. Les plus aisés
+  vivent dans des quartiers moins denses.
+- Vocabulaire : « accès plus limité », jamais « quartier mal desservi ».
+
+## 4. Objectif 2 : qui chaque point d'accès dessert (carte, couche 2)
+Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floating et des 250 voitures Getaround.
+
+## 5. La donnée d'usage, collectée dans Microsoft Fabric
+- Un notebook Fabric relève les 2 632 véhicules Citiz toutes les 15 minutes (table Delta).
+- Le profil horaire est crédible : 21 % de véhicules réservés la nuit, 42 % entre 10 h et 14 h.
+- **Constat honnête** : avec moins d'une journée de relevés, l'occupation d'une station n'est pas prévisible mieux
+  qu'une moyenne (gain de 1,7 %, R² ≈ 0). L'ancien modèle de l'équipe ne faisait pas mieux. On l'a abandonné.
+
+## 6. Le modèle qui tient : potentiel d'implantation
+- Appris sur 20 ans de choix de Citiz : 1 427 carreaux avec station, 40 000 sans, 15 réseaux.
+- **AUC 0,92** en prédisant chaque réseau sans l'avoir vu (contre 0,86 pour la densité seule).
+- **Relié à l'usage réel** : 16 % d'occupation dans le quintile de potentiel le plus faible, contre 24 % dans le
+  plus fort (Fabric, intervalles disjoints).
+- Ce qui compte : ménages d'une personne, densité, logement collectif, locataires, desserte TC.
+
+## 7. Objectif 3 : la liste sous budget (carte, couche 3)
+- Méthode : glouton sur « habitants nouveaux × potentiel / coût ». Un habitant ne compte qu'une fois. 800 m entre
+  deux stations, plafond par commune, quota d'équité.
+- Trois vagues : 5 sites au centre de Nice ; puis Nice, Cagnes-sur-Mer et Antibes ; puis Nice, Cannes, Menton et
+  Antibes.
+- Distances à pied (OSM) : voir `isochrones_sites.csv` pour la part d'habitants réellement à 5 minutes.
+- Pour l'autorité organisatrice : 10 arrêts de bus (150 k€, 12 à 21 € par habitant desservi) et 9 stations vélo à
+  Nice (280 k€/an).
+
+## 8. Ce que cela rapporte à Citiz
+- Résultat d'exploitation estimé entre −8 k€ et +63 k€ par an (central : +25 k€), pour une recette de 8 700 € par
+  véhicule à l'occupation moyenne du réseau.
+- Sensibilité : seuls 9 sites sur 20 seraient retenus avec la population seule. Le modèle change donc réellement la
+  décision.
+- Pourquoi Citiz réussirait là où d'autres ont échoué : modèle coopératif en boucle, flotte hybride, quartiers
+  denses et peu motorisés plutôt que toute la métropole.
+
+## 9. Éthique et société
+- **Carbone** : 150 à 370 t de CO₂ évitées par an (ordre de grandeur, hypothèses 6t-ADEME).
+- **Équité** : 60 % des stations dans les quartiers des 40 % d'habitants les plus modestes. Le quota de 30 % est
+  dépassé sans contrainte.
+- **Risque de « servir les déjà servis »** : assumé pour Citiz (la densité est la condition de survie, comme
+  l'ont montré les échecs). Pour le transport public, les arrêts de bus proposés ciblent au contraire les zones
+  périurbaines sans arrêt.
+- **Vie privée** : aucune population affichée pour les carreaux imputés par l'INSEE (moins de 11 ménages).
+
+## 10. Limites et suite
+- Relevés Fabric à prolonger 4 à 8 semaines, week-ends et été compris, puis réentraîner le modèle d'usage
+  (`decision/03_modele_usage.py`, prêt).
+- 7 sites sur 20 sont hors du domaine d'apprentissage (densité record ou tourisme) : à valider sur le terrain.
+- Coûts à remplacer par ceux de Citiz et de la Métropole (`decision/parametres.json`).
+- Extension au Var et à Monaco : changer `DEP` et relancer.
+
+## Démo (2 minutes)
+1. Ouvrir `decision/resultats/carte_decision_06.html`.
+2. Couche 1 : montrer le contraste entre le centre de Nice et l'arrière-pays.
+3. Couche 3 : cliquer sur la station n° 1, puis lire le potentiel, l'intervalle d'occupation et le résultat.
+4. Modifier `budget_annee1_eur` dans `parametres.json`, relancer `07_optimisation.py` puis `09_carte.py`, et
+   recharger la carte.

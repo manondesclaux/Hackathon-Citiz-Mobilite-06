@@ -1,0 +1,64 @@
+{
+  "cible": "occupation_jour",
+  "stations": 1402,
+  "reseaux": 15,
+  "validation": "GroupKFold, un réseau laissé de côté",
+  "resultats_hors_echantillon": {
+    "moyenne": {
+      "mae": 0.1662,
+      "r2_hors_echantillon": -0.0054,
+      "spearman_global": null,
+      "spearman_intra_reseau_moyen": null,
+      "part_reseaux_spearman_positif": null,
+      "gain_mae_vs_moyenne_pct": 0.0
+    },
+    "ancien_modele_equipe": {
+      "mae": 0.165,
+      "r2_hors_echantillon": 0.0045,
+      "spearman_global": 0.154,
+      "spearman_intra_reseau_moyen": 0.144,
+      "part_reseaux_spearman_positif": 0.86,
+      "gain_mae_vs_moyenne_pct": 0.7
+    },
+    "ridge": {
+      "mae": 0.1646,
+      "r2_hors_echantillon": 0.0065,
+      "spearman_global": 0.128,
+      "spearman_intra_reseau_moyen": 0.151,
+      "part_reseaux_spearman_positif": 0.79,
+      "gain_mae_vs_moyenne_pct": 1.0
+    },
+    "gradient_boosting": {
+      "mae": 0.1633,
+      "r2_hors_echantillon": -0.007,
+      "spearman_global": 0.133,
+      "spearman_intra_reseau_moyen": 0.109,
+      "part_reseaux_spearman_positif": 0.86,
+      "gain_mae_vs_moyenne_pct": 1.7
+    }
+  },
+  "modele_retenu": "gradient_boosting",
+  "gain_mae_ic90_bootstrap_reseaux_pct": [
+    0.8,
+    3.2
+  ],
+  "valide_pour_classer": false,
+  "regle": "gain MAE >= 3 % vs moyenne ET Spearman intra-réseau > 0 dans >= 70 % des réseaux",
+  "intervalle_80pct_residus": [
+    -0.224,
+    0.321
+  ],
+  "candidats_06_hors_domaine_pct": 84.6,
+  "candidats_denses_06_hors_domaine_pct": 37.2,
+  "variables_les_plus_hors_domaine_06": {
+    "part_res_secondaires_commune": 0.283,
+    "part_18_24": 0.044,
+    "part_65p": 0.039,
+    "log_arrets_400m": 0.028
+  },
+  "usage_predit_candidats_denses": {
+    "min": 0.048,
+    "mediane": 0.248,
+    "max": 0.403
+  }
+}

@@ -1,5 +1,9 @@
 """Sélectionne 20 sites candidats pour de nouvelles stations Citiz dans les Alpes-Maritimes.
 
+⚠ Script d'exploration conservé pour l'historique. Le modèle d'usage utilisé ici (régression linéaire, R² = 0,03
+sur les données d'apprentissage, sans validation) ne distingue pas les sites. La recommandation de référence est
+produite par decision/ (modèle de potentiel validé hors échantillon, coûts et budget) : voir decision/README.md.
+
 Lecture seule sur citiz_azur/results/candidats.csv. Critères tirés de l'usage observé des stations existantes :
   - l'usage observé monte avec la population à 400 m ET avec la part de ménages sans voiture de la commune
     (INSEE) : régression ajustée sur les stations existantes (sorties/stations_usage_motorisation.csv,

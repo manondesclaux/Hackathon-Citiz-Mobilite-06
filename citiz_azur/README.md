@@ -1,5 +1,11 @@
 # Citiz — où ouvrir dans les Alpes-Maritimes ?
 
+> **Suite de ce prototype** : `../decision/` reprend ses candidats et ses règles (400 m, 800 m, gain marginal sans
+> double compte). Il y ajoute ce qui manquait ici : un modèle prédictif validé hors échantillon (potentiel
+> d'implantation, AUC 0,92 par réseau laissé de côté, relié à l'usage Fabric), des coûts différenciés, des arrêts de
+> bus et des stations vélo, des fréquences GTFS, des distances à pied OSM et les projections Omphale. La
+> recommandation de référence est celle de `../decision/README.md`.
+
 Un prototype Python/Jupyter exécutable, avec de vraies données ouvertes, une segmentation KMeans entraînée et une sélection de dix secteurs sous budget. **Le score est une règle de décision explicable. Ce n'est pas une prédiction de réservations ni de rentabilité.**
 
 ## Ouvrir le projet

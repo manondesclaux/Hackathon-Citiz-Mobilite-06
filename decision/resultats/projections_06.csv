@@ -1,0 +1,10 @@
+scenario,annee,population_milliers,evolution_population_vs_2021_pct,part_25_54_pct,facteur_25_54_vs_2021
+central,2030,1098,0.7,35.8,0.985
+central,2035,1099,0.8,35.4,0.973
+central,2040,1098,0.7,34.9,0.96
+population_basse,2030,1084,-0.6,35.9,0.974
+population_basse,2035,1071,-1.7,35.5,0.951
+population_basse,2040,1055,-3.2,35.0,0.925
+population_haute,2030,1115,2.3,35.7,0.997
+population_haute,2035,1130,3.7,35.2,0.996
+population_haute,2040,1145,5.0,34.7,0.995

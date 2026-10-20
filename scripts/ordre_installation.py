@@ -1,5 +1,9 @@
 """Ordre d'installation des 20 sites (sorties/vingt_stations_azur.csv, produit par vingt_stations_azur.py --repartition).
 
+⚠ Script d'exploration conservé pour l'historique. Le modèle d'usage utilisé ici (régression linéaire, R² = 0,03
+sur les données d'apprentissage, sans validation) ne distingue pas les sites. La recommandation de référence est
+produite par decision/ (modèle de potentiel validé hors échantillon, coûts et budget) : voir decision/README.md.
+
 À chaque étape on choisit le site qui maximise :
     0,6 · succès attendu (occupation prédite, normalisée) + 0,2 · transports + 0,2 · effet de grappe
 Effet de grappe = nombre de sites déjà installés à moins de 1,5 km (saturé à 2) : sur les stations existantes,

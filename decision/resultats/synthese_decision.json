@@ -1,0 +1,56 @@
+{
+  "citiz": {
+    "stations": 20,
+    "vehicules": 43,
+    "budget_annee1_eur": 494100,
+    "habitants_nouveaux": 158884,
+    "cible_25_54_2035_facteur": {
+      "central": 0.973,
+      "population_basse": 0.951,
+      "population_haute": 0.996
+    },
+    "resultat_exploitation_eur_an": {
+      "bas": -7600,
+      "centrale": 24800,
+      "haut": 62700
+    },
+    "co2_evite_t_an": [
+      147,
+      372
+    ],
+    "part_stations_quartiers_modestes": 0.6,
+    "stations_hors_domaine_du_modele": 7,
+    "occupation_moyenne_reseau_citiz": 0.214,
+    "communes": {
+      "Nice": 15,
+      "Antibes": 2,
+      "Cagnes-sur-Mer": 1,
+      "Cannes": 1,
+      "Menton": 1
+    },
+    "comparaison_anciennes_listes": {
+      "vingt_stations_azur": {
+        "sites": 20,
+        "repris_a_moins_de_400m": 8
+      },
+      "citiz_azur_top10": {
+        "sites": 10,
+        "repris_a_moins_de_400m": 2
+      }
+    }
+  },
+  "arrets_bus": {
+    "arrets": 10,
+    "budget_eur": 142000,
+    "habitants_gagnant_un_arret": 9026,
+    "habitants_sans_arret_actif_avant": 96694
+  },
+  "stations_velo": {
+    "stations": 9,
+    "budget_eur_an": 281250,
+    "habitants_nouveaux": 100558,
+    "communes": {
+      "Nice": 9
+    }
+  }
+}

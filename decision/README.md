@@ -1,0 +1,101 @@
+# Pipeline de décision : où ajouter de la mobilité partagée dans les Alpes-Maritimes ?
+
+Ce dossier est **la référence** pour les trois objectifs du sujet. Il remplace, pour la recommandation finale, les
+classements exploratoires de `scripts/vingt_stations_azur.py`, `scripts/ordre_installation.py` et `citiz_azur/top10`.
+Il les reprend et les corrige : modèle validé hors échantillon, coûts différenciés, budget, équité, distances à pied.
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+./decision/run_all.sh            # ~5 min hors téléchargements ; résultats dans decision/resultats/
+open decision/resultats/carte_decision_06.html
+```
+
+Prérequis non versionnés (trop volumineux) : `data_insee/carreaux_200m_2021.zip`
+([INSEE Filosofi 2021, carreaux 200 m](https://www.insee.fr/fr/statistiques/8735162)) et
+`data_insee/logement_2022.zip` ([INSEE, logement 2022, base communale](https://www.insee.fr/fr/statistiques/8581474)).
+Les GTFS du 06, les projections Omphale et le réseau OSM sont téléchargés automatiquement dans `data/raw/`.
+
+## Les étapes
+
+| Étape | Script | Ce qu'elle fait | Sortie principale |
+|---|---|---|---|
+| 0 | `00_frequences_gtfs.py` | Passages par jour ouvré de chaque arrêt (10 flux GTFS du 06), pôles à 30 m | `donnees/poles_arrets_06.csv` |
+| 1 | `01_cible_usage.py` | Occupation des stations Citiz d'après les relevés Fabric, nettoyée | `donnees/usage_stations.csv`, `resultats/qualite_cible.json` |
+| 2 | `02_variables.py` | **Mêmes** variables pour les 1 402 stations Citiz (apprentissage) et les 16 831 carreaux du 06 (prédiction) | `donnees/variables_stations.csv`, `donnees/candidats_06.csv.gz` |
+| 3 | `03_modele_usage.py` | Peut-on prédire l'occupation à court terme ? Validation par réseau laissé de côté | `resultats/modele_usage.json` |
+| 4 | `04_modele_implantation.py` | Modèle de potentiel d'implantation, validé hors échantillon et contre l'usage observé | `resultats/modele_implantation.json` |
+| 5 | `05_accessibilite_06.py` | Objectifs 1 et 2 : options à 5 min par habitant, habitants desservis par chaque point d'accès | `resultats/population_par_point_acces_06.csv`, `resultats/equite_acces_06.json` |
+| 6 | `06_projections.py` | Projections INSEE Omphale (2030-2040, trois scénarios) | `resultats/projections_06.csv` |
+| 7 | `07_optimisation.py` | Objectif 3 : listes priorisées sous budget (Citiz, arrêts de bus, stations vélo), sensibilité | `resultats/stations_citiz_recommandees.csv`, `resultats/synthese_decision.json` |
+| 8 | `08_isochrones.py` | Habitants à 400 m **à pied** sur le réseau OSM, pour chaque site retenu | `resultats/isochrones_sites.csv` |
+| 9 | `09_carte.py` | Carte unique de démonstration (3 objectifs, couches activables) | `resultats/carte_decision_06.html` |
+
+Toutes les hypothèses chiffrées (coûts, budgets, carbone, quota d'équité) sont dans `parametres.json`, avec une
+fourchette, une source et une fiabilité. On les modifie là, puis on relance `07_optimisation.py`.
+
+## Résultats et ce qu'ils valent
+
+### Le modèle d'usage à court terme n'est pas validé, et nous le disons
+
+L'occupation observée (relevés Fabric du 19 au 20/10, moins d'une journée) n'est **pas prévisible** mieux qu'une
+moyenne : gain de MAE de 1,7 % (IC 90 % : 0,8 à 3,2 %), R² hors échantillon ≈ 0. L'ancien modèle de l'équipe
+(population + motorisation communale, R² = 0,03 mesuré sur ses propres données) ne fait pas mieux.
+La règle fixée avant le calcul (gain ≥ 3 % et rang positif dans ≥ 70 % des réseaux) n'est pas remplie : ce modèle
+ne sert donc pas à classer. Cause principale : la fenêtre de mesure. Il faut **plusieurs semaines** de relevés.
+
+### Le modèle de potentiel d'implantation est validé
+
+Question posée : « ce carreau ressemble-t-il aux lieux où Citiz tient une station depuis des années ? ».
+- 1 427 carreaux avec station et 40 000 sans, dans 303 communes et 15 réseaux.
+- **AUC 0,92 hors échantillon**, en prédisant chaque réseau sans l'avoir vu (contre 0,86 pour la densité seule).
+  71 % des stations tombent dans les 10 % de carreaux les mieux notés de leur réseau.
+- **Validation externe par l'usage** : aux stations existantes, le potentiel prédit hors échantillon est lié à
+  l'occupation observée dans Fabric (Spearman 0,17, p < 10⁻⁹). Occupation de 16 % dans le quintile le plus faible
+  contre 23-24 % dans les deux plus forts, avec des intervalles qui ne se recouvrent pas.
+- Variables qui comptent : ménages d'une personne, densité à 400 m, logement collectif, faible part de propriétaires,
+  desserte TC, motorisation de la commune.
+
+### Recommandation Citiz (budget de 500 k€ la première année)
+
+20 stations, 43 véhicules, environ 159 000 habitants nouvellement desservis à 400 m (à vol d'oiseau ; voir les
+isochrones pour la valeur à pied). Les stations sont en majorité à Nice, avec quelques-unes à Antibes,
+Cagnes-sur-Mer, Cannes et Menton. Résultat d'exploitation estimé entre −8 k€ et +63 k€ par an (central : +25 k€).
+De 150 à 370 t de CO₂ évitées par an (ordre de grandeur). 60 % des stations sont dans les quartiers des 40 %
+d'habitants les plus modestes.
+
+**Sensibilité** (`resultats/sensibilite_citiz.csv`) : avec l'ancien critère « population seule », seuls 9 des 20
+sites sont communs. Le potentiel change donc réellement la décision, en échange d'environ 5 % d'habitants desservis
+en moins. Doubler le budget garde les 20 premiers sites.
+
+### Arrêts de bus et stations vélo
+
+- **Arrêts de bus** : 10 arrêts sur des lignes existantes (150 k€), environ 9 000 habitants qui gagnent un arrêt
+  actif à 400 m, pour 12 à 21 € par habitant. Le reste des 97 000 habitants sans arrêt actif vit trop loin d'une
+  ligne : il faudrait une nouvelle ligne, ce qui est hors périmètre.
+- **Stations vélo** : 9 stations en réseau dans le centre de Nice, rabattues sur les pôles les plus desservis
+  (280 k€/an). Le 06 n'a plus de vélos en libre-service en station, seulement du free-floating.
+
+### Accès aujourd'hui (objectifs 1 et 2)
+
+8,7 % des habitants du 06 n'ont aucun arrêt actif à 400 m. Le niveau de service décroît avec le niveau de vie du
+quartier : 91 % des quartiers modestes ont un service TC correct ou fort, contre 56 % des plus aisés, qui sont moins
+denses et plus motorisés. L'enjeu d'équité principal est donc la densité, pas le revenu.
+
+## Limites qui restent
+
+- **Usage** : moins d'une journée de relevés, sans week-end ni saison touristique ; `is_reserved` n'est pas un trajet.
+  Le potentiel décrit où Citiz réussit à s'implanter, pas un nombre de locations.
+- **Extrapolation** : 7 des 20 stations sont hors du domaine d'apprentissage. Trois sites niçois sont plus denses que
+  toutes les stations Citiz existantes, et quatre sites de Cannes, Antibes et Menton ont plus de résidences
+  secondaires. Ils sont signalés dans la carte et le CSV.
+- **Biais du modèle** : il apprend aussi les contraintes de Citiz (stationnement, partenariats). Les stations fermées
+  ne sont pas observées.
+- **Coûts** : fiabilité faible à moyenne (`parametres.json`), à remplacer par les chiffres réels de Citiz et de
+  l'autorité organisatrice.
+- **Carbone** : ordre de grandeur fondé sur les enquêtes 6t-ADEME, pas une mesure.
+- **Population** : résidents Filosofi 2021. Le tourisme n'entre que par la part de résidences secondaires de la
+  commune. Les projections Omphale ne changent que les volumes (−3 % pour la cible 25-54 ans en 2035, scénario
+  central), pas le classement.
+- **Périmètre** : Alpes-Maritimes, choisi parce que Citiz y est absent alors que les échecs passés (Auto Bleue,
+  Mobilize Share) montrent qu'une demande existe. Les DROM ne sont pas traités.

@@ -1,0 +1,72 @@
+[
+  {
+    "reseau": "Trains régionaux ZOU ! - Transdev Rail Sud Intermétropole",
+    "jour_type": "2026-10-20",
+    "services_actifs": 4,
+    "arrets": 12,
+    "passages": 251
+  },
+  {
+    "reseau": "Réseau urbain ENVIBUS",
+    "jour_type": "2026-10-20",
+    "services_actifs": 83,
+    "arrets": 682,
+    "passages": 27979
+  },
+  {
+    "reseau": "Réseau interurbain Express ZOU !",
+    "jour_type": "2026-10-20",
+    "services_actifs": 185,
+    "arrets": 709,
+    "passages": 12794
+  },
+  {
+    "reseau": "Trains régionaux ZOU !",
+    "jour_type": "2026-10-20",
+    "services_actifs": 145,
+    "arrets": 282,
+    "passages": 9387
+  },
+  {
+    "reseau": "Réseau urbain Lignes d'Azur",
+    "jour_type": "2026-10-20",
+    "services_actifs": 93,
+    "arrets": 2845,
+    "passages": 148882
+  },
+  {
+    "reseau": "Réseau urbain Zest",
+    "jour_type": "2026-10-20",
+    "services_actifs": 10,
+    "arrets": 716,
+    "passages": 13476
+  },
+  {
+    "reseau": "Réseau urbain Palmbus",
+    "jour_type": "2026-10-20",
+    "services_actifs": 1,
+    "arrets": 932,
+    "passages": 49023
+  },
+  {
+    "reseau": "Réseau urbain et scolaire Sillages",
+    "jour_type": "2026-10-20",
+    "services_actifs": 0,
+    "arrets": 739,
+    "passages": 0
+  },
+  {
+    "reseau": "Réseau urbain et scolaire Sillages",
+    "jour_type": "2026-10-20",
+    "services_actifs": 5,
+    "arrets": 542,
+    "passages": 14736
+  },
+  {
+    "reseau": "Réseau interurbain bus Proximité ZOU !",
+    "jour_type": "2026-10-20",
+    "services_actifs": 56,
+    "arrets": 3816,
+    "passages": 61819
+  }
+]

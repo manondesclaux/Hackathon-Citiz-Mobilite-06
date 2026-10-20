@@ -1,0 +1,45 @@
+{
+  "fenetre": [
+    "2026-10-19 14:31:38.353759+00:00",
+    "2026-10-20 12:38:19.050772+00:00"
+  ],
+  "duree_jours": 0.92,
+  "releves_bruts": 78,
+  "releves_complets": 75,
+  "vehicules": 2632,
+  "vehicules_toujours_reserves_exclus": 434,
+  "stations_avec_cible": 1407,
+  "reseaux": 15,
+  "occupation_jour_moyenne": 0.213,
+  "stations_occupation_nulle": 0.284,
+  "profil_horaire_pct": {
+    "0": 6.4,
+    "1": 5.8,
+    "2": 5.4,
+    "3": 5.4,
+    "4": 5.4,
+    "5": 5.8,
+    "6": 7.3,
+    "7": 11.6,
+    "8": 20.0,
+    "9": 25.8,
+    "10": 30.8,
+    "11": 30.3,
+    "12": 28.2,
+    "13": 28.6,
+    "14": 30.4,
+    "16": 23.2,
+    "17": 20.3,
+    "18": 15.8,
+    "19": 12.6,
+    "20": 10.5,
+    "21": 9.8,
+    "22": 8.4,
+    "23": 7.2
+  },
+  "limites": [
+    "Fenêtre de moins d'une journée, deux jours ouvrés d'octobre, sans week-end ni saison touristique.",
+    "is_reserved n'est pas un trajet ; aucune durée ni recette n'est observée.",
+    "Les stations à un seul véhicule ont une occupation très bruitée (0 ou 1 la plupart du temps)."
+  ]
+}

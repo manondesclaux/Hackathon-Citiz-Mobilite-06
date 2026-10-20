@@ -1,0 +1,58 @@
+{
+  "apprentissage": {
+    "positifs": 1427,
+    "negatifs": 40000,
+    "reseaux": 15,
+    "communes": 303
+  },
+  "validation": "GroupKFold par réseau Citiz (hors échantillon)",
+  "auc": 0.922,
+  "auc_reference_densite_seule": 0.863,
+  "precision_moyenne": 0.481,
+  "taux_positifs": 0.034,
+  "auc_par_reseau": {
+    "Citiz Angers": 0.896,
+    "Citiz Auvergne-Rhône-Alpes": 0.933,
+    "Citiz Bourgogne-Franche-Comté": 0.893,
+    "Citiz Développement": 0.855,
+    "Citiz Gironde": 0.947,
+    "Citiz Grand Est": 0.915,
+    "Citiz Grand Poitiers": 0.88,
+    "Citiz Hauts-de-France": 0.925,
+    "Citiz La Rochelle": 0.828,
+    "Citiz Lyon": 0.955,
+    "Citiz Nantes": 0.915,
+    "Citiz Occitanie": 0.931,
+    "Citiz Pays Basque": 0.967,
+    "Citiz Provence": 0.973,
+    "Citiz Rennes": 0.919
+  },
+  "part_stations_dans_top10pct_de_leur_reseau": 0.692,
+  "validation_externe_usage": {
+    "stations": 1242,
+    "spearman_potentiel_vs_occupation": 0.174,
+    "p_valeur": 6.2e-10,
+    "occupation_par_quintile": {
+      "Q1 (faible)": 0.158,
+      "Q2": 0.198,
+      "Q3": 0.205,
+      "Q4": 0.237,
+      "Q5 (fort)": 0.233
+    }
+  },
+  "candidats_06": {
+    "n": 16831,
+    "comparables_a_station_citiz_mediane": 236,
+    "habitants_dans_ces_carreaux": 149078
+  },
+  "importance": {
+    "part_men_1pers": 0.0233,
+    "log_pop_400m": 0.0203,
+    "part_men_collectif": 0.0184,
+    "part_men_proprietaires": 0.018,
+    "log_arrets_400m": 0.0085,
+    "part_sans_voiture_commune": 0.0071,
+    "log_dist_gare": 0.0068,
+    "part_25_54": 0.0062
+  }
+}

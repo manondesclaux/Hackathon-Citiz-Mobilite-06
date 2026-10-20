@@ -1,5 +1,9 @@
 """Nombre et type de véhicules recommandés par site — version prudente, proche de la pratique du réseau Citiz.
 
+⚠ Script d'exploration conservé pour l'historique. Le modèle d'usage utilisé ici (régression linéaire, R² = 0,03
+sur les données d'apprentissage, sans validation) ne distingue pas les sites. La recommandation de référence est
+produite par decision/ (modèle de potentiel validé hors échantillon, coûts et budget) : voir decision/README.md.
+
 Réseau existant : 49 % des stations ont 1 voiture, 37 % en ont 2, seulement 14 % en ont 3 ou plus et 5 % en ont 4 ou plus.
 Règle : 2 véhicules par site, 3 si la population à 400 m dépasse 9 000 habitants, jamais 4 au démarrage.
 (À 2 véhicules la rupture de disponibilité en journée est ≈14 %, à 3 ≈10 %.) À ajuster ensuite avec l'usage réel :

@@ -1,0 +1,34 @@
+{
+  "_lire": "Hypothèses chiffrées du pipeline. Chaque valeur a une fourchette, une source et une fiabilité. Modifier ici, puis relancer 07_optimisation.py. Les valeurs 'centrale' servent au scénario de référence.",
+  "citiz": {
+    "budget_annee1_eur": {"centrale": 500000, "source": "Hypothèse de démonstration de l'équipe (identique à citiz_azur)", "fiabilite": "hypothèse"},
+    "installation_station_eur": {"bas": 2000, "centrale": 6000, "haut": 10000, "source": "Hypothèse équipe : signalétique, marquage, boîtier ; aucune source publique", "fiabilite": "faible"},
+    "exploitation_vehicule_eur_an": {"bas": 6000, "centrale": 7500, "haut": 9000, "source": "CA Citiz S1 2024 x 2 / 2 560 véhicules ≈ 8 700 €/véhicule/an, opérateur à faible marge (Le Journal des Entreprises, 2024)", "url": "https://www.lejournaldesentreprises.com/article/la-cooperative-dautopartage-citiz-affiche-une-forte-croissance-au-premier-semestre-2024-2104866", "fiabilite": "moyenne"},
+    "stationnement_vehicule_eur_an": {"bas": 0, "centrale": 1200, "haut": 1500, "source": "Places d'autopartage à Paris (Que Choisir) ; souvent gratuit avec le label autopartage d'une collectivité (label Métropole Nice Côte d'Azur)", "url": "https://www.quechoisir.org/actualite-autopartage-a-paris-des-solutions-subsistent-n167464/", "fiabilite": "moyenne"},
+    "recette_vehicule_eur_an_a_occupation_moyenne": {"centrale": 8700, "source": "CA Citiz S1 2024 x 2 / 2 560 véhicules ; proportionnelle à l'occupation attendue, rapportée à l'occupation moyenne observée du réseau", "fiabilite": "moyenne"},
+    "vehicules_par_station": {"regle": "2, ou 3 si plus de 9 000 habitants à 400 m", "source": "Pratique du réseau : 49 % des stations à 1 véhicule, 37 % à 2 (scripts/flotte_recommandee.py)", "fiabilite": "moyenne"},
+    "espacement_min_m": 800,
+    "population_400m_min": 1500,
+    "quota_equite_part_min": {"centrale": 0.3, "definition": "part minimale des stations dans les quartiers des deux quintiles de niveau de vie les plus modestes (40 % des habitants)", "source": "Choix éthique explicite de l'équipe, désactivable (0)", "fiabilite": "choix"}
+  },
+  "arret_bus": {
+    "budget_eur": {"centrale": 150000, "source": "Hypothèse de démonstration pour une autorité organisatrice", "fiabilite": "hypothèse"},
+    "cout_investissement_eur": {"bas": 7700, "centrale": 14200, "haut": 20700, "detail": "quai accessible PMR 5 500-13 700 € + abri 2 200-7 000 €", "source": "Tableaux de bord communaux belges (Beyne-Heusay, Remicourt 2026) ; pas de barème français public trouvé", "fiabilite": "faible"},
+    "distance_arret_existant_m": {"min": 400, "max": 800, "raison": "un nouvel arrêt n'est réaliste que sur une ligne existante : on cherche les trous de desserte entre 400 et 800 m d'un arrêt actif ; au-delà, il faut une nouvelle ligne (hors périmètre)"}
+  },
+  "station_velo": {
+    "budget_eur_an": {"centrale": 300000, "source": "Hypothèse de démonstration pour une collectivité", "fiabilite": "hypothèse"},
+    "velos_par_station": {"centrale": 12.5, "source": "CGDD 2008 : 32 000 vélos pour 2 500 stations", "fiabilite": "moyenne"},
+    "cout_velo_eur_an": {"bas": 2000, "centrale": 2500, "haut": 3000, "source": "Enquête GART citée par la Banque des Territoires ; Toulouse ≈ 2 000 €/vélo/an", "url": "https://www.banquedesterritoires.fr/velos-en-libre-service-un-bilan-coutsavantages-juge-globalement-equilibre", "fiabilite": "moyenne"},
+    "distance_pole_tc_fort_max_m": {"centrale": 300, "raison": "intermodalité : rabattement vers un pôle à plus de 240 passages par jour"},
+    "population_400m_min": 2000
+  },
+  "carbone": {
+    "_avertissement": "Ordre de grandeur pour la discussion, pas une mesure. À recalculer avec les données d'usage réelles de Citiz.",
+    "voitures_personnelles_remplacees_par_vehicule": {"bas": 5, "haut": 8, "source": "Enquête nationale sur l'autopartage, 6t-bureau de recherche pour l'ADEME (2019, actualisée 2022)", "fiabilite": "moyenne"},
+    "km_annuels_voiture_personnelle": {"centrale": 12000, "source": "SDES, bilan annuel des transports (ordre de grandeur)", "fiabilite": "moyenne"},
+    "part_km_voiture_evites": {"bas": 0.3, "haut": 0.41, "source": "Baisse des kilomètres en voiture des autopartageurs (6t-ADEME) ; borne basse prudente de l'équipe", "fiabilite": "moyenne"},
+    "facteur_emission_kgco2e_km": {"bas": 0.19, "haut": 0.22, "source": "ADEME, Base Empreinte : voiture particulière moyenne (combustion, amont compris)", "fiabilite": "moyenne"}
+  },
+  "projections": {"horizons": [2030, 2035, 2040], "source": "INSEE, Omphale 2022, scénarios central, population basse et haute", "url": "https://www.insee.fr/fr/statistiques/6652134"}
+}
