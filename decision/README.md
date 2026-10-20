@@ -62,7 +62,12 @@ Question posée : « ce carreau ressemble-t-il aux lieux où Citiz tient une sta
 **environ 67 000 à 5 minutes à pied** sur le réseau OSM (42 %). Les sites en hauteur de Nice (Costabella, Denis Semeria,
 Valrose, Gravier) ne touchent à pied que 11 à 22 % des habitants comptés à vol d'oiseau, contre 50 à 75 %
 pour les sites du centre de Nice et d'Antibes : ils sont à revoir en priorité. Les stations sont en majorité à Nice, avec quelques-unes à Antibes,
-Cagnes-sur-Mer, Cannes et Menton. Résultat d'exploitation estimé entre −8 k€ et +63 k€ par an (central : +25 k€).
+Cagnes-sur-Mer, Cannes et Menton.
+**Rentabilité : un seuil, pas une prédiction.** Sans les recettes ni les réservations par station, le résultat
+d'exploitation n'est pas prédictible : selon les coûts et l'occupation retenus (`parametres.json`), il va de −84 k€ à
++180 k€ par an pour les 43 véhicules. L'information utile est le seuil : avec 8 700 € de charges par véhicule et
+par an (central), une station est à l'équilibre à **21 % d'occupation**, la moyenne actuelle du réseau Citiz ; à
+15 % si la Métropole offre le stationnement (6 000 €), à 26 % avec des coûts hauts (10 500 €).
 De 150 à 370 t de CO₂ évitées par an (ordre de grandeur). 60 % des stations sont dans les quartiers des 40 %
 d'habitants les plus modestes.
 
@@ -93,8 +98,11 @@ denses et plus motorisés. L'enjeu d'équité principal est donc la densité, pa
   secondaires. Ils sont signalés dans la carte et le CSV.
 - **Biais du modèle** : il apprend aussi les contraintes de Citiz (stationnement, partenariats). Les stations fermées
   ne sont pas observées.
-- **Coûts** : fiabilité faible à moyenne (`parametres.json`), à remplacer par les chiffres réels de Citiz et de
-  l'autorité organisatrice.
+- **Coûts et recettes** : fiabilité faible à moyenne (`parametres.json`), à remplacer par les chiffres réels de Citiz
+  et de l'autorité organisatrice. La recette de 8 700 € par véhicule est une moyenne nationale d'un réseau mûr : elle
+  ignore la montée en charge d'une nouvelle station et la durée réelle des locations. Les colonnes `resultat_eur_an_*`
+  de `stations_citiz_recommandees.csv` ne font varier que l'occupation, à coûts centraux : ce ne sont pas des
+  prévisions.
 - **Carbone** : ordre de grandeur fondé sur les enquêtes 6t-ADEME, pas une mesure.
 - **Distances à pied** : calculées sur les sites retenus seulement, pas sur tous les candidats ; le classement
   repose encore sur le vol d'oiseau. Pour les arrêts de bus, le point testé est le centre d'un carreau périurbain,

@@ -44,8 +44,11 @@ Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floa
   Nice (280 k€/an).
 
 ## 8. Ce que cela rapporte à Citiz
-- Résultat d'exploitation estimé entre −8 k€ et +63 k€ par an (central : +25 k€), pour une recette de 8 700 € par
-  véhicule à l'occupation moyenne du réseau.
+- Pas de résultat chiffré : sans les réservations et recettes par station, il n'est pas prédictible (de −84 k€ à
+  +180 k€ par an selon les hypothèses).
+- Le seuil de rentabilité : une station est à l'équilibre à **21 % d'occupation**, la moyenne actuelle du réseau
+  (8 700 € de charges par véhicule et par an). À 15 % si la Métropole offre le stationnement, à 26 % avec des coûts
+  hauts. Nos sites ressemblent à vos stations qui atteignent ce niveau ailleurs.
 - Sensibilité : seuls 9 sites sur 20 seraient retenus avec la population seule. Le modèle change donc réellement la
   décision.
 - Pourquoi Citiz réussirait là où d'autres ont échoué : modèle coopératif en boucle, flotte hybride, quartiers
@@ -70,6 +73,7 @@ Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floa
 ## Démo (2 minutes)
 1. Ouvrir `decision/resultats/carte_decision_06.html`.
 2. Couche 1 : montrer le contraste entre le centre de Nice et l'arrière-pays.
-3. Couche 3 : cliquer sur la station n° 1, puis lire le potentiel, l'intervalle d'occupation et le résultat.
+3. Couche 3 : cliquer sur la station n° 1, puis lire le potentiel et l'intervalle d'occupation, à comparer au seuil
+   de 21 %.
 4. Modifier `budget_annee1_eur` dans `parametres.json`, relancer `07_optimisation.py` puis `09_carte.py`, et
    recharger la carte.
