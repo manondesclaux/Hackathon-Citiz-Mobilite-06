@@ -1,0 +1,16 @@
+{
+  "notebook_code_cells_executed": 10,
+  "errors": 0,
+  "selected": 10,
+  "budget_eur": 500000.0,
+  "new_population_unique": 54706.0,
+  "checks": [
+    "budget",
+    "distance Citiz",
+    "espacement",
+    "quota communal",
+    "union population sans double compte",
+    "population contrôlée sur Parquet national",
+    "HTML carte intégré au notebook"
+  ]
+}

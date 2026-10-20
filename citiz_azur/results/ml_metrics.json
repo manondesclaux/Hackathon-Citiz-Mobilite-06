@@ -1,0 +1,14 @@
+{
+  "method": "KMeans",
+  "k": 3,
+  "silhouette": 0.477907243239593,
+  "n_candidates": 16873,
+  "silhouette_by_k": {
+    "2": 0.4475370423350549,
+    "3": 0.477907243239593,
+    "4": 0.3879449822649011,
+    "5": 0.4055241359779907,
+    "6": 0.4226416922133274
+  },
+  "meaning": "Segmentation descriptive ; aucun taux de réservation prédit."
+}

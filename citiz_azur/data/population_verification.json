@@ -1,0 +1,10 @@
+{
+  "status": "verified",
+  "scope": "Tous les carreaux nationaux au sud de N=2400000 EPSG:3035, contenant le périmètre 06 étudié",
+  "national_cells_compared": 477401,
+  "selected_cells": 16873,
+  "selected_population": 1107758.0,
+  "parquet_source": "https://static.data.gouv.fr/resources/revenus-pauvrete-et-niveau-de-vie-donnees-carroyees-dispositif-fichier-localise-social-et-fiscal-filosofi/20260309-120901/carreaux-200m-met-3035-2021.parquet",
+  "csv_source": "https://www.insee.fr/fr/statistiques/fichier/8735162/Filosofi2021_carreaux_200m_csv.zip",
+  "method": "Le ZIP INSEE a été interrompu après le préfixe sud du CSV. Egalité exacte des identifiants avec le Parquet complet pour N<2400000 et égalité des populations à 0.001 près. Tous les carreaux du périmètre sélectionné sont dans cet ensemble."
+}
