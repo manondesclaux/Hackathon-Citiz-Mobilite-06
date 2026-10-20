@@ -58,8 +58,10 @@ Question posée : « ce carreau ressemble-t-il aux lieux où Citiz tient une sta
 
 ### Recommandation Citiz (budget de 500 k€ la première année)
 
-20 stations, 43 véhicules, environ 159 000 habitants nouvellement desservis à 400 m (à vol d'oiseau ; voir les
-isochrones pour la valeur à pied). Les stations sont en majorité à Nice, avec quelques-unes à Antibes,
+20 stations, 43 véhicules, environ 159 000 habitants nouvellement desservis à 400 m à vol d'oiseau, soit
+**environ 67 000 à 5 minutes à pied** sur le réseau OSM (42 %). Les sites en hauteur de Nice (Costabella, Denis Semeria,
+Valrose, Gravier) ne touchent à pied que 11 à 22 % des habitants comptés à vol d'oiseau, contre 50 à 75 %
+pour les sites du centre de Nice et d'Antibes : ils sont à revoir en priorité. Les stations sont en majorité à Nice, avec quelques-unes à Antibes,
 Cagnes-sur-Mer, Cannes et Menton. Résultat d'exploitation estimé entre −8 k€ et +63 k€ par an (central : +25 k€).
 De 150 à 370 t de CO₂ évitées par an (ordre de grandeur). 60 % des stations sont dans les quartiers des 40 %
 d'habitants les plus modestes.
@@ -94,6 +96,9 @@ denses et plus motorisés. L'enjeu d'équité principal est donc la densité, pa
 - **Coûts** : fiabilité faible à moyenne (`parametres.json`), à remplacer par les chiffres réels de Citiz et de
   l'autorité organisatrice.
 - **Carbone** : ordre de grandeur fondé sur les enquêtes 6t-ADEME, pas une mesure.
+- **Distances à pied** : calculées sur les sites retenus seulement, pas sur tous les candidats ; le classement
+  repose encore sur le vol d'oiseau. Pour les arrêts de bus, le point testé est le centre d'un carreau périurbain,
+  souvent loin de la route : la valeur à pied (≈ 2 800 habitants) est pessimiste, il faut placer l'arrêt sur la ligne.
 - **Population** : résidents Filosofi 2021. Le tourisme n'entre que par la part de résidences secondaires de la
   commune. Les projections Omphale ne changent que les volumes (−3 % pour la cible 25-54 ans en 2035, scénario
   central), pas le classement.

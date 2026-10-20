@@ -8,8 +8,8 @@ Citiz est absent des Alpes-Maritimes (1,1 million d'habitants). Deux opérateurs
 2018, Mobilize Share en 2026. Question : **où ouvrir, pour qui, à quel coût, sans répéter ces échecs ?**
 
 ## 2. Notre réponse en une phrase
-20 stations et 43 véhicules pour 500 k€ la première année, d'abord à Nice. Environ 159 000 habitants nouvellement
-à 5 minutes à pied d'une voiture partagée (valeur à vol d'oiseau, corrigée à pied sur la diapo 7).
+20 stations et 43 véhicules pour 500 k€ la première année, d'abord à Nice. Environ 67 000 habitants nouvellement
+à 5 minutes à pied d'une voiture partagée (réseau piéton OSM ; 159 000 à vol d'oiseau).
 
 ## 3. Objectif 1 : qui a accès à quoi aujourd'hui (carte, couche 1)
 - 8,7 % des habitants n'ont aucun arrêt de transport actif à 400 m.
@@ -38,7 +38,8 @@ Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floa
   deux stations, plafond par commune, quota d'équité.
 - Trois vagues : 5 sites au centre de Nice ; puis Nice, Cagnes-sur-Mer et Antibes ; puis Nice, Cannes, Menton et
   Antibes.
-- Distances à pied (OSM) : voir `isochrones_sites.csv` pour la part d'habitants réellement à 5 minutes.
+- Distances à pied (OSM) : 42 % des habitants comptés à vol d'oiseau sont réellement à 5 minutes. Les sites en
+  hauteur (Costabella, Denis Semeria, Valrose, Gravier) tombent à 11-22 % : ce sont les premiers à remplacer.
 - Pour l'autorité organisatrice : 10 arrêts de bus (150 k€, 12 à 21 € par habitant desservi) et 9 stations vélo à
   Nice (280 k€/an).
 

@@ -1,0 +1,40 @@
+equipement,rang,commune,lat,lon,habitants_400m_vol_oiseau,habitants_400m_a_pied,ratio_a_pied,raccordement_site_m
+station Citiz,1,Nice,43.70234,7.28787,15052,7645,0.51,10
+station Citiz,2,Nice,43.70884,7.26031,13267,6638,0.5,14
+station Citiz,3,Nice,43.70149,7.25571,12892,6544,0.51,24
+station Citiz,4,Nice,43.70549,7.27038,8934,4706,0.53,7
+station Citiz,5,Nice,43.70969,7.29248,8924,4454,0.5,12
+station Citiz,6,Nice,43.71585,7.25255,8373,2502,0.3,6
+station Citiz,7,Nice,43.72319,7.25716,8367,1858,0.22,33
+station Citiz,8,Nice,43.70028,7.27805,7338,3602,0.49,4
+station Citiz,9,Cagnes-sur-Mer,43.65886,7.14881,6400,2318,0.36,23
+station Citiz,10,Nice,43.72473,7.24717,7151,3646,0.51,22
+station Citiz,11,Nice,43.67899,7.22458,6893,752,0.11,40
+station Citiz,12,Antibes,43.58043,7.12052,6645,4960,0.75,3
+station Citiz,13,Cannes,43.56305,7.01759,7286,2438,0.33,25
+station Citiz,14,Nice,43.69415,7.2511,6338,2365,0.37,41
+station Citiz,15,Nice,43.7149,7.2848,6528,970,0.15,32
+station Citiz,16,Nice,43.71618,7.26492,5858,1212,0.21,14
+station Citiz,17,Nice,43.70756,7.28019,5795,3372,0.58,17
+station Citiz,18,Nice,43.69208,7.24129,5655,1612,0.29,8
+station Citiz,19,Menton,43.77433,7.4928,5746,1738,0.3,8
+station Citiz,20,Antibes,43.57114,7.1111,5442,3350,0.62,5
+station vélo,1,Nice,43.70415,7.28778,14986,1132,0.08,7
+station vélo,2,Nice,43.71329,7.29231,12443,5425,0.44,17
+station vélo,3,Nice,43.70369,7.27046,9148,5075,0.55,15
+station vélo,4,Nice,43.70884,7.26031,13267,6638,0.5,14
+station vélo,5,Nice,43.70149,7.25571,12892,6544,0.51,24
+station vélo,6,Nice,43.71778,7.25741,11721,3798,0.32,35
+station vélo,7,Nice,43.72306,7.25221,10816,4112,0.38,43
+station vélo,8,Nice,43.70034,7.28053,7957,4839,0.61,7
+station vélo,9,Nice,43.72211,7.28446,7328,2714,0.37,46
+arrêt de bus,1,La Colle-sur-Loup,43.67579,7.10836,1181,394,0.33,75
+arrêt de bus,2,Pégomas,43.60024,6.9316,1372,652,0.48,18
+arrêt de bus,3,La Trinité,43.73738,7.31597,1850,24,0.01,72
+arrêt de bus,4,Villeneuve-Loubet,43.63813,7.11766,914,166,0.18,189
+arrêt de bus,5,Villeneuve-Loubet,43.66871,7.11367,1852,693,0.37,36
+arrêt de bus,6,La Colle-sur-Loup,43.68626,7.09546,894,327,0.37,28
+arrêt de bus,7,Villeneuve-Loubet,43.62905,7.11564,840,99,0.12,66
+arrêt de bus,8,Mouans-Sartoux,43.61742,6.96285,941,212,0.23,16
+arrêt de bus,9,Grasse,43.63976,6.92456,884,145,0.16,1
+arrêt de bus,10,Biot,43.63397,7.09807,700,104,0.15,22
