@@ -1,0 +1,655 @@
+operator,network,model,lat,lon,name,n_stations,n_vehicles,commune_code,commune_nom,dep
+Clem',Clem' national,station,14.602655,-61.072818,City Mobilité - Croisière (base vie) 1 2,2,2.0,,,
+Clem',Clem' national,station,14.603159,-61.073538,City Mobilité - Pointe Simon 1 2,2,2.0,,,
+Clem',Clem' national,station,14.6044,-61.06808,City Mobilité - Croisière (base vie) 2 2,16,16.0,97209,Fort-de-France,972
+Clem',Clem' national,station,14.608308,-61.06776,City Mobilité - Lafcadio 2 2,4,4.0,97209,Fort-de-France,972
+Clem',Clem' national,station,41.419415,2.19647,TACTIC - BARCELONA C de Menorca,1,1.0,,,
+Clem',Clem' national,station,42.824394,2.432547,Prugnanes - Station Forage - Dacia Spring,1,1.0,66152,Prugnanes,66
+Clem',Clem' national,station,43.005122,2.626964,Villerouge Termenes - e-Rifter,2,2.0,11435,Villerouge-Termenès,11
+Clem',Clem' national,station,43.026185,1.799821,DUN - Allee de l'Ecole 1,1,1.0,09107,Dun,09
+Clem',Clem' national,station,43.10326,5.85403,FLORA VERDE Seyne sur Mer guichet 2,1,1.0,83126,La Seyne-sur-Mer,83
+Clem',Clem' national,station,43.244465,2.996716,Cuxac d Aude - Parking Mairie,1,1.0,11116,Cuxac-d'Aude,11
+Clem',Clem' national,station,43.41836,5.03613,DOMAINE MANON - Martigues 2,2,2.0,13056,Martigues,13
+Clem',Clem' national,station,43.94304,4.8223,LATITUDE PROV / LATITUDE PROVENCE-COGEDIM 1,1,1.0,84007,Avignon,84
+Clem',Clem' national,station,43.97773,6.5947,ALLONS Pkg du Vergeroun,1,1.0,04005,Allons,04
+Clem',Clem' national,station,44.012894,4.412215,PAYS D'UZES- CCPU- ZOE 1,1,1.0,30334,Uzès,30
+Clem',Clem' national,station,44.044159,4.444591,ST QUENTIN LA POTERIE,1,1.0,30295,Saint-Quentin-la-Poterie,30
+Clem',Clem' national,station,44.515172,3.255386,CC GEVAUDAN - Le Monastier,1,1.0,48099,Bourgs sur Colagne,48
+Clem',Clem' national,station,44.683961,2.85062,CCACV - LAGUIOLE PMS,1,1.0,12119,Laguiole,12
+Clem',Clem' national,station,44.7142,5.05672,3CPS Aouste sur Sye Mairie e208,1,1.0,26011,Aouste-sur-Sye,26
+Clem',Clem' national,station,44.729232,5.017153,3CPS Gare de Crest e208 2,2,2.0,26108,Crest,26
+Clem',Clem' national,station,44.73654,4.97816,CCVD Eurre-Ecosite - ZOE,1,1.0,26125,Eurre,26
+Clem',Clem' national,station,44.754448,4.820024,CCVD Place du 19 mars 1962 - ZOE,1,1.0,26166,Loriol-sur-Drôme,26
+Clem',Clem' national,station,44.996632,0.822573,Le PeriVoit - Cendrieux,1,1.0,24362,Val de Louyre et Caudeau,24
+Clem',Clem' national,station,45.02639,0.718485,Le PeriVoit - Vergt - Zoe 02,1,1.0,24571,Vergt,24
+Clem',Clem' national,station,45.162396,1.534388,LIBEO AUTOPARTAGE - BRIVE - RENAULT R4 - Place du 14 juillet,2,2.0,19031,Brive-la-Gaillarde,19
+Clem',Clem' national,station,45.25814,1.47683,LIBEO AUTOPARTAGE - ALLASSAC R3 - RENAULT,1,1.0,19005,Allassac,19
+Clem',Clem' national,station,45.26464,1.40706,LIBEO AUTOPARTAGE - OBJAT R2 - RENAULT,1,1.0,19153,Objat,19
+Clem',Clem' national,station,45.305756,0.872813,Le PeriVoit - Sorges - Zoe,1,1.0,24540,Sorges et Ligueux en Périgord,24
+Clem',Clem' national,station,45.36991,4.20053,AUREC Maison des Associations - Berlingo N 025,3,3.0,43012,Aurec-sur-Loire,43
+Clem',Clem' national,station,45.550682,3.738078,Ambert Scooter HC-020-LJ,2,2.0,63003,Ambert,63
+Clem',Clem' national,station,45.56918,3.63499,Saint Amand Voiturette HA-390-PQ,1,1.0,63314,Saint-Amant-Roche-Savine,63
+Clem',Clem' national,station,45.576237,2.804125,Mont-Dore Voiture DW-125-JD,2,2.0,63236,Mont-Dore,63
+Clem',Clem' national,station,45.68515,2.80096,On y va avec l autopartage Artense,1,1.0,63305,Rochefort-Montagne,63
+Clem',Clem' national,station,45.753565,3.131577,Aubière Scooter HC-142-LJ,1,1.0,63014,Aubière,63
+Clem',Clem' national,station,45.7553,3.1346,Aubière Scooter HM-102-BD,1,1.0,63014,Aubière,63
+Clem',Clem' national,station,45.7603,5.69193,Bugey Sud - Belley 2,2,2.0,01034,Belley,01
+Clem',Clem' national,station,45.833404,2.852828,Pontgibaud Scooter HC-094-LJ,2,2.0,63285,Pontgibaud,63
+Clem',Clem' national,station,45.84326,5.7794,Bugey Sud-Gare de Culoz Beon,1,1.0,01138,Culoz-Béon,01
+Clem',Clem' national,station,45.84772,5.65417,Bugey Sud-Gare Virieu le Grand,1,1.0,01452,Virieu-le-Grand,01
+Clem',Clem' national,station,45.848008,3.536623,Clermont-Fd Voiturette HG-438-QQ,2,2.0,63430,Thiers,63
+Clem',Clem' national,station,45.8545,3.5447,Thiers Scooter HC-115-LJ,1,1.0,63430,Thiers,63
+Clem',Clem' national,station,45.865998,2.674779,On y va Pontaumur Halle des sports,1,1.0,63283,Pontaumur,63
+Clem',Clem' national,station,45.89,4.440043,Gare SNCF - Tarare Zoe,1,1.0,69243,Tarare,69
+Clem',Clem' national,station,45.93378,2.83646,On y va avec l autopartage St Georges de Mons R5,1,1.0,63349,Saint-Georges-de-Mons,63
+Clem',Clem' national,station,45.98117,3.08968,On y va avec l autopartage Combronde R5,1,1.0,63116,Combronde,63
+Clem',Clem' national,station,46.07994,6.718,CARE SAMOENS - SEVE - Zoe,1,1.0,74258,Samoëns,74
+Clem',Clem' national,station,46.0974,3.20437,CCSPSL-GARE DE GANNAT,1,1.0,03118,Gannat,03
+Clem',Clem' national,station,46.161042,2.834496,On y va avec l autopartage St Eloy R5,1,1.0,63338,Saint-Éloy-les-Mines,63
+Clem',Clem' national,station,46.17454,2.839275,Saint-Eloy Voiturette HF-405-KT,2,2.0,63338,Saint-Éloy-les-Mines,63
+Clem',Clem' national,station,46.185333,6.235194,CARE PROMOTION - MAGNOLIA ANNEMASSE,1,1.0,74012,Annemasse,74
+Clem',Clem' national,station,46.22389,2.98523,CCSPSL-GARE DE LOUROUX DE BOUBLE,1,1.0,03152,Louroux-de-Bouble,03
+Clem',Clem' national,station,46.546697,1.748003,REMI - Cluis,1,1.0,36056,Cluis,36
+Clem',Clem' national,station,46.561918,2.198948,REMI - Chateaumeillant e208,1,1.0,18057,Châteaumeillant,18
+Clem',Clem' national,station,46.591742,1.517808,REMI - Argenton 2 - Parking gare,1,1.0,36006,Argenton-sur-Creuse,36
+Clem',Clem' national,station,46.591754,1.517832,REMI - Argenton 1 - Parking gare,1,1.0,36006,Argenton-sur-Creuse,36
+Clem',Clem' national,station,46.596039,1.80667,REMI - Neuvy st Sepulchre,1,1.0,36141,Neuvy-Saint-Sépulchre,36
+Clem',Clem' national,station,46.598525,2.49558,REMI - Saulzais le Potier,1,1.0,18245,Saulzais-le-Potier,18
+Clem',Clem' national,station,46.794079,3.969325,NiVa Luzy,1,1.0,58149,Luzy,58
+Clem',Clem' national,station,46.8077,1.043161,REMI - Martizay e208,1,1.0,36113,Martizay,36
+Clem',Clem' national,station,46.81995,1.207862,REMI - Mezieres en Brenne,1,1.0,36123,Mézières-en-Brenne,36
+Clem',Clem' national,station,46.84463,4.63194,AUTOZOOM ST Leger sur Dheune,1,1.0,71442,Saint-Léger-sur-Dheune,71
+Clem',Clem' national,station,46.858532,3.646618,NiVa Cercy la tour,1,1.0,58046,Cercy-la-Tour,58
+Clem',Clem' national,station,46.875972,4.9465,AUTOZOOM Gergy,1,1.0,71215,Gergy,71
+Clem',Clem' national,station,46.8925,-2.137,MobilYEU - Ile d'Yeu,4,4.0,85012,La Barre-de-Monts,85
+Clem',Clem' national,station,46.89596,4.66905,AUTOZOOM Cheilly les Maranges,1,1.0,71122,Cheilly-lès-Maranges,71
+Clem',Clem' national,station,46.9181,2.8983,REMI - Germiny l exempt,1,1.0,18101,Germigny-l'Exempt,18
+Clem',Clem' national,station,46.935757,2.268662,REMI - Lunery - parking via rue A. Noblet,1,1.0,18133,Lunery,18
+Clem',Clem' national,station,46.947633,1.985663,REMI - Issoudun 1,1,1.0,36088,Issoudun,36
+Clem',Clem' national,station,46.94798,2.948697,REMI - La Guerche sur L Aubois,1,1.0,18108,La Guerche-sur-l'Aubois,18
+Clem',Clem' national,station,46.967097,2.174228,REMI - Civray - Rue de la Garenne,1,1.0,18066,Civray,18
+Clem',Clem' national,station,46.999172,3.393492,NiVa Pkg derriere Maison Amognes,1,1.0,58232,Saint-Benin-d'Azy,58
+Clem',Clem' national,station,47.01466,2.15457,REMI - Plou - Brouillamnon,1,1.0,18181,Plou,18
+Clem',Clem' national,station,47.034908,2.652578,REMI - Avord 2,1,1.0,18018,Avord,18
+Clem',Clem' national,station,47.0454,2.9878,REMI - Jouet sur l'Aubois,1,1.0,18118,Jouet-sur-l'Aubois,18
+Clem',Clem' national,station,47.052621,3.655043,NiVa Chatillon en Bazois,1,1.0,58065,Châtillon-en-Bazois,58
+Clem',Clem' national,station,47.064281,3.931965,NiVa Chateau-Chinon,1,1.0,58062,Château-Chinon (Ville),58
+Clem',Clem' national,station,47.082241,2.729408,REMI - Baugy 2,1,1.0,18023,Baugy,18
+Clem',Clem' national,station,47.084381,1.345943,REMI - Ecueille,1,1.0,36069,Écueillé,36
+Clem',Clem' national,station,47.12385,1.43714,REMI - Lucay le Male,1,1.0,36103,Luçay-le-Mâle,36
+Clem',Clem' national,station,47.136262,2.550945,REMI - Sainte Solange e208,1,1.0,18235,Sainte-Solange,18
+Clem',Clem' national,station,47.157742,2.38862,REMI - Vasselay,1,1.0,18271,Vasselay,18
+Clem',Clem' national,station,47.1631,2.0503,REMI - Mereau,1,1.0,18148,Méreau,18
+Clem',Clem' national,station,47.16426,3.619487,NiVa Amognes Coeur Aire des Tilleuls,1,1.0,58024,Bazolles,58
+Clem',Clem' national,station,47.2106,1.9714,REMI - Mery sur Cher,1,1.0,18210,Saint-Georges-sur-la-Prée,18
+Clem',Clem' national,station,47.21472,4.024864,NiVa Montsauche-Les Settons,1,1.0,58180,Montsauche-les-Settons,58
+Clem',Clem' national,station,47.233953,5.779269,Lantenne Vertiere - Salle Polyvalente - Zoe,2,2.0,,,
+Clem',Clem' national,station,47.261462,3.937597,NiVa Brassy,1,1.0,58037,Brassy,58
+Clem',Clem' national,station,47.2639,-2.3398,PORNICHET L'ESTIVALE 2-18,2,2.0,44132,Pornichet,44
+Clem',Clem' national,station,47.281872,1.546251,REMI - Selles sur Cher,1,1.0,41242,Selles-sur-Cher,41
+Clem',Clem' national,station,47.286564,1.383978,REMI - Noyers sur Cher,1,1.0,41164,Noyers-sur-Cher,41
+Clem',Clem' national,station,47.29027,3.821019,NiVa Lormes,1,1.0,58145,Lormes,58
+Clem',Clem' national,station,47.343578,1.171953,REMI - Montrichard,1,1.0,41151,Montrichard Val de Cher,41
+Clem',Clem' national,station,47.444161,0.323078,REMI - Savigné sur Lathan e208,1,1.0,,,
+Clem',Clem' national,station,47.452508,0.446657,REMI - Ambillou 1,1,1.0,37002,Ambillou,37
+Clem',Clem' national,station,47.50134,1.17223,AZALYS - Veuzain-sur-Loire,2,2.0,41167,Veuzain-sur-Loire,41
+Clem',Clem' national,station,47.507676,1.459394,AZALYS - Cour-Cheverny,2,2.0,41067,Cour-Cheverny,41
+Clem',Clem' national,station,47.524303,1.250075,AZALYS - VALLOIRE-SUR-C,1,1.0,41055,Valloire-sur-Cisse,41
+Clem',Clem' national,station,47.533938,1.307792,AZALYS - CHAILLES,1,1.0,41032,Chailles,41
+Clem',Clem' national,station,47.53592,2.03789,REMI - Nouan le Fuzelier,1,1.0,41161,Nouan-le-Fuzelier,41
+Clem',Clem' national,station,47.54747,0.547423,REMI - Neuille Pont Pierre,1,1.0,37167,Neuillé-Pont-Pierre,37
+Clem',Clem' national,station,47.547766,0.320078,REMI - Chateau la Valliere e208,1,1.0,37062,Château-la-Vallière,37
+Clem',Clem' national,station,47.54933,1.542481,REMI Bracieux Place Hotel,1,1.0,41025,Bracieux,41
+Clem',Clem' national,station,47.587379,0.902143,REMI - Chateau-Renault 2,2,2.0,37063,Château-Renault,37
+Clem',Clem' national,station,47.59042,-2.80264,Ile-d'Arz  Le Bourg,1,1.0,,,
+Clem',Clem' national,station,47.59075,2.74866,REMI - Chatillon-sur-Loire,1,1.0,,,
+Clem',Clem' national,station,47.592151,-2.848704,456.BZH Ile aux Moines Desomin,1,1.0,56087,Île-aux-Moines,56
+Clem',Clem' national,station,47.59825,2.02775,REMI - Lamotte-Beuvron,1,1.0,41106,Lamotte-Beuvron,41
+Clem',Clem' national,station,47.604114,0.478482,REMI - St Paterne Racan,1,1.0,37231,Saint-Paterne-Racan,37
+Clem',Clem' national,station,47.604663,1.269322,AZALYS - ST-SULPICE-DE-P,1,1.0,41230,Saint-Sulpice-de-Pommeray,41
+Clem',Clem' national,station,47.638772,1.44387,REMI - MONTLIVAULT - GRAND RUE,1,1.0,41148,Montlivault,41
+Clem',Clem' national,station,47.6414,2.7323,REMI - Briare,1,1.0,45053,Briare,45
+Clem',Clem' national,station,47.647987,0.15752,MOUVNGO - Le Lude,1,1.0,72176,Le Lude,72
+Clem',Clem' national,station,47.668213,-1.661952,Derval - Super U,2,2.0,44051,Derval,44
+Clem',Clem' national,station,47.671456,1.239565,AZALYS - LA CHAPELLE V,1,1.0,41040,La Chapelle-Vendômoise,41
+Clem',Clem' national,station,47.682128,-2.449659,456.BZH - Questembert Co - Twingo bleue,2,2.0,56184,Questembert,56
+Clem',Clem' national,station,47.688216,6.046798,AutoCampagne - Port-sur-Saone,2,2.0,70421,Port-sur-Saône,70
+Clem',Clem' national,station,47.716811,-1.371719,Chateaubriant - Zoe 2,2,2.0,44036,Châteaubriant,44
+Clem',Clem' national,station,47.74578,6.083163,AutoCampagne - Fleurey-les-Faverney,2,2.0,70236,Fleurey-lès-Faverney,70
+Clem',Clem' national,station,47.748596,-3.365869,456.BZH - Lorient Mairie - e-Rifter 1,2,2.0,56121,Lorient,56
+Clem',Clem' national,station,47.754299,-3.366347,456.BZH - Lorient Gare - e-Rifter 2,2,2.0,56121,Lorient,56
+Clem',Clem' national,station,47.764526,-0.323992,MOUVNGO -Precigne Pkg salle des fetes,1,1.0,72244,Précigné,72
+Clem',Clem' national,station,47.767942,-0.161596,MOUVNGO - Le Bailleul,2,2.0,,,
+Clem',Clem' national,station,47.795277,2.200133,REMI - Tigy,1,1.0,45324,Tigy,45
+Clem',Clem' national,station,47.813028,-0.082578,MOUVNGO - Malicorne sur Sarthe,2,2.0,72179,Malicorne-sur-Sarthe,72
+Clem',Clem' national,station,47.818434,0.34103,MOUVNGO - Marigne-Laille,1,1.0,72187,Marigné-Laillé,72
+Clem',Clem' national,station,47.827949,0.274393,MOUVNGO - Ecommoy,2,2.0,72124,Écommoy,72
+Clem',Clem' national,station,47.833676,6.093609,AutoCampagne - Saint-Remy,2,2.0,70472,Saint-Rémy-en-Comté,70
+Clem',Clem' national,station,47.83903,-0.32833,MOUVNGO - Sable Pl Republique Zoe,1,1.0,72264,Sablé-sur-Sarthe,72
+Clem',Clem' national,station,47.84032,-0.33644,MOUVNGO - Sable Pl Champ de Foire Zoe,1,1.0,72264,Sablé-sur-Sarthe,72
+Clem',Clem' national,station,47.84084,-0.33284,MOUVNGO - Sable Pkg Michel Vielle Zoe,1,1.0,72264,Sablé-sur-Sarthe,72
+Clem',Clem' national,station,47.84138,-0.34285,MOUVNGO - Sable-sur-Sarthe - Place de la gare,1,1.0,72264,Sablé-sur-Sarthe,72
+Clem',Clem' national,station,47.87055,0.331873,MOUVNGO - Saint Mars d'Outille - Zoe 2,2,2.0,72299,Saint-Mars-d'Outillé,72
+Clem',Clem' national,station,47.878286,0.129738,MOUVNGO - Guecelard,2,2.0,72146,Guécélard,72
+Clem',Clem' national,station,47.878614,0.227389,MOUVNGO - Laigne en Belin,2,2.0,72155,Laigné-Saint-Gervais,72
+Clem',Clem' national,station,47.899732,-0.034222,MOUVNGO - Ferce-sur-Sarthe,1,1.0,72131,Fercé-sur-Sarthe,72
+Clem',Clem' national,station,47.913259,0.337552,MOUVNGO - Brette les Pins,2,2.0,72047,Brette-les-Pins,72
+Clem',Clem' national,station,47.922177,0.852787,REMI - Sarge-sur-Braye,1,1.0,41235,Sargé-sur-Braye,41
+Clem',Clem' national,station,47.927802,2.137144,REMI - Fay-aux-Loges,1,1.0,45142,Fay-aux-Loges,45
+Clem',Clem' national,station,47.929555,2.925371,REMI Chateau Renard SuperU 2,1,1.0,45083,Château-Renard,45
+Clem',Clem' national,station,47.95668,0.088655,MOUVNGO - Etival-Les-Le-Mans,2,2.0,72127,Étival-lès-le-Mans,72
+Clem',Clem' national,station,47.98171,0.896571,REMI - Mondoubleau,1,1.0,41143,Mondoubleau,41
+Clem',Clem' national,station,47.995174,-0.149349,MOUVNGO - LBN Communaute Loue - Zoe 2,2,2.0,72168,Loué,72
+Clem',Clem' national,station,48.0359,0.926874,REMI - Couetron au perche,1,1.0,41248,Couëtron-au-Perche,41
+Clem',Clem' national,station,48.038831,-0.476218,COEVRONS Mediatheque de Vaiges,1,1.0,53267,Vaiges,53
+Clem',Clem' national,station,48.039167,3.056111,REMI - Courtenay - Place Honore Combe 02,1,1.0,45115,Courtenay,45
+Clem',Clem' national,station,48.06056,0.497261,MOUVNGO - Connerre,2,2.0,72090,Connerré,72
+Clem',Clem' national,station,48.06552,-4.256935,KerGo - Le Juch Mairie,2,2.0,29087,Le Juch,29
+Clem',Clem' national,station,48.065664,-4.257051,KerGo 1 - Le Juch Mairie - Kangoo,2,2.0,29087,Le Juch,29
+Clem',Clem' national,station,48.073252,1.337418,REMI - Chateaudun,1,1.0,28088,Châteaudun,28
+Clem',Clem' national,station,48.078114,0.297494,MOUVNGO - Savigne l Eveque - Zoe 2,2,2.0,72329,Savigné-l'Évêque,72
+Clem',Clem' national,station,48.12099,-0.017488,MOUVNGO - Conlie R5-2,2,2.0,72089,Conlie,72
+Clem',Clem' national,station,48.135269,-0.558567,COEVRONS MONTSURS-ZOE,1,1.0,53161,Montsûrs,53
+Clem',Clem' national,station,48.141673,-0.115108,MOUVNGO - Rouez R5-1,1,1.0,72256,Rouez,72
+Clem',Clem' national,station,48.150668,0.119492,MOUVNGO - Saint Jean d Asse,2,2.0,72290,Saint-Jean-d'Assé,72
+Clem',Clem' national,station,48.153129,-0.40406,COEVRONS MAISON DE L'ECONOMIE EVRON,1,1.0,53097,Évron,53
+Clem',Clem' national,station,48.155325,-0.000955,MOUVNGO - Neuvillalais R5-2,1,1.0,72216,Neuvillalais,72
+Clem',Clem' national,station,48.159739,-0.197897,MOUVNGO - Rouesse-Vasse R5-1,1,1.0,72255,Rouessé-Vassé,72
+Clem',Clem' national,station,48.17603,0.233532,MOUVNGO - Ballon-Saint Mars,2,2.0,72023,Ballon-Saint Mars,72
+Clem',Clem' national,station,48.177187,0.426761,MOUVNGO - Bonnetable - e208,1,1.0,72039,Bonnétable,72
+Clem',Clem' national,station,48.185731,1.387844,REMI - Bonneval,1,1.0,28051,Bonneval,28
+Clem',Clem' national,station,48.192777,-0.658849,Martigné-sur-Mayenne Spica,1,1.0,53146,Martigné-sur-Mayenne,53
+Clem',Clem' national,station,48.193889,1.939444,REMI - Toury - Avenue de la Gare,1,1.0,28391,Toury,28
+Clem',Clem' national,station,48.20869,1.28756,REMI - Dangeau,1,1.0,28127,Dangeau,28
+Clem',Clem' national,station,48.21243,1.16593,REMI - Brou,1,1.0,28061,Brou,28
+Clem',Clem' national,station,48.21657,1.57382,REMI - Sancheville,1,1.0,28277,Neuvy-en-Dunois,28
+Clem',Clem' national,station,48.23953,4.46651,Mobil'orient - PEM Gare 1,2,2.0,10401,Vendeuvre-sur-Barse,10
+Clem',Clem' national,station,48.251408,0.311631,MOUVNGO - Marolles-les-Braults,2,2.0,72189,Marolles-les-Braults,72
+Clem',Clem' national,station,48.251473,-0.365357,COEVRONS Mediatheque de Bais,1,1.0,53016,Bais,53
+Clem',Clem' national,station,48.275278,1.628611,REMI -  Les Villages Voveens 2,1,1.0,28422,Les Villages Vovéens,28
+Clem',Clem' national,station,48.300334,-0.622612,Mayenne Bd Europe,1,1.0,53147,Mayenne,53
+Clem',Clem' national,station,48.300641,-0.612599,Mayenne Bd General Leclerc,1,1.0,53147,Mayenne,53
+Clem',Clem' national,station,48.332546,-2.828687,Tartout Go L Hermitage Cerisa Zoe,1,1.0,,,
+Clem',Clem' national,station,48.346037,-0.278676,Villaines-La-Juhel - Zoe 1,1,1.0,53271,Villaines-la-Juhel,53
+Clem',Clem' national,station,48.346276,-2.756432,Tartout Go Vitabella - Ploeuc-sur Lie - Zoe,2,2.0,22203,Plœuc-L'Hermitage,22
+Clem',Clem' national,station,48.349599,0.368017,MOUVNGO - Mamers,2,2.0,72180,Mamers,72
+Clem',Clem' national,station,48.365722,0.565692,AUTOFREE61 Belleme,1,1.0,61038,Bellême,61
+Clem',Clem' national,station,48.399757,-0.096871,Saint Pierre des Nids,1,1.0,53246,Saint-Pierre-des-Nids,53
+Clem',Clem' national,station,48.417297,-0.331337,Javron-les-Chapelles,1,1.0,53121,Javron-les-Chapelles,53
+Clem',Clem' national,station,48.4362,0.088706,AUTOFREE61 Lyautey Alencon Zoe (40),4,4.0,61001,Alençon,61
+Clem',Clem' national,station,48.439555,-0.494868,Lassay-les-Chât. Pl. 11 Nov,1,1.0,53127,Lassay-les-Châteaux,53
+Clem',Clem' national,station,48.457462,-0.20515,Pre-en-Pail - Zoe 1,1,1.0,53185,Pré-en-Pail-Saint-Samson,53
+Clem',Clem' national,station,48.508684,0.358704,VHS Le Mele-sur-Sarthe Voiture 2,2,2.0,61258,Le Mêle-sur-Sarthe,61
+Clem',Clem' national,station,48.52185,0.557452,AUTOFREE61 Mortagne,1,1.0,61293,Mortagne-au-Perche,61
+Clem',Clem' national,station,48.594112,-0.650508,Poiraie - Peugeot 208 2,2,2.0,61145,Domfront en Poiraie,61
+Clem',Clem' national,station,48.594434,-0.355992,AUTOFREE61 La Ferte-Mace,1,1.0,61168,La Ferté Macé,61
+Clem',Clem' national,station,48.627387,0.353117,VHS Courtomer Voiture 1,2,2.0,61133,Courtomer,61
+Clem',Clem' national,station,48.62933,2.58582,Erables - Moissy-Cramayel 2,2,2.0,77296,Moissy-Cramayel,77
+Clem',Clem' national,station,48.631220000000006,2.416294,L'ENVOL PKG 3 - Courcouronnes,3,3.0,91228,Évry-Courcouronnes,91
+Clem',Clem' national,station,48.678689,-0.722743,Tinchebray Beauchene - Leaf 1,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.68608,2.37608,55 WURTZ - JUVISY,1,1.0,91326,Juvisy-sur-Orge,91
+Clem',Clem' national,station,48.694719,-0.682737,Tinchebray Larchamp - Leaf 1,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.697742,2.181855,Paris Saclay 025-1 Orsay - RER Orsay,1,1.0,91471,Orsay,91
+Clem',Clem' national,station,48.7062,2.2113,Paris Saclay 027 - Palaiseau - RER Lozere,1,1.0,91477,Palaiseau,91
+Clem',Clem' national,station,48.70686,2.07472,PRIMERA - St Remy Chevreuse 2,2,2.0,78575,Saint-Rémy-lès-Chevreuse,78
+Clem',Clem' national,station,48.707218,2.236717,Paris Saclay 026 - Palaiseau - RER Palaiseau,1,1.0,91477,Palaiseau,91
+Clem',Clem' national,station,48.7097,2.1636,PS 001-2 Gif Joliot Curie Ouest,1,1.0,91272,Gif-sur-Yvette,91
+Clem',Clem' national,station,48.7104,2.1647,Paris Saclay 009 - Gif - Guyot,1,1.0,91272,Gif-sur-Yvette,91
+Clem',Clem' national,station,48.711,2.1614,Paris Saclay 008 - Gif - Potier Zoe,1,1.0,91272,Gif-sur-Yvette,91
+Clem',Clem' national,station,48.7118,2.1632,Paris Saclay 006 - Gif - Perrin,1,1.0,91272,Gif-sur-Yvette,91
+Clem',Clem' national,station,48.712779,2.212206,Paris Saclay 030 - IPP - Drahi - X,1,1.0,91477,Palaiseau,91
+Clem',Clem' national,station,48.713,2.2016,Paris Saclay 013-1 - Palaiseau - Vauve,1,1.0,,,
+Clem',Clem' national,station,48.713518,2.165944,Paris Saclay 005 - Gif - ENS Servier,1,1.0,91272,Gif-sur-Yvette,91
+Clem',Clem' national,station,48.714246,2.199165,Paris Saclay 013-1 - Palaiseau - Vauve,1,1.0,91477,Palaiseau,91
+Clem',Clem' national,station,48.71602,0.43058,CDC VAM 3- Ste Gauburge Co,1,1.0,61389,Sainte-Gauburge-Sainte-Colombe,61
+Clem',Clem' national,station,48.717895,-0.717724,Tinchebray St Cornier des Landes - R5,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.719044,-0.750123,Tinchebray Yvrandes - Leaf 1,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.722914,-0.79225,Tinchebray St Jean des Bois- Leaf 1,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.728407,-0.57804,AUTOFREE61 Flers,2,2.0,61169,Flers,61
+Clem',Clem' national,station,48.737482,-0.029108,AUTOFREE61 Argentan,1,1.0,61006,Argentan,61
+Clem',Clem' national,station,48.75132,-3.27997,LANGOAT,1,1.0,22101,Langoat,22
+Clem',Clem' national,station,48.76336,-0.731285,Tinchebray R5 2,2,2.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.769313,2.413633,AMLI - Residence Jeunes Actifs - Choisy-le-Roi,1,1.0,94022,Choisy-le-Roi,94
+Clem',Clem' national,station,48.77007,-0.575152,ST GEORGES DES GROSEILLERS - LEAF 2,2,2.0,,,
+Clem',Clem' national,station,48.78466,2.233841,MILLANDY - Meudon 2,2,2.0,92048,Meudon,92
+Clem',Clem' national,station,48.785092,-0.681575,Frenes - Leaf 1,1,1.0,61486,Tinchebray-Bocage,61
+Clem',Clem' national,station,48.795299,0.29747,CDC VAM 2- Gace,1,1.0,61181,Gacé,61
+Clem',Clem' national,station,48.801434,2.310071,BAGNEUX Prunier Hardy 2,1,1.0,92007,Bagneux,92
+Clem',Clem' national,station,48.801453,2.309738,BAGNEUX Prunier Hardy 1,1,1.0,92007,Bagneux,92
+Clem',Clem' national,station,48.803957,1.961821,PLAISIR - Residence Seniors Nohee 2,2,2.0,78490,Plaisir,78
+Clem',Clem' national,station,48.809389,2.57359,MERRYLIM - TRIANGLE D OR - ZOE,1,1.0,94059,Le Plessis-Trévise,94
+Clem',Clem' national,station,48.82026,2.27938,CARRE DES ARTS-Issy les Moulineaux Zoé 3,3,3.0,92040,Issy-les-Moulineaux,92
+Clem',Clem' national,station,48.823949,2.714901,AMLI-Baudelaire - PK résidence étudiante Baudelaire 1,1,1.0,77181,Ferrières-en-Brie,77
+Clem',Clem' national,station,48.837775,2.533527,AMLI Bry-sur-Marne Res Diorama,1,1.0,94015,Bry-sur-Marne,94
+Clem',Clem' national,station,48.83881,2.73734,QUARTUS BUSSY-AGORA PARC 1 - 02,2,2.0,77058,Bussy-Saint-Georges,77
+Clem',Clem' national,station,48.839466,2.736195,QUARTUS BUSSY - AGORA PARC 2 - 01,1,1.0,77058,Bussy-Saint-Georges,77
+Clem',Clem' national,station,48.84178,2.54062,NOISY LE GRAND-Sur la Promenade 2,2,2.0,93051,Noisy-le-Grand,93
+Clem',Clem' national,station,48.844097,2.538813,NOISY LE GRAND - La Venelle,1,1.0,93051,Noisy-le-Grand,93
+Clem',Clem' national,station,48.84432999999999,2.582385,EPAMARNE,3,3.0,77083,Champs-sur-Marne,77
+Clem',Clem' national,station,48.855495,2.408668,CDC Habitat - Rue des Orteaux,2,2.0,75056,Paris,75
+Clem',Clem' national,station,48.86872,2.57546,Chelles FAUBOURG CANAL 2,2,2.0,77108,Chelles,77
+Clem',Clem' national,station,48.869004,2.689004,MLV 328 - St-Thibault Mairie,1,1.0,77438,Saint-Thibault-des-Vignes,77
+Clem',Clem' national,station,48.87423,2.19794,HARMONIE 92-Rueil Malmaison 2,2,2.0,92063,Rueil-Malmaison,92
+Clem',Clem' national,station,48.882488,2.274107,TACTIC - Vélo Cargo,1,1.0,92051,Neuilly-sur-Seine,92
+Clem',Clem' national,station,48.895417,-0.200861,Falaise 02 - rue trinite - Zoe,1,1.0,14258,Falaise,14
+Clem',Clem' national,station,48.896667,-0.19675,Falaise 01 - Rue du Champ St Michel - Zoe,1,1.0,14258,Falaise,14
+Clem',Clem' national,station,48.898361,2.083843,St Germain Laye - Res Armagis 3,4,4.0,78551,Saint-Germain-en-Laye,78
+Clem',Clem' national,station,48.898774,2.382875,CDC Habitat - Quai de la Charente,2,2.0,75056,Paris,75
+Clem',Clem' national,station,48.89948,2.08314,Le clos saint louis 2 2,4,4.0,,,
+Clem',Clem' national,station,48.92221,2.33027,Centrale de Mobilite - Ile Saint Denis - ZOE Intens - 3,3,3.0,93039,L'Île-Saint-Denis,93
+Clem',Clem' national,station,48.92298,2.23491,Nuances / STATION N°04 - PK RDC N°09 ZOE -EX-688-LX,5,5.0,92025,Colombes,92
+Clem',Clem' national,station,48.92749,0.19766,CDC VAM 1- Vimoutiers,1,1.0,61508,Vimoutiers,61
+Clem',Clem' national,station,48.93312,2.0449,ESPRIT FLOR - Poissy 2,2,2.0,78498,Poissy,78
+Clem',Clem' national,station,48.93762,1.99221,Les Coteaux - Station Villennes 2,2,2.0,78672,Villennes-sur-Seine,78
+Clem',Clem' national,station,48.952209,2.064232,Symphonie - Acheres Pk 101,5,5.0,78005,Achères,78
+Clem',Clem' national,station,48.97383,2.25087,L'EMINENT Sannois e2008,2,2.0,95582,Sannois,95
+Clem',Clem' national,station,48.978978,1.679952,Buchelay Parc la Madeleine 2,2,2.0,78118,Buchelay,78
+Clem',Clem' national,station,48.98243,1.71013,Le Camelinat -Parc des Bergeres 2,2,2.0,78362,Mantes-la-Ville,78
+Clem',Clem' national,station,49.002161,2.290636,OPAC de l Oise - Les Jardins Bourdais - Margency,1,1.0,95369,Margency,95
+Clem',Clem' national,station,49.077535,-0.657933,Résidence Clos Mathilde,1,1.0,14752,Villers-Bocage,14
+Clem',Clem' national,station,49.130531,-1.411927,Saint-Sauveur-Villages,1,1.0,,,
+Clem',Clem' national,station,49.28412,1.78276,VEXIN MOUV Gisors 2,2,2.0,27284,Gisors,27
+Clem',Clem' national,station,49.292926,-0.094846,Dives sur Mer La Marina,1,1.0,14225,Dives-sur-Mer,14
+Clem',Clem' national,station,49.306399,1.61123,VEXIN MOUV Etrepagny ZOE,1,1.0,27226,Étrépagny,27
+Clem',Clem' national,station,49.308804,-0.902915,Trevieres - Zoe 1,1,1.0,14711,Trévières,14
+Clem',Clem' national,station,49.31897,-1.10222,Mairie - Isigny sur Mer,1,1.0,14342,Isigny-sur-Mer,14
+Clem',Clem' national,station,49.400605,1.629335,VEXIN MOUV Bezu la Foret ZOE,1,1.0,27066,Bézu-la-Forêt,27
+Clem',Clem' national,station,49.51709,2.37005,CATILLON FUMECHON PKG Mairie,1,1.0,60133,Catillon-Fumechon,60
+Clem',Clem' national,station,49.52147,2.77631,MARGNY-SUR-MATZ,1,1.0,60383,Margny-sur-Matz,60
+Clem',Clem' national,station,49.713,4.884,Nexans Agicity AP Show Room Zoe,1,1.0,08142,Donchery,08
+Clem',Clem' national,station,49.957496,3.607475,TUPIGNY - MARPA,1,1.0,02753,Tupigny,02
+Clem',Clem' national,station,50.603272,2.096866,MOUVAUTO - CAPSO - Fauquembergues,1,1.0,62325,Fauquembergues,62
+Clem',Clem' national,station,50.635731,2.258225,MOUVAUTO - CAPSO - THEROUANNE MAIRIE,1,1.0,62811,Thérouanne,62
+Clem',Clem' national,station,50.636881,2.390189,MOUVAUTO - CAPSO -Aire-sur-la-Lys,1,1.0,62014,Aire-sur-la-Lys,62
+Clem',Clem' national,station,50.674444,2.032863,LUMBRES Nielles - VAE 2 - CCPL-M-12,3,3.0,62613,Nielles-lès-Bléquin,62
+Clem',Clem' national,station,50.682567,2.138026,LUMBRES Wavrans - Nissan Env200 - CCPL,4,4.0,62882,Wavrans-sur-l'Aa,62
+Clem',Clem' national,station,50.702505,2.036542,LUMBRES Seninghem - VAE 2 - CCPL-M-14,3,3.0,62788,Seninghem,62
+Clem',Clem' national,station,50.706082,2.122976,Lumbres - VAE 4 - CCPL-M-4,5,5.0,62534,Lumbres,62
+Clem',Clem' national,station,50.725382,1.925661,LUMBRES Escoeuilles - VAE 2 - CCPL-M-18,3,3.0,62308,Escœuilles,62
+Clem',Clem' national,station,50.749438,2.149361,LUMBRES Zudausques - VAE 2 - CCPL-M-9,4,4.0,62905,Zudausques,62
+Clem',Clem' national,station,50.753804,2.266121,MOUVAUTO - CAPSO - SAINT OMER GARE,1,1.0,62765,Saint-Omer,62
+Clem',Clem' national,station,50.790728,2.011066,LUMBRES Bonningues- VAE 2 - CCPL-M-16,3,3.0,62155,Bonningues-lès-Ardres,62
+Clem',Clem' national,station,50.805226,2.153887,MOUVAUTO - CAPSO - Eperlecques,1,1.0,62297,Éperlecques,62
+Clem',Clem' national,station,50.81702,4.26847,CityDev - Batiment EEBIC - ENV200 1,1,1.0,,,
+Clem',Clem' national,station,50.855251,4.32627,Arc-en-Ciel - Molenbeek - ENV,1,1.0,,,
+Clem',Rémi Centre-Val de Loire,station,46.546697,1.748003,REMI - Cluis,1,1.0,36056,Cluis,36
+Clem',Rémi Centre-Val de Loire,station,46.561918,2.198948,REMI - Chateaumeillant e208,1,1.0,18057,Châteaumeillant,18
+Clem',Rémi Centre-Val de Loire,station,46.591742,1.517808,REMI - Argenton 2 - Parking gare,1,1.0,36006,Argenton-sur-Creuse,36
+Clem',Rémi Centre-Val de Loire,station,46.591754,1.517832,REMI - Argenton 1 - Parking gare,1,1.0,36006,Argenton-sur-Creuse,36
+Clem',Rémi Centre-Val de Loire,station,46.596039,1.80667,REMI - Neuvy st Sepulchre,1,1.0,36141,Neuvy-Saint-Sépulchre,36
+Clem',Rémi Centre-Val de Loire,station,46.598525,2.49558,REMI - Saulzais le Potier,1,1.0,18245,Saulzais-le-Potier,18
+Clem',Rémi Centre-Val de Loire,station,46.8077,1.043161,REMI - Martizay e208,1,1.0,36113,Martizay,36
+Clem',Rémi Centre-Val de Loire,station,46.81995,1.207862,REMI - Mezieres en Brenne,1,1.0,36123,Mézières-en-Brenne,36
+Clem',Rémi Centre-Val de Loire,station,46.9181,2.8983,REMI - Germiny l exempt,1,1.0,18101,Germigny-l'Exempt,18
+Clem',Rémi Centre-Val de Loire,station,46.935757,2.268662,REMI - Lunery - parking via rue A. Noblet,1,1.0,18133,Lunery,18
+Clem',Rémi Centre-Val de Loire,station,46.947633,1.985663,REMI - Issoudun 1,1,1.0,36088,Issoudun,36
+Clem',Rémi Centre-Val de Loire,station,46.94798,2.948697,REMI - La Guerche sur L Aubois,1,1.0,18108,La Guerche-sur-l'Aubois,18
+Clem',Rémi Centre-Val de Loire,station,46.967097,2.174228,REMI - Civray - Rue de la Garenne,1,1.0,18066,Civray,18
+Clem',Rémi Centre-Val de Loire,station,47.01466,2.15457,REMI - Plou - Brouillamnon,1,1.0,18181,Plou,18
+Clem',Rémi Centre-Val de Loire,station,47.034908,2.652578,REMI - Avord 2,1,1.0,18018,Avord,18
+Clem',Rémi Centre-Val de Loire,station,47.0454,2.9878,REMI - Jouet sur l'Aubois,1,1.0,18118,Jouet-sur-l'Aubois,18
+Clem',Rémi Centre-Val de Loire,station,47.082241,2.729408,REMI - Baugy 2,1,1.0,18023,Baugy,18
+Clem',Rémi Centre-Val de Loire,station,47.084381,1.345943,REMI - Ecueille,1,1.0,36069,Écueillé,36
+Clem',Rémi Centre-Val de Loire,station,47.12385,1.43714,REMI - Lucay le Male,1,1.0,36103,Luçay-le-Mâle,36
+Clem',Rémi Centre-Val de Loire,station,47.136262,2.550945,REMI - Sainte Solange e208,1,1.0,18235,Sainte-Solange,18
+Clem',Rémi Centre-Val de Loire,station,47.157742,2.38862,REMI - Vasselay,1,1.0,18271,Vasselay,18
+Clem',Rémi Centre-Val de Loire,station,47.1631,2.0503,REMI - Mereau,1,1.0,18148,Méreau,18
+Clem',Rémi Centre-Val de Loire,station,47.2106,1.9714,REMI - Mery sur Cher,1,1.0,18210,Saint-Georges-sur-la-Prée,18
+Clem',Rémi Centre-Val de Loire,station,47.281872,1.546251,REMI - Selles sur Cher,1,1.0,41242,Selles-sur-Cher,41
+Clem',Rémi Centre-Val de Loire,station,47.286564,1.383978,REMI - Noyers sur Cher,1,1.0,41164,Noyers-sur-Cher,41
+Clem',Rémi Centre-Val de Loire,station,47.343578,1.171953,REMI - Montrichard,1,1.0,41151,Montrichard Val de Cher,41
+Clem',Rémi Centre-Val de Loire,station,47.444161,0.323078,REMI - Savigné sur Lathan e208,1,1.0,,,
+Clem',Rémi Centre-Val de Loire,station,47.452508,0.446657,REMI - Ambillou 1,1,1.0,37002,Ambillou,37
+Clem',Rémi Centre-Val de Loire,station,47.53592,2.03789,REMI - Nouan le Fuzelier,1,1.0,41161,Nouan-le-Fuzelier,41
+Clem',Rémi Centre-Val de Loire,station,47.54747,0.547423,REMI - Neuille Pont Pierre,1,1.0,37167,Neuillé-Pont-Pierre,37
+Clem',Rémi Centre-Val de Loire,station,47.547766,0.320078,REMI - Chateau la Valliere e208,1,1.0,37062,Château-la-Vallière,37
+Clem',Rémi Centre-Val de Loire,station,47.54933,1.542481,REMI Bracieux Place Hotel,1,1.0,41025,Bracieux,41
+Clem',Rémi Centre-Val de Loire,station,47.587379,0.902143,REMI - Chateau-Renault 2,2,2.0,37063,Château-Renault,37
+Clem',Rémi Centre-Val de Loire,station,47.59075,2.74866,REMI - Chatillon-sur-Loire,1,1.0,,,
+Clem',Rémi Centre-Val de Loire,station,47.59825,2.02775,REMI - Lamotte-Beuvron,1,1.0,41106,Lamotte-Beuvron,41
+Clem',Rémi Centre-Val de Loire,station,47.604114,0.478482,REMI - St Paterne Racan,1,1.0,37231,Saint-Paterne-Racan,37
+Clem',Rémi Centre-Val de Loire,station,47.638772,1.44387,REMI - MONTLIVAULT - GRAND RUE,1,1.0,41148,Montlivault,41
+Clem',Rémi Centre-Val de Loire,station,47.6414,2.7323,REMI - Briare,1,1.0,45053,Briare,45
+Clem',Rémi Centre-Val de Loire,station,47.795277,2.200133,REMI - Tigy,1,1.0,45324,Tigy,45
+Clem',Rémi Centre-Val de Loire,station,47.922177,0.852787,REMI - Sarge-sur-Braye,1,1.0,41235,Sargé-sur-Braye,41
+Clem',Rémi Centre-Val de Loire,station,47.927802,2.137144,REMI - Fay-aux-Loges,1,1.0,45142,Fay-aux-Loges,45
+Clem',Rémi Centre-Val de Loire,station,47.929555,2.925371,REMI Chateau Renard SuperU 2,1,1.0,45083,Château-Renard,45
+Clem',Rémi Centre-Val de Loire,station,47.98171,0.896571,REMI - Mondoubleau,1,1.0,41143,Mondoubleau,41
+Clem',Rémi Centre-Val de Loire,station,48.0359,0.926874,REMI - Couetron au perche,1,1.0,41248,Couëtron-au-Perche,41
+Clem',Rémi Centre-Val de Loire,station,48.039167,3.056111,REMI - Courtenay - Place Honore Combe 02,1,1.0,45115,Courtenay,45
+Clem',Rémi Centre-Val de Loire,station,48.073252,1.337418,REMI - Chateaudun,1,1.0,28088,Châteaudun,28
+Clem',Rémi Centre-Val de Loire,station,48.185731,1.387844,REMI - Bonneval,1,1.0,28051,Bonneval,28
+Clem',Rémi Centre-Val de Loire,station,48.193889,1.939444,REMI - Toury - Avenue de la Gare,1,1.0,28391,Toury,28
+Clem',Rémi Centre-Val de Loire,station,48.20869,1.28756,REMI - Dangeau,1,1.0,28127,Dangeau,28
+Clem',Rémi Centre-Val de Loire,station,48.21243,1.16593,REMI - Brou,1,1.0,28061,Brou,28
+Clem',Rémi Centre-Val de Loire,station,48.21657,1.57382,REMI - Sancheville,1,1.0,28277,Neuvy-en-Dunois,28
+Clem',Rémi Centre-Val de Loire,station,48.275278,1.628611,REMI -  Les Villages Voveens 2,1,1.0,28422,Les Villages Vovéens,28
+Leo&Go,Leo&Go Lyon,free-floating,45.721294,4.843725,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.72151566666667,5.074119333333333,,3,3.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.721497,5.074166,,1,1.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.721629,5.074127,,1,1.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.721581333333326,5.074169666666666,,3,3.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.721667499999995,5.0741665000000005,,2,2.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.722477,5.071576,,1,1.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.722608,5.073583,,1,1.0,69299,Colombier-Saugnieu,69
+Leo&Go,Leo&Go Lyon,free-floating,45.723581,4.884163,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.724508,4.844295,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.726813,4.833612,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.726999,4.831267,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.727142,4.830571,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.727261,4.830392,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.727875,4.879012,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.731397,4.830715,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.732478,4.911742,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.732764,4.888828,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734035,4.907087,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734208,4.906472,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734269,4.828966,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734259,4.853675,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734418,4.878457,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734547,4.87396,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734637,4.88153,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734733,4.882314,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734902,4.884724,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.734928,4.906131,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.735142,4.91512,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.73577,4.887324,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.73616,4.82599,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.736653,4.915743,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.737187,4.851902,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.737218,4.852408,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.737981,4.81539,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.738346,4.867339,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.738547,4.893548,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.739462,4.828111,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.739549,4.840882,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.73992,4.838732,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.740301,4.820848,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.740354,4.914565,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.74056,4.845046,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.740746,4.797686,,1,1.0,69202,Sainte-Foy-lès-Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.740685,4.866537,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.741113,4.832431,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.741442,4.856913,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.742539,4.869665,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.742614,4.825226,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.742858,4.909109,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.743011,4.869668,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.743264,4.821454,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.743837,4.84919,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.744333,4.878984,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.744746,4.865858,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.74481,4.873593,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.744858,4.8453,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.745408,4.88409,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.745453,4.884702,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.746032,4.785964,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.746105,4.868141,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.746218,4.844798,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.746456,4.82324,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.746827,4.799845,,1,1.0,69202,Sainte-Foy-lès-Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.747318,4.833134,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.747403,4.777139,,1,1.0,69089,Francheville,69
+Leo&Go,Leo&Go Lyon,free-floating,45.747845,4.842544,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.747917,4.798068,,1,1.0,69202,Sainte-Foy-lès-Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.748068,4.857848,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.748334,4.855272,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.74828,4.866581,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.74849,4.82621,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.748615,4.869369,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.749968,4.773326,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.749981,4.861475,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750102,4.807514,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750093,4.903787,,1,1.0,69029,Bron,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750237,4.837945,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750314,4.795647,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750429,4.914749,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.750608,4.786582,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.7508,4.865234,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.752434,4.781745,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.752464,4.787051,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.752694,4.822499,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.752957,4.82449,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.752957,4.850273,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.753027,4.873651,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.753066,4.873351,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.753416,4.802847,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75336,4.861414,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754054,4.858902,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754218,4.915498,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.754287,4.843558,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754415,4.784238,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754476,4.7853,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75446,4.785483,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75479,4.783979,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754874,4.800978,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.754908,4.920431,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.755035,4.782227,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75537,4.808198,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.755434,4.84047,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.755514,4.888333,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.755593,4.788393,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.756237,4.787199,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.756331,4.794812,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.756387,4.798083,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.756506,4.806514,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75824,4.898803,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.758528,4.845912,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.758531,4.863452,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.758598,4.88258,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.758696,4.854364,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.758693,4.889068,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.75973,4.881757,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.760475,4.795841,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.760488,4.851297,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.760867,4.838027,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.761208,4.897174,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.761276,4.878052,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76151,4.868268,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.7616,4.838324,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76183,4.838472,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.761824,4.915463,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.761866,4.808407,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76189,4.837981,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762275,4.837636,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762274,4.897486,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76239,4.838282,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762355,4.884789,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.762576,4.821687,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762628,4.837079,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762666,4.837284,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762695,4.881176,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.762861,4.838278,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.762995,4.790973,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76296,4.837714,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.763077,4.83761,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.763186,4.852421,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.7632,4.853603,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.763843,4.917972,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.763862,4.8695,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.764106,4.83836,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.764525,4.8385,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.764662,4.858241,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.764768,4.853266,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.764816,4.882738,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.765232,4.858826,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.765315,4.876333,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.766337,4.832904,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.766377,4.809784,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.766506,4.889476,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.766638,4.798215,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.766733,4.798222,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76707,4.809506,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76729,4.847712,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.7676235,4.8590035,,2,2.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.768416,4.82509,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.768714,4.871096,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.768842,4.809656,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.76881,4.843401,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.768882,4.860688,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.769671,4.870399,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.770011,4.884798,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.770107,4.837286,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.770749,4.805506,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.770715,4.841009,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.771313,4.791015,,1,1.0,69244,Tassin-la-Demi-Lune,69
+Leo&Go,Leo&Go Lyon,free-floating,45.771286,4.832177,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.771534,4.845534,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.771878,4.856745,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77199,4.819231,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.772237,4.8246,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.772275,4.822503,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.772381,4.795954,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.773738,4.813492,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77375,4.813323,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.774253,4.771676,,1,1.0,69081,Écully,69
+Leo&Go,Leo&Go Lyon,free-floating,45.774339,4.824047,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.774618,4.818799,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77478,4.836735,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.774905,4.826642,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775266,4.843793,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775382,4.797316,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775355,4.797635,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775681,4.796439,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775843,4.829719,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775789,4.839442,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.775981,4.829768,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77625,4.804375,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77624,4.828658,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.776309,4.779509,,1,1.0,69081,Écully,69
+Leo&Go,Leo&Go Lyon,free-floating,45.776461,4.779577,,1,1.0,69081,Écully,69
+Leo&Go,Leo&Go Lyon,free-floating,45.776931,4.804797,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.776987,4.873072,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.777389,4.807444,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.777404,4.820734,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.777523,4.802594,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.777629,4.836429,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.777726,4.800485,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.778158,4.804045,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.77824,4.82988,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.778252,4.803951,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.778416,4.831264,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77837,4.888762,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77849,4.820559,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.778571,4.815976,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77872,4.82776,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.778839,4.797609,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.778902,4.801138,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779114,4.814656,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779297,4.773907,,1,1.0,69081,Écully,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779299,4.81597,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779597,4.82999,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779584,4.833137,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779655,4.835601,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.779885,4.841723,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.77992,4.884711,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.780081,4.771368,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.780123,4.890833,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.780237,4.832532,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.780179,4.833415,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.78016,4.835928,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.780201,4.882966,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.780752,4.901765,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.78127,4.809795,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.781741,4.823819,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.782839,4.879849,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.783104,4.881091,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.78331,4.820827,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.783424,4.882586,,1,1.0,69266,Villeurbanne,69
+Leo&Go,Leo&Go Lyon,free-floating,45.784259,4.819217,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.784502,4.836892,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.78481,4.800242,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.78486,4.800218,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.785216,4.811417,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.786024,4.831424,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.786426,4.849359,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.787619,4.836234,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.788236,4.83415,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.788637,4.842366,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.788854,4.763981,,1,1.0,69081,Écully,69
+Leo&Go,Leo&Go Lyon,free-floating,45.789278,4.813284,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.789354,4.821929,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.790048,4.840529,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.790693,4.814555,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.790989,4.818317,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.791002,4.822187,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.790971,4.827971,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.791139,4.818153,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.79145,4.844963,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.791882,4.835689,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.792122,4.845593,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.792168,4.817259,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.792311,4.865059,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.793178,4.835921,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.793797,4.835614,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.793802,4.86779,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.79416,4.852451,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.794467,4.836632,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.79474,4.85537,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.794755,4.852388,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.79592,4.855246,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.797292,4.819508,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.797631,4.844046,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.800358,4.862294,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.801059,4.834477,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.801299,4.830908,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.801283,4.870392,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.803635,4.85988,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.804758,4.858352,,1,1.0,,,
+Leo&Go,Leo&Go Lyon,free-floating,45.806537,4.832131,,1,1.0,69123,Lyon,69
+Leo&Go,Leo&Go Lyon,free-floating,45.806645,4.83218,,1,1.0,69191,Saint-Cyr-au-Mont-d'Or,69
+Leo&Go,Leo&Go Lyon,free-floating,45.807686,4.857004,,1,1.0,69034,Caluire-et-Cuire,69
+Leo&Go,Leo&Go Lyon,free-floating,45.814517,4.863426,,1,1.0,69034,Caluire-et-Cuire,69
+Optymo,Optymo Belfort,station,47.61801,6.862035,JAC1,1,1.0,90032,Danjoutin,90
+Optymo,Optymo Belfort,station,47.620619,6.834295,AUB1,1,1.0,90008,Bavilliers,90
+Optymo,Optymo Belfort,station,47.621462,6.850088,ELU1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.622357,6.831259,CHA1 Bavilliers,1,1.0,,,
+Optymo,Optymo Belfort,station,47.626563,6.853768,MIE1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.629318,6.858079,RHO1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.630361,6.852795,JOL1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.631319,6.855195,SER1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.631719,6.861281,BAZ1,1,0.0,,,
+Optymo,Optymo Belfort,station,47.63296,6.817977,MAI1 Essert,1,0.0,90039,Essert,90
+Optymo,Optymo Belfort,station,47.633394,6.850273,ROO1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.633895,6.860573,KEL1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.634338,6.855909,THI1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.63467,6.845638,MAD1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.634733,6.85126,PAR1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.63595,6.857963,MON1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.636788,6.841376,LEC1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.637045,6.860173,REV1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.63704,6.873077,ALT1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.638169,6.876583,ALT10,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.638337,6.872482,PAR30,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.6385,6.853996,DEF1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.640302,6.837348,GAN1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.640286,6.863534,REM1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.640718,6.866501,MEL1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.641113,6.861614,ATR1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.641448,6.839563,CHA1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.64158,6.859575,MAG1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.64171,6.855423,RES1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.643042,6.835272,DUV1,1,0.0,,,
+Optymo,Optymo Belfort,station,47.643432,6.844364,ETA1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.643442,6.857784,BRA1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.643576,6.841929,EDI1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.645514,6.862668,ROU1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.646189,6.851107,STR1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.64783,6.85604,HOU1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.648127,6.847355,KOE1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.648231,6.853688,TRA1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.649001,6.864977,MAR1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.649756,6.848849,RIB1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.650046,6.852078,ALS1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.650345,6.85917,PAR20,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.651477,6.85093,BOR1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.651946,6.856263,GAM1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.652611,6.864274,BUS1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.652756,6.8287,CRA1 Cravanche,1,0.0,90029,Cravanche,90
+Optymo,Optymo Belfort,station,47.652835,6.851939,PAR10,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.654396,6.846897,ARM1,1,1.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.656102,6.846145,JAU2,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.656803,6.864068,POS1 Offemont,1,0.0,90075,Offemont,90
+Optymo,Optymo Belfort,station,47.657258,6.842852,LUM1,1,0.0,90010,Belfort,90
+Optymo,Optymo Belfort,station,47.664381,6.846609,VIP1 Valdoie,1,0.0,90099,Valdoie,90
+Optymo,Optymo Belfort,station,47.664867,6.843538,BLU1,1,0.0,90099,Valdoie,90

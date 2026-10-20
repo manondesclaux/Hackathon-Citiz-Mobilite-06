@@ -1,0 +1,1605 @@
+operator,network,id,name,lat,lon,capacity,n_vehicles,flex,sans_vehicule,commune_code,commune_nom,dep
+Citiz,Citiz Provence,1382,Cours Julien,43.2929992675781,5.38350009918213,2,8.0,False,False,13055,Marseille,13
+Citiz,Citiz Rennes,1574,Gare Sud,48.1020698547363,-1.67322504520416,11,8.0,False,False,35238,Rennes,35
+Citiz,Citiz Hauts-de-France,298,GARE LILLE FLANDRES,50.63477325439453,3.0724008083343506,12,8.0,False,False,59350,Lille,59
+Citiz,Citiz Auvergne-Rhône-Alpes,744,Lavalette - musée,45.19390106201172,5.731983184814453,7,7.0,False,False,38185,Grenoble,38
+Citiz,Citiz Lyon,394,Lyon 2ème - Parking LPA Marché Gare,45.7419013977051,4.82317018508911,8,7.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,367,Lyon 6ème - Parking LPA Morand,45.7677345275879,4.84173679351807,7,7.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,355,Lyon 1er - Parking LPA Terreaux,45.767276763916,4.83393287658691,12,7.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,357,Lyon 4ème - Parking LPA Gros Caillou,45.7747077941895,4.83358192443848,8,7.0,False,False,69123,Lyon,69
+Citiz,Citiz Auvergne-Rhône-Alpes,728,Victor Hugo,45.18837738037109,5.724421977996826,6,6.0,False,False,38185,Grenoble,38
+Citiz,Citiz Lyon,1700,Lyon 3ème - Parking LPA P1 Béraudier,45.7595338787898,4.85854527084181,6,6.0,False,False,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,308,MAIRIE DE LILLE,50.63197326660156,3.071063995361328,9,6.0,False,False,59350,Lille,59
+Citiz,Citiz Auvergne-Rhône-Alpes,1048,Diables Bleus,45.18339920043945,5.732905864715576,6,6.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1393,Préfecture,43.2905311584473,5.3795599937439,7,6.0,False,False,13055,Marseille,13
+Citiz,Citiz Lyon,360,Lyon 2ème - Parking LPA Cordeliers,45.76475348073606,4.837253882426185,7,6.0,False,False,69123,Lyon,69
+Citiz,Citiz Gironde,603,Bergonié,44.82540512084961,-0.5776309967041016,6,5.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Lyon,371,Lyon 7ème - Jean Macé,45.7434506709041,4.84151433435541,5,5.0,False,False,69123,Lyon,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1036,Square des fusillés (7),45.188133239746094,5.705016136169434,7,5.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1069,André Jacques - La Falaise,45.56278610229492,5.926486968994141,5,5.0,False,False,73065,Chambéry,73
+Citiz,Citiz Provence,1383,Gambetta,43.2990455627441,5.38314008712769,6,5.0,False,False,13055,Marseille,13
+Citiz,Citiz Grand Est,80,Wodli (Gare),48.5871467590332,7.736742973327637,7,5.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,88,Mairie de Schiltigheim,48.606563568115234,7.749570846557617,6,5.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Provence,1386,Jean Jaures,43.2955093383789,5.38710021972656,6,5.0,False,False,13055,Marseille,13
+Citiz,Citiz Gironde,618,Victor-Hugo (METPARK-Parcub),44.835670471191406,-0.5723950266838074,6,5.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Grand Est,70,Austerlitz (Bourse),48.578216552734375,7.751718044281006,8,5.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Gironde,614,Quinconces (METPARK-Parcub),44.84647750854492,-0.5736470222473145,6,5.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Provence,1390,Monthyon,43.2910003662109,5.37550020217896,6,5.0,False,False,13055,Marseille,13
+Citiz,Citiz Grand Est,112,Parc de l'Etoile (Neudorf),48.57258224487305,7.752986907958984,7,5.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,66,Les Halles P2 (Gare),48.58684539794922,7.742034912109375,8,5.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,369,Lyon 2ème - Parking LPA Saint-Antoine,45.7639503479004,4.83191013336182,11,5.0,False,False,69123,Lyon,69
+Citiz,Citiz Provence,1394,Saint Charles Gare,43.3027267456055,5.38012504577637,5,4.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1037,Irvoy (5),45.18247604370117,5.715929985046387,7,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1072,Robespierre,45.172630310058594,5.750949859619141,6,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1034,Quais de France (48),45.19342422485352,5.720718860626221,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1035,Régiment du génie,45.18399810791016,5.730682849884033,5,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1474,Saint Jean du Desert,43.29366,5.412231,11,4.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,727,Randon,45.19882583618164,5.738570213317871,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,774,Aigle,45.18296051025391,5.71851921081543,5,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,782,SNCF Gare de Grenoble - GEM,45.18977355957031,5.71316385269165,5,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1667,Etats-Unis,43.6305898,1.4323792,4,4.0,False,False,31555,Toulouse,31
+Citiz,Citiz Provence,1480,Clemenceau,43.2994003295898,5.39719486236572,10,4.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,975,Palanka,45.19142150878906,5.724064826965332,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1027,Véhicules hors-circuit (Les véhicules sur cette station ne sont pas reservable.),45.56626892089844,5.920363426208496,103,4.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1005,Bd Marechal foch (51),45.18031311035156,5.718860149383545,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Bourgogne-Franche-Comté,19,Monge,47.316383361816406,5.030896186828613,4,4.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,16,Cordeliers,47.318695068359375,5.040654182434082,5,4.0,False,False,21231,Dijon,21
+Citiz,Citiz Hauts-de-France,302,JEANNE D'ARC,50.62593078613281,3.0635389,5,4.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,297,GARE LILLE EUROPE,50.63971710205078,3.077147960662842,6,4.0,False,False,59350,Lille,59
+Citiz,Citiz Auvergne-Rhône-Alpes,735,MC2,45.1717414855957,5.732699871063232,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Gironde,1191,Gare de Libourne,44.916021,-0.237001,4,4.0,False,False,33243,Libourne,33
+Citiz,Citiz Gironde,643,[FLEX]-Galin,44.84993743896485,-0.5442780256271362,3,4.0,True,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,624,Darwin / Parking Chantier Nicolas,44.85055541992188,-0.5600669980049133,5,4.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Auvergne-Rhône-Alpes,741,SNCF Gare de Grenoble - Parvis,45.19214630126953,5.715692043304443,5,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,737,Belgrade,45.19185256958008,5.72507905960083,5,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,722,Albert 1er de Belgique,45.181339263916016,5.731815814971924,4,4.0,False,False,38185,Grenoble,38
+Citiz,Citiz Grand Est,1825,My Campus - Graham Bell (Technopôle),49.103998,6.22655,4,4.0,False,False,57463,Metz,57
+Citiz,Citiz Rennes,1567,Chézy-Dinan,48.1133613586426,-1.68616497516632,5,4.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1572,Colombier,48.1048812866211,-1.68047904968262,5,4.0,False,False,35238,Rennes,35
+Citiz,Citiz Grand Est,1868,MJC Le Vivarium,48.337833,7.288973,4,4.0,False,False,67507,Villé,67
+Citiz,Citiz Bourgogne-Franche-Comté,17,Drapeau,47.33347702026367,5.044248104095459,6,4.0,False,False,21231,Dijon,21
+Citiz,Citiz Lyon,363,Lyon 5ème - Parking LPA Saint-Georges,45.7582931518555,4.82614183425903,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,365,Lyon 3ème - Parking LPA La Fosse aux Ours,45.7569236755371,4.84047508239746,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,356,Lyon 3ème - Part-Dieu Lac,45.757495880127,4.85519981384277,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Bourgogne-Franche-Comté,9,St Jacques-Chamars,47.2336,6.019122,5,4.0,False,False,25056,Besançon,25
+Citiz,Citiz Lyon,378,Lyon 8ème - Bachut - Santy,45.734977722168,4.87047100067139,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,359,Lyon 2ème - Place Carnot,45.7513160705566,4.82708883285522,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,388,Lyon 3ème - Albert Thomas,45.7485566323811,4.86350572342669,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,358,Lyon 5ème - Parking LPA Saint-Jean,45.7625007629395,4.82940292358398,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,448,Lyon 1er - Tables Claudiennes,45.7708549499512,4.83183908462524,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,420,Lyon 3ème - Liberté,45.759147644043,4.84202480316162,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,431,Lyon 3ème - Villette - Riboud,45.7620829890599,4.8631834097962,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,445,Lyon 1er - Croix-Paquet,45.7703819274902,4.83727598190308,4,4.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,477,Villeurbanne - Grand Clément,45.7598991394043,4.8906455039978,4,4.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,460,Villeurbanne - Gratte-Ciel Nord,45.7710451485516,4.88173968230606,4,4.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,466,Villeurbanne - Parking LPA Hotel de Ville,45.7661552429199,4.87817907333374,4,4.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Grand Est,67,Londres (Esplanade),48.57918548583984,7.770557880401611,5,4.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,1171,Lyon 2ème - Place Bellecour,45.7573204040527,4.82868337631226,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1172,Lyon 2ème - Franklin,45.7517547607422,4.83093595504761,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,68,Rotonde (Cronenbourg),48.5912971496582,7.725094795227051,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,69,Rives de l'Aar,48.599754333496094,7.753936767578125,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,71,Ste Aurélie (Gare),48.582916259765625,7.732975006103516,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,1177,Villeurbanne - Tolstoi-Papillon,45.7613220214844,4.88301420211792,3,3.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,1179,Villeurbanne - Totem,45.7648506164551,4.87397289276123,3,3.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,1181,Lyon 4ème - Cours d'Herbouville,45.7749214172363,4.83886432647705,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,97,Place de Bordeaux (Contades),48.593528747558594,7.757688045501709,5,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,98,Place du Marché (Neudorf),48.5665168762207,7.759884834289551,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,183,Belfort (Neudorf),48.570777893066406,7.75029706954956,6,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Auvergne-Rhône-Alpes,1041,Marval (2),45.18479537963867,5.720832824707031,3,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1402,Eugène Pierre,43.2980342737884,5.39044951331257,4,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1031,Granier Béalières (37),45.21110153198242,5.78668212890625,4,3.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1033,SNCF Gare de Grenoble - Louis Weil,45.19179153442383,5.713210105895996,5,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1013,Victor Hugo - Lamartine,45.1881217956543,5.724667072296143,5,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1435,Berceau,43.2882843017578,5.39520406723022,4,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1443,Place des Marseillaises,43.3014984130859,5.38104486465454,2,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,954,Verdun- Préfecture,45.189056396484375,5.733027935028076,3,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1447,Françoise Duparc,43.301326751709,5.40083599090576,2,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,935,Vaucanson - Banque,45.18864822387695,5.728724002838135,4,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Lyon,1152,Lyon 3ème - Place Guichard-Bourse du Travail,45.7596015930176,4.84753274917603,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1153,Lyon 3ème - Garibaldi-Chaponnay,45.7586402893066,4.85196018218994,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1139,Lyon 4ème - Place Millaud,45.7740898132324,4.82297229766846,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1140,Lyon 4ème - Quai Gillet-Pont Clémenceau,45.7755012512207,4.81059312820435,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1141,Lyon 1er - Imbert-Colomès,45.7715530395508,4.83464431762695,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1115,Lyon 2ème - Parking LPA République,45.7601890563965,4.83660221099854,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1142,Lyon 1er - Bodin,45.7733917236328,4.83554410934448,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Angers,273,Chevreul,47.47207260131836,-0.5486609935760498,4,3.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,279,La Fayette,47.46294784545898,-0.5527330040931702,3,3.0,False,False,49007,Angers,49
+Citiz,Citiz Auvergne-Rhône-Alpes,936,L'Etoile - SNCF,45.1374626159668,5.702258110046387,3,3.0,False,False,38317,Le Pont-de-Claix,38
+Citiz,Citiz Provence,1466,National,43.30619117650944,5.382852657084031,3,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1469,Baille,43.2879753112793,5.39179277420044,4,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Lyon,1150,Lyon 6ème - Masséna,45.7698516845703,4.85418081283569,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Angers,289,Mairie des Ponts de Cé,47.42621612548828,-0.5258740186691284,3,3.0,False,False,49246,Les Ponts-de-Cé,49
+Citiz,Citiz Auvergne-Rhône-Alpes,905,SNCF Gare de Thonon - Jean Blanchard,46.3695469,6.4811723,3,3.0,False,False,74281,Thonon-les-Bains,74
+Citiz,Citiz Auvergne-Rhône-Alpes,882,Jean Achard,45.18941879272461,5.729272842407227,3,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,883,Jean Prevost,45.185066,5.715158,4,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1285,Victor Hugo Parking Indigo,43.6061248779297,1.44653701782227,3,3.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,879,Bd Marechal Leclerc,45.19269180297852,5.736846923828125,4,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1353,Borderouge P+R,43.6415328979492,1.45161104202271,3,3.0,False,False,31555,Toulouse,31
+Citiz,Citiz Lyon,1132,Lyon 7ème - Duguesclin - Rachais,45.7514877319336,4.85054779052734,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,187,St Léon (Tribunal),48.58928680419922,7.7492289543151855,5,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Occitanie,1365,Marengo Parking Indigo,43.6113700866699,1.45590996742249,3,3.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1368,Compans Caffarelli,43.6109085083008,1.43705201148987,3,3.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,784,Emile Augier,45.19019317626953,5.722134113311768,4,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,767,Eugene Delacroix,45.19746183618164,5.736316113317871,5,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,730,Bonne,45.1827507019043,5.724483013153076,5,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,725,Mairie de St-Martin-d'Hères,45.18357467651367,5.754867076873779,5,3.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,750,Hebert,45.189918518066406,5.73530912399292,3,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,754,SNCF Gare de Chambéry - Poste du Verney,45.570045471191406,5.917666912078857,4,3.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,756,Savoie Technolac,45.64339828491211,5.867400169372559,4,3.0,False,False,73051,Le Bourget-du-Lac,73
+Citiz,Citiz Gironde,948,[FLEX]-Bacalan,44.87240219116211,-0.5498011112213135,1,3.0,True,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,951,[FLEX]-Bastide,44.83974838256836,-0.5526099801063538,3,3.0,True,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,952,[FLEX]-Barrière St Genès (Bordeaux),44.82181930541992,-0.582539975643158,2,3.0,True,False,33063,Bordeaux,33
+Citiz,Citiz Auvergne-Rhône-Alpes,738,SNCF Gare de Grenoble - Schuman,45.191524505615234,5.713467121124268,3,3.0,False,False,38185,Grenoble,38
+Citiz,Citiz Gironde,671,Place du bicentenaire,44.80730357,-0.54801979,4,3.0,False,False,33039,Bègles,33
+Citiz,Citiz Grand Est,127,Arte (Wacken),48.59344482421875,7.766025066375732,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,505,Lyon 7ème - Sébastien Gryphe - Thibaudière,45.7512817382813,4.84325122833252,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,451,Lyon 7ème - Garibaldi,45.7508404673022,4.85510159707475,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,229,Champagne-Ardenne TGV - Reims Bezannes,49.216434478759766,3.994946002960205,3,3.0,False,False,51058,Bezannes,51
+Citiz,Citiz Grand Est,271,Parc des Romains (Koenigshoffen),48.58112335205078,7.723570823669434,3,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Gironde,625,Larminat,44.8340072631836,-0.590391993522644,4,3.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,630,Tourny (Huguerie),44.84485626220703,-0.5784339904785156,4,3.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,674,Giono,44.84442138671875,-0.5598199963569641,4,3.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Nantes,566,Gare Sud,47.2145881652832,-1.5413049459457395,3,3.0,False,False,44109,Nantes,44
+Citiz,Citiz Grand Est,116,Landsberg (Neudorf),48.570220947265625,7.76400089263916,5,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Hauts-de-France,296,GAMBETTA,50.62592697143555,3.054245710372925,6,3.0,False,False,59350,Lille,59
+Citiz,Citiz Gironde,602,Terres-Neuves,44.81455612182617,-0.550466001033783,4,3.0,False,False,33039,Bègles,33
+Citiz,Citiz Gironde,604,Gare de Cenon,44.85597610473633,-0.5341470241546631,4,3.0,False,False,33119,Cenon,33
+Citiz,Citiz Hauts-de-France,307,MAIRIE D'HELLEMMES,50.62678146362305,3.10901403427124,4,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,312,PLACE DU MARCHE,50.6543742,3.0675236,5,3.0,False,False,59368,La Madeleine,59
+Citiz,Citiz Gironde,615,Sainte-Croix (Etables),44.83029174804688,-0.560916006565094,4,3.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,617,Forum,44.811893463134766,-0.5908269882202148,3,3.0,False,False,33522,Talence,33
+Citiz,Citiz Gironde,621,Gare de Pessac,44.8044319152832,-0.6323530077934265,4,3.0,False,False,33318,Pessac,33
+Citiz,Citiz Hauts-de-France,290,BUISSON,50.65625,3.0875918865203857,5,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,292,TOURCOING CENTRE,50.72293472290039,3.164000988006592,5,3.0,False,False,59599,Tourcoing,59
+Citiz,Citiz Hauts-de-France,328,PHILIPPE LEBON,50.6277326,3.0623819,4,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,332,FIVES-LANNOY,50.634376525878906,3.098828077316284,4,3.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,432,Lyon 2ème - Ainay,45.7541885375977,4.82631301879883,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,268,Gare Est - Place de la Gare,48.07313919067383,7.347904205322266,3,3.0,False,False,68066,Colmar,68
+Citiz,Citiz Bourgogne-Franche-Comté,14,1er mai,47.31517028808594,5.030196189880371,5,3.0,False,False,21231,Dijon,21
+Citiz,Citiz Gironde,601,Carnot (Parc Bordelais),44.85131454467773,-0.5962259769439697,4,3.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Hauts-de-France,300,HALLE AUX SUCRES,50.64394760131836,3.060096025466919,5,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,301,MAIRIE DE VILLENEUVE D'ASCQ,50.61945343017578,3.1326920986175537,4,3.0,False,False,59009,Villeneuve-d'Ascq,59
+Citiz,Citiz Hauts-de-France,303,CORMONTAIGNE,50.6265915,3.0403042,4,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,304,LIBERTE,50.63510513305664,3.055804967880249,5,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,305,LOMME-LAMBERSART,50.64066696166992,3.0187880992889404,5,3.0,False,False,59328,Lambersart,59
+Citiz,Citiz Hauts-de-France,340,FIVES-CAIL,50.62884140014648,3.09592604637146,5,3.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,402,Lyon 7ème - Place Saint Louis,45.7493209838867,4.84754705429077,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,406,Lyon 8ème - Grange-Blanche,45.7421989440918,4.87780809402466,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,410,Lyon 4ème - Boulevard de la Croix-Rousse,45.7723731994629,4.81907081604004,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,411,Lyon 4ème - Place du Commandant Arnaud,45.77978515625,4.83581399917603,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,373,Lyon 5ème - Point du jour,45.7567512282223,4.79669885192179,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,416,Lyon 4ème - Place des Tapis,45.7746810913086,4.82951211929321,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,713,LYCÉE PASTEUR,50.6412239074707,3.06955361366272,4,3.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,1730,BOURSE DU TRAVAIL,50.6258661,3.0897945,3,3.0,False,False,59350,Lille,59
+Citiz,Citiz Bourgogne-Franche-Comté,21,Théâtre,47.32155,5.043556,4,3.0,False,False,21231,Dijon,21
+Citiz,Citiz La Rochelle,1504,PREFECTURE,46.1569938659668,-1.15671098232269,2,3.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1506,VERDUN,46.1629219055176,-1.15442299842834,2,3.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Bourgogne-Franche-Comté,8,Granvelle,47.23534393310547,6.025006771087647,5,3.0,False,False,25056,Besançon,25
+Citiz,Citiz Rennes,1576,Place Hoche,48.1154594421387,-1.67703497409821,3,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1577,Jacques Cartier,48.0981140136719,-1.67526996135712,5,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1579,La Poterie,48.0879898071289,-1.64679896831512,3,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1581,Le Mail,48.1085145,-1.6932245,4,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1585,Puits Mauger,48.1056671142578,-1.68368697166443,4,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Lyon,1135,Lyon 7ème - Rue Montesquieu,45.7540740966797,4.83936786651611,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1136,Lyon 7ème - Rue Rochette,45.7477264404297,4.84419584274292,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1138,Lyon 4ème - Grande rue de la Croix-Rousse,45.778263092041,4.83222770690918,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1119,Lyon 5ème - Quai Pierre Scize,45.7667045593262,4.82036113739014,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,384,Villeurbanne - Maisons Neuves,45.7564010620117,4.87835502624512,3,3.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,389,Lyon 3ème - Saxe-Gambetta,45.7542894669573,4.84779357103675,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,362,Lyon 4ème - Parking LPA Croix Rousse,45.7816200256348,4.83287000656128,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,364,Lyon 3ème - Parking LPA Les Halles,45.7628707885742,4.8513298034668,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,400,Lyon 6ème - Lyautey - Foch,45.7693290710449,4.84176111221313,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1122,Lyon 5ème - Place Gerson,45.7670364379883,4.82711791992188,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1126,Lyon 1er - Chartreux,45.772216796875,4.82263803482056,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,366,Lyon 2ème - Parking LPA Antonin Poncet,45.7564239501953,4.8349928855896,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,368,Lyon 1er - Parking LPA Hotel de ville,45.7679710388184,4.83765411376953,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,370,Lyon 3ème - Saxe-Servient,45.760899621382514,4.845887563621039,4,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,372,Lyon 2ème - Charlemagne,45.7456398010254,4.82371807098389,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Rennes,1592,Villejean-Université,48.1210823059082,-1.70505905151367,3,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1597,Triangle,48.0860557556152,-1.66108202934265,4,3.0,False,False,35238,Rennes,35
+Citiz,Citiz Lyon,1133,Lyon 7ème - Jean Vallier,45.7329025268555,4.83895111083984,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1134,Lyon 7ème - Place Jules Guesde,45.7480850219727,4.83889579772949,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,379,Lyon 7ème - Jean Jaurès,45.7362670898438,4.8364520072937,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,381,Lyon 6ème - Brotteaux,45.766975402832,4.85894823074341,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1154,Lyon 3ème - Masséna-Deruelle,45.7632751464844,4.85526371002197,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1158,Lyon 3ème - Docteur Long-Vitton,45.7529602050781,4.89495897293091,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1166,Lyon 9ème - Masaryk,45.7787246704102,4.80669403076172,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1167,Lyon 9ème - Sergent Berthet,45.771197,4.805164,3,3.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,83,Broglie (Grande-île),48.58550262451172,7.749701023101807,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,99,République Palais du Rhin (Tribunal),48.58697509765625,7.752626895904541,5,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,108,St Michel (Gare),48.58196640014648,7.735983848571777,6,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Provence,1380,Centre Bourse,43.2969017028809,5.37480020523071,4,3.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1090,Hôtel de ville Villefranche,45.98885726928711,4.715095043182373,4,3.0,False,False,69264,Villefranche-sur-Saône,69
+Citiz,Citiz Grand Est,81,Boecklin (Robertsau),48.59812545776367,7.776947021484375,4,3.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,73,Centre - Cours de l'Illiade,48.527000427246094,7.710024833679199,3,2.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Lyon,1183,Lyon 8ème - Jet d'Eau,45.7399864196777,4.85940170288086,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1215,Lyon 7ème - Parking LPA Tony Garnier,45.7294037755253,4.822984540817,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1220,Rillieux - Ville Nouvelle,45.8186711697248,4.90485922584167,2,2.0,False,False,69286,Rillieux-la-Pape,69
+Citiz,Citiz Provence,1391,Phocéens,43.3005981445313,5.37011003494263,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1392,Prado-Périer,43.2791786193848,5.38781023025513,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1395,Cinq Avenues,43.3041801452637,5.39749479293823,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Grand Est,181,Porte de l'Hôpital (Grande-île),48.57752990722656,7.749499797821045,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,472,Villeurbanne - Le Tonkin - Stalingrad,45.7746391296387,4.85993719100952,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,473,Villeurbanne - Place Wilson,45.7745475769043,4.8678731918335,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,476,Bron - Parc du Chêne,45.738697052002,4.92552185058594,2,2.0,False,False,69029,Bron,69
+Citiz,Citiz Lyon,478,Saint-Priest - Centre,45.6945190429688,4.9397439956665,2,2.0,False,False,69290,Saint-Priest,69
+Citiz,Citiz Lyon,481,Oullins - Centre,45.7141494750977,4.80735921859741,2,2.0,False,False,69149,Oullins-Pierre-Bénite,69
+Citiz,Citiz Lyon,483,Vénissieux - Grand Parilly,45.7189598083496,4.88718700408936,2,2.0,False,False,69259,Vénissieux,69
+Citiz,Citiz Lyon,485,Craponne,45.7473945617676,4.72350311279297,2,2.0,False,False,69069,Craponne,69
+Citiz,Citiz Lyon,487,Francheville le Bas,45.73828125,4.77383661270142,2,2.0,False,False,69089,Francheville,69
+Citiz,Citiz Lyon,488,Saint-Genis-Laval,45.6977729797363,4.79540395736694,2,2.0,False,False,69204,Saint-Genis-Laval,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1543,Jean Monard,45.6862988,5.9163382,2,2.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1623,SNCF Gare du Fayet,45.90581,6.700545,2,2.0,False,False,74236,Saint-Gervais-les-Bains,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1693,Ampere (40),45.181873,5.705466,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Rennes,1749,Les Lices,48.11122,-1.685982,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1805,Saint-Erblon - Mairie,48.018021,-1.651122,2,2.0,False,False,35266,Saint-Erblon,35
+Citiz,Citiz Pays Basque,349,Gare de Bayonne // Baionako geltokia,43.495885,-1.472288,4,2.0,False,False,64102,Bayonne,64
+Citiz,Citiz Rennes,1591,Sergent Maginot,48.1099624633789,-1.65945899486542,4,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1595,Les Gayeulles,48.1294441223145,-1.65735697746277,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1604,Semprun,48.1100082397461,-1.64638996124268,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1607,Chantepie - Mairie,48.0888175964355,-1.62045800685883,2,2.0,False,False,35055,Chantepie,35
+Citiz,Citiz Rennes,1608,Cesson-Sévigné - Sports et Nature,48.1146850585938,-1.61047697067261,2,2.0,False,False,35051,Cesson-Sévigné,35
+Citiz,Citiz Rennes,1646,Saint-Grégoire - Forge,48.152012,-1.685136,2,2.0,False,False,35278,Saint-Grégoire,35
+Citiz,Citiz Rennes,1653,Joliot-Curie - Chateaubriand,48.125128,-1.651675,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Grand Est,147,Adelshoffen,48.60833740234375,7.749967098236084,2,2.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Lyon,375,Lyon 9ème - Gare de Vaise,45.7798652648926,4.80481290817261,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,377,Villeurbanne - Charpennes,45.7708053588867,4.86436080932617,3,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,380,Lyon 1er - Place Sathonay,45.7690582275391,4.8306360244751,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1182,Lyon 4ème - Dumont D'Urville,45.7777709960938,4.83615064620972,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1155,Lyon 3ème - Archives départementales,45.7536125183105,4.86152744293213,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,383,Lyon 8ème - Ambroise Courtois,45.7452087402344,4.87101793289185,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,385,Bron - Centre,45.73298970162765,4.90842199325562,2,2.0,False,False,69029,Bron,69
+Citiz,Citiz Lyon,390,Tassin - Centre,45.7616157531738,4.77861595153809,2,2.0,False,False,69244,Tassin-la-Demi-Lune,69
+Citiz,Citiz Lyon,392,Oullins - Médiathèque,45.7169761657715,4.81219387054443,2,2.0,False,False,69149,Oullins-Pierre-Bénite,69
+Citiz,Citiz Lyon,361,Lyon 7ème - Parking LPA Berthelot,45.7462272644043,4.83664512634277,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,1741,Jardin de la Résistance - FLEX,48.60897,7.74622,1,2.0,True,False,67447,Schiltigheim,67
+Citiz,Citiz Lyon,397,Lyon 6ème - Lycée du Parc,45.7717361450195,4.85483598709106,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,1188,Aigle,48.6126139405449,7.7604402568797,2,2.0,False,False,67043,Bischheim,67
+Citiz,Citiz Grand Est,1226,Gare de Bischheim,48.611933,7.742592,2,2.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Lyon,399,Lyon 6ème - Créqui - Duquesne,45.7725143432617,4.84542894363403,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1124,Lyon 5ème - Charcot-Castors,45.7546882629395,4.80659818649292,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1125,Lyon 1er - Bon Pasteur,45.7725257873535,4.83108806610107,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1128,Lyon 1er - Pierre Dupont - Poudrière,45.7698593139648,4.81722688674927,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1129,Lyon 1er - Place Rouville,45.7696266174316,4.82601404190063,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1130,Lyon 1er - Quai St Vincent - Martinière,45.76824447041419,4.82714574134672,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1131,Lyon 7ème - Ayasse - Yves Farge,45.7358436584473,4.82754898071289,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Bourgogne-Franche-Comté,4,Leclerc,47.2424201965332,6.014591217041016,4,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,7,Bersot,47.23893356323242,6.029554843902588,3,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,11,Témis,47.25154876708984,5.999666213989258,3,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Pays Basque,354,Mairie de Bayonne // Herriko etxea,43.493829,-1.476682,3,2.0,False,False,64102,Bayonne,64
+Citiz,Citiz Rennes,1569,Liberté,48.1072196960449,-1.67457401752472,3,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1570,Clemenceau,48.0923194885254,-1.67423903942108,4,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1573,Jules Ferry,48.1185989379883,-1.66943001747131,3,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1575,Henri Fréville,48.0873336791992,-1.67429101467133,3,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1578,Kléber,48.1108322143555,-1.67315101623535,4,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1580,Laënnec,48.1067810058594,-1.66600298881531,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1582,La Criée,48.1085548400879,-1.67966604232788,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1583,Mabilais,48.1063652038574,-1.69394397735596,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Hauts-de-France,1866,MAIRIE DE LOMME,50.638497,3.011599,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,1906,VAUBAN,50.6307883,3.0444922,2,2.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,1137,Lyon 7ème - Simone Iff - EM Lyon,45.7408332824707,4.83875799179077,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,382,Lyon 5ème - Saint Just,45.7575149536133,4.8154149055481,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,1696,PLACE CASQUETTE,50.624599,3.0443958,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,1722,PARKING DES POTIERS,50.6673337,1.8393261,3,2.0,False,False,62268,Desvres,62
+Citiz,Citiz Bourgogne-Franche-Comté,18,Gare Dijon,47.32366943359375,5.028045177459717,2,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,22,Trémouille,47.32661819458008,5.042525291442871,2,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,30,Voltaire,47.31414031982422,5.050908088684082,2,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Hauts-de-France,338,JEAN MOULIN,50.68509292602539,3.171835899353028,10,2.0,False,False,59512,Roubaix,59
+Citiz,Citiz Hauts-de-France,1908,BOIS BLANCS,50.6336934,3.0316421,2,2.0,False,False,59350,Lille,59
+Citiz,Citiz La Rochelle,1503,ARSENAL,46.1595916748047,-1.1486599445343,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1505,GARE,46.1524963378906,-1.14764201641083,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1508,SAINT MAURICE,46.164584,-1.17569,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1509,TECHNOFORUM,46.1481895446777,-1.153529047966,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1512,OFFICE DE TOURISME,46.1552200317383,-1.14956498146057,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1513,CORDELIERS - (Arceaux => télécommande),46.1628074645996,-1.1458740234375,3,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1516,PERIGNY,46.1543884277344,-1.09546101093292,2,2.0,False,False,17274,Périgny,17
+Citiz,Citiz Rennes,1561,Anatole France,48.1183967590332,-1.68923699855804,3,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1563,Beaulieu-Université,48.1226501464844,-1.63911497592926,2,2.0,False,False,35238,Rennes,35
+Citiz,Citiz Hauts-de-France,543,MOULINS,50.62237930297852,3.072323799133301,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,597,REPUBLIQUE,50.63155746459961,3.064563035964966,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,314,PORTE DES POSTES,50.618988037109375,3.05190110206604,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,315,RIHOUR,50.635215759277344,3.061866044998169,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Bourgogne-Franche-Comté,32,Mairie,47.23545837402344,6.022098064422607,3,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,39,Branly,47.22813415527344,5.969316959381104,3,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,62,Nation,47.34660720825195,5.045435905456543,2,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,65,Mallarmé,47.244773864746094,5.9987568855285645,4,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Hauts-de-France,317,SAINT MAUR,50.65076446533203,3.0836551189422607,5,2.0,False,False,59350,Lille,59
+Citiz,Citiz Bourgogne-Franche-Comté,12,Flore,47.24567794799805,6.027897834777832,3,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Hauts-de-France,714,SAINT SEBASTIEN,50.64738845825195,3.06020188331604,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,1194,MAISON DES ENFANTS,50.6457461,2.9901281,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,1208,HAUTS DE MONS,50.6455733,3.1009346,3,2.0,False,False,59410,Mons-en-Barœul,59
+Citiz,Citiz Hauts-de-France,1219,DOUAI GARE,50.3711608,3.0890884,3,2.0,False,False,59178,Douai,59
+Citiz,Citiz Hauts-de-France,1528,SAINTE-HÉLÈNE,50.6571981,3.0563526,2,2.0,False,False,59527,Saint-André-lez-Lille,59
+Citiz,Citiz Hauts-de-France,1684,PLACE GENEVIÈRES,50.6240447,3.0394156,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,341,MAIRIE DE ST ANDRE,50.66064453125,3.050903081893921,2,2.0,False,False,59527,Saint-André-lez-Lille,59
+Citiz,Citiz Hauts-de-France,342,MONTEBELLO,50.62248992919922,3.0448760986328125,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,343,CROISE LAROCHE,50.66596221923828,3.104001998901367,10,2.0,False,False,59378,Marcq-en-Barœul,59
+Citiz,Citiz Hauts-de-France,344,PONT SUPERIEUR,50.64466857910156,3.013474941253662,2,2.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,401,Lyon 7ème - Rue de l'Université,45.7509595705111,4.83850384931658,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,404,Lyon 7ème - Stade de Gerland,45.7278480529785,4.83145523071289,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,405,Lyon 8ème - Grand Trou,45.7341349707857,4.85363416838877,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,407,Lyon 8ème - Marius Berliet,45.7409019,4.862730026,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,413,Lyon 4ème - Denfert-Rochereau,45.776252746582,4.82569599151611,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,374,Lyon 9ème - Valmy,45.7749137878418,4.8053240776062,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,230,Gare d'Epinal,48.1782112121582,6.441915035247803,2,2.0,False,False,88160,Épinal,88
+Citiz,Citiz Grand Est,530,Place de Haguenau (Tribunal),48.591400146484375,7.743856906890869,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,417,Lyon 8ème - Desgenettes,45.7403134376318,4.88805978276929,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,418,Lyon 3ème - Lacassagne,45.7550415331963,4.86762267087692,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,541,PALAIS RAMEAU,50.63462448120117,3.048135280609131,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,542,COLBERT,50.63433837890625,3.040907382965088,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,430,Lyon 3ème - Reconnaissance - Balzac,45.7534856759936,4.88563099479783,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,433,Lyon 2ème - Quai des Célestins,45.760158,4.83074,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,434,Lyon 2ème - Confluence Sud,45.7390365600586,4.8149209022522,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,264,Stade - Rue de la Paix,48.60762405395508,7.6860737800598145,2,2.0,False,False,67343,Oberhausbergen,67
+Citiz,Citiz Grand Est,266,Spielmann (Bourse),48.57589721679688,7.752699851989746,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,269,Grenouillère,48.07721328735352,7.364284038543701,3,2.0,False,False,68066,Colmar,68
+Citiz,Citiz Lyon,396,Lyon 2ème - Gailleton,45.7521018981934,4.83313608169556,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,160,Place du Roi George,49.11088943481445,6.171677112579346,3,2.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,161,St Simplice,49.11643981933594,6.17979097366333,2,2.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,133,Gare - Musée des Etoffes,47.74364471435547,7.344240188598633,3,2.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,191,République TNS (Tribunal),48.58646774291992,7.756095886230469,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,492,Lyon 5ème - Ste Irénée,45.7549247741699,4.81255102157593,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,334,CANTELEU,50.638710021972656,3.024660110473633,10,2.0,False,False,59328,Lambersart,59
+Citiz,Citiz Bourgogne-Franche-Comté,15,Auditorium,47.329078674316406,5.051084995269775,2,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,1611,Les Oiseaux,47.254205,6.035422,2,2.0,False,False,25056,Besançon,25
+Citiz,Citiz Hauts-de-France,306,MAIRIE DE CROIX,50.67920684814453,3.156139850616455,4,2.0,False,False,59163,Croix,59
+Citiz,Citiz Gironde,609,Mérignac Centre,44.8407096862793,-0.6472110152244568,2,2.0,False,False,33281,Mérignac,33
+Citiz,Citiz Gironde,610,Musée d'Aquitaine,44.83609771728516,-0.5754179954528809,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Hauts-de-France,309,MAIRIE DE MONS,50.64216555148985,3.110315684790496,4,2.0,False,False,59410,Mons-en-Barœul,59
+Citiz,Citiz Hauts-de-France,310,MAIRIE DE RONCHIN,50.604942321777344,3.0765459537506104,2,2.0,False,False,59507,Ronchin,59
+Citiz,Citiz Hauts-de-France,311,PEUPLE BELGE,50.6420783996582,3.064079999923706,5,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,313,PORTE DE VALENCIENNES,50.6210379,3.0793525,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Gironde,616,Stalingrad (Serr),44.84116744995117,-0.561447024345398,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,619,Gare Saint-Jean,44.827196,-0.558069,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Hauts-de-France,293,CROIX CENTRE,50.67484664916992,3.146480083465576,3,2.0,False,False,59163,Croix,59
+Citiz,Citiz Hauts-de-France,294,EURATECHNOLOGIES,50.63069915771485,3.022758960723877,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,295,FIVES-CAULIER,50.63572692871094,3.0881659984588623,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,318,SAINT MAURICE,50.64236068725586,3.089430093765259,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,319,SEBASTOPOL,50.62907028198242,3.0583701133728027,4,2.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,326,VICTOR HUGO,50.62281036376953,3.0637450218200684,3,2.0,False,False,59350,Lille,59
+Citiz,Citiz Lyon,421,Lyon 3ème - Montchat-Lacassagne,45.748405456543,4.88099384307861,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,422,Lyon 2ème - Jacobins,45.7602195739746,4.83369016647339,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1148,Lyon 6ème - Vauban-Récamier,45.7660942077637,4.85628509521484,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,119,Kibitzenau (Neuhof),48.555809020996094,7.766678810119629,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,120,CCI (Meinau),48.55507659912109,7.745204925537109,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,121,Oberlin (Contades),48.58966445922852,7.751916885375977,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,126,Graviere (Neudorf),48.56150817871094,7.764046192169189,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Bourgogne-Franche-Comté,1538,Parc Colombière,47.30226,5.049159,3,2.0,False,False,21231,Dijon,21
+Citiz,Citiz Gironde,632,Pellegrin,44.82991790771485,-0.602990984916687,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,633,Victoire (Henri IV),44.83190536499024,-0.5751090049743652,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,634,Alsace-Lorraine (Agence Citiz),44.83791732788086,-0.5684329867362976,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,636,Barrière de Pessac (Ségur),44.82559967041016,-0.5884039998054504,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,637,Benauge,44.84151077270508,-0.5465400218963623,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,638,Ravezies,44.86638641357422,-0.5754269957542419,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,639,Gare-Belcier,44.82290267944336,-0.5524500012397766,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,640,Malbec,44.82493209838867,-0.5633789896965027,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,605,Chartrons / Notre Dame,44.85150146484375,-0.5716760158538818,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,607,Jean-Jaurès,44.84282684326172,-0.5709310173988342,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Grand Est,141,Brasserie (Cronenbourg),48.5941047668457,7.716079235076904,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,144,St Florent (Cronenbourg),48.59570693969727,7.722667217254639,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,145,Place du Soleil (Krutenau),48.57870101928711,7.759953022003174,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,146,St Nicolas aux Ondes (Krutenau),48.581424713134766,7.762584209442139,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Gironde,626,Gambetta (Clémenceau),44.84238052368164,-0.5795320272445679,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,628,Arnozan,44.84893035888672,-0.5714560151100159,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,629,Picard,44.85540390014648,-0.5711169838905334,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,631,Cap Sciences,44.85993576049805,-0.5546810030937195,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,611,Nansouty (Somme),44.82154083251953,-0.5725200176239014,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,672,Place Simiot,44.823387145996094,-0.5773640275001526,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,675,Victoire / Pasteur,44.83177947998047,-0.5736100077629089,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Nantes,562,Hôtel de Ville,47.2175721,-1.5540924,2,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,564,Monteil,47.21409225463867,-1.548691987991333,2,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,567,Tripode,47.206687927246094,-1.539991855621338,2,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,568,Chantiers Navals,47.20903015136719,-1.5684700012207031,2,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,570,Talensac,47.221282958984375,-1.5566190481185913,2,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Grand Est,135,Hoenheim - Gare,48.62744903564453,7.758407115936279,2,2.0,False,False,67204,Hœnheim,67
+Citiz,Citiz Grand Est,138,Gare de Saint-Louis,47.59095764160156,7.556440830230713,3,2.0,False,False,68297,Saint-Louis,68
+Citiz,Citiz Grand Est,139,St Thomas (Grande-île),48.57903289794922,7.745954990386963,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,499,Lyon 3ème - Place Danton,45.7549591064453,4.85785007476807,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,500,Lyon 3ème - Place Sainte-Anne,45.7569198608398,4.86544418334961,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,501,Couzon-au-Mont-d'Or,45.846752166748,4.83180713653564,2,2.0,False,False,69068,Couzon-au-Mont-d'Or,69
+Citiz,Citiz Lyon,503,Lyon 3ème - Place de la Ferrandière,45.7598304748535,4.87035322189331,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,504,Lyon 3ème - Place Voltaire,45.7565994262695,4.84835004806519,3,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,506,Lyon 7ème - Chevreul - Garibaldi,45.7454376220703,4.84784078598022,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,446,Lyon 1er - Quai Saint-Vincent - Subsistances,45.7676658630371,4.81801414489746,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,452,Décines - Centre,45.771900177002,4.95566892623901,1,2.0,False,False,69275,Décines-Charpieu,69
+Citiz,Citiz Grand Est,206,Foulons (Montagne Verte),48.57392883300781,7.726622104644775,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,208,Grand Coeur,48.68482971191406,6.182030200958252,4,2.0,False,False,54395,Nancy,54
+Citiz,Citiz Lyon,470,Villeurbanne - Cusset,45.766300201416,4.90059423446655,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Grand Est,270,Jean Macé (Meinau),48.55618667602539,7.749269962310791,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,140,Bateliers (Krutenau),48.58099365234375,7.75630521774292,2,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Gironde,681,Jean-Jacques Bosc,44.81645965576172,-0.5493199825286865,2,2.0,False,False,33039,Bègles,33
+Citiz,Citiz Gironde,682,Galliéni,44.8226318359375,-0.5932000279426575,2,2.0,False,False,33522,Talence,33
+Citiz,Citiz Gironde,683,Mouneyra,44.83047866821289,-0.5887600183486938,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,684,Boucheries,44.83583831787109,-0.5694379806518555,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,686,Piscine Judaïque,44.84086990356445,-0.5924999713897705,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,687,Gauthier / Chartreuse,44.83536148071289,-0.5990599989891052,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,690,Place Lopès / rue Bahr,44.8462335914074,-0.613110432671286,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,691,Avenue d'Eysines,44.863868713378906,-0.6196799874305725,2,2.0,False,False,33069,Le Bouscat,33
+Citiz,Citiz Développement,1725,Hôtel de Ville,47.39142,0.689582,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1833,Henri IV,48.87186,2.228493,2,2.0,False,False,92073,Suresnes,92
+Citiz,Citiz Développement,1905,SWEETLY,46.14828,-1.157977,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Nantes,560,Jean Jaurès,47.21929168701172,-1.561671018600464,3,2.0,False,False,44109,Nantes,44
+Citiz,Citiz Gironde,669,Peixotto,44.8066291809082,-0.5924500226974487,2,2.0,False,False,33522,Talence,33
+Citiz,Citiz Gironde,670,Anatole France,44.81142044067383,-0.5632699728012085,2,2.0,False,False,33039,Bègles,33
+Citiz,Citiz Gironde,699,Clémenceau / Tourny,44.84462356567383,-0.5786030292510986,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Grand Est,134,Laiterie (Gare),48.57500457763672,7.730104923248291,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Gironde,700,Orléans,44.84383010864258,-0.5721399784088135,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,701,Québec,44.88233184814453,-0.5696300268173218,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,703,Fourcand / Barraud,44.847164154052734,-0.5837529897689819,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,704,Grand Parc / Europe - Cours de Luze,44.8583213168987,-0.580664084781362,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,707,Mairie de Bruges,44.8816656324356,-0.612686649075032,2,2.0,False,False,33075,Bruges,33
+Citiz,Citiz Développement,1677,RER Alfortville Maisons-Alfort,48.8026796,2.4255347,2,2.0,False,False,94002,Alfortville,94
+Citiz,Citiz Développement,1680,POMPIDOU,48.8755294,2.2325856,2,2.0,False,False,92073,Suresnes,92
+Citiz,Citiz Développement,1681,Les Bons Raisins,48.8656397,2.2150462,2,2.0,False,False,92073,Suresnes,92
+Citiz,Citiz Développement,1712,JARDIN BOTANIQUE LES JARDINS DE THEIA,47.38616,0.663086,2,2.0,False,False,37195,La Riche,37
+Citiz,Citiz Développement,1715,QUARTIERS MAÎTRES,46.16156,-1.21553,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Gironde,676,Barrière de Toulouse,44.81441116333008,-0.5726699829101562,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,677,Delacroix,44.82289123535156,-0.5541200041770935,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,678,Pelleport Pont du Guit,44.82397079467773,-0.5583599805831909,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,679,Commandant Arnould,44.83683013916016,-0.5775099992752075,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,680,Jardins Hôtel de Ville,44.83755874633789,-0.5812600255012512,3,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1810,Tasta - Messager,44.8787026001239,-0.585749243372019,2,2.0,False,False,33075,Bruges,33
+Citiz,Citiz Gironde,1916,Jardin public / Verdun,44.847537573565,-0.576185078048113,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1917,Paludate / Commerce,44.8276672441117,-0.551822619222377,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Développement,60,Belvédère,48.87406921386719,2.224126100540161,3,2.0,False,False,92073,Suresnes,92
+Citiz,Citiz Développement,1184,Gare (nouvelle),47.5854333,1.325215,2,2.0,False,False,41018,Blois,41
+Citiz,Citiz Développement,1535,7 rue de Seine,48.809605,2.41117,3,2.0,False,False,94002,Alfortville,94
+Citiz,Citiz Développement,1560,TAMARIS,46.144546,-1.14126,2,2.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Développement,1634,Place Bouchard,49.18410383626941,-0.3643882256209964,3,2.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1636,Gare sud,49.1751486,-0.3496331,3,2.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1637,Place de la Résistance,49.180395995482215,-0.3558691899609194,2,2.0,False,False,14118,Caen,14
+Citiz,Citiz Gironde,692,Cours du Médoc / Tatry,44.86344146728516,-0.5725200176239014,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,693,Louis Fargue,44.86523818969727,-0.5653300285339355,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,694,Lucien Faure,44.863380432128906,-0.5570899844169617,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,695,Balguerie,44.860618591308594,-0.5633999705314636,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,697,Quai des Chartrons / Cours du Médoc,44.85538101196289,-0.56427001953125,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,698,Lagrange / Frère,44.8537483215332,-0.5792199969291687,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Développement,45,Cathédrale-Sicard,47.394527435302734,0.6937609910964966,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Auvergne-Rhône-Alpes,757,Rue des Fleurs - Jean Jaurès,45.56890106201172,5.91349983215332,2,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,761,Parking P+R,45.55989074707031,5.897286891937256,3,2.0,False,False,73087,Cognin,73
+Citiz,Citiz Occitanie,1877,Grand Carnot,43.6046716,1.4495826,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1878,Boulevard des Minimes,43.6151185,1.4487947,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Développement,46,Gare,47.390403747558594,0.6944929957389832,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,47,Jean Jaurès (16 bd Beranger),47.38991165161133,0.6871880292892456,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,48,Michelet (place),47.38682556152344,0.6912750005722046,3,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,50,Velpeau,47.38774490356445,0.7022020220756531,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,51,Mairie,48.86116,2.443582,3,2.0,False,False,93048,Montreuil,93
+Citiz,Citiz Développement,53,Croix de Chavaux,48.85652929771717,2.4370003401433435,3,2.0,False,False,93048,Montreuil,93
+Citiz,Citiz Développement,54,Gare de St Pierre des Corps,47.38666915893555,0.7245200276374817,3,2.0,False,False,37233,Saint-Pierre-des-Corps,37
+Citiz,Citiz Développement,55,Rabelais,47.384465176808966,0.6764487080518717,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,57,Paul Bert,47.4027099609375,0.6940770149230957,3,2.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,59,Longchamp,48.86725997924805,2.2221620082855225,3,2.0,False,False,92073,Suresnes,92
+Citiz,Citiz Gironde,1661,Saint Michel / Monnaie,44.8339612030894,-0.562571029774551,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Auvergne-Rhône-Alpes,734,Dominique Villars,45.1899528503418,5.733720779418945,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,768,CEA Entrée principale,45.201080322265625,5.705545902252197,4,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1780,Georges Payan,43.5710907,1.4997686,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1799,Pasteur-Mairie,43.634472,1.393289,2,2.0,False,False,31069,Blagnac,31
+Citiz,Citiz Occitanie,1800,Odyssud-Ritouret,43.6359138,1.3850083,2,2.0,False,False,31069,Blagnac,31
+Citiz,Citiz Occitanie,1801,Guyenne-Berry,43.631161,1.3911518,2,2.0,False,False,31069,Blagnac,31
+Citiz,Citiz Occitanie,1806,Bayard,43.6094328,1.4488518,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1807,Belfort,43.6079044,1.4509285,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1808,Gabriel Péri,43.605946,1.4528738,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Gironde,1918,Parc Rivière,44.8540955630022,-0.586361192966609,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1919,Jardin Botanique / Abadie,44.84374,-0.5570683,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1920,Barbey / Vilaris,44.8264864668885,-0.564075476329607,2,2.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Auvergne-Rhône-Alpes,719,SNCF Gare d'Annecy - Glières,45.90030670166016,6.122179985046387,3,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,721,SNCF Gare de Chambéry,45.57099914550781,5.919000148773193,2,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,724,CAF Alliés,45.16953659057617,5.7301530838012695,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,726,Bir Hakeim,45.18862533569336,5.736615180969238,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Développement,44,Constantine-Commerce,47.39515686035156,0.6841260194778442,2,2.0,False,False,37261,Tours,37
+Citiz,Citiz Occitanie,1665,Virginia Woolf,43.6542712,1.4386781,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1666,Purpan,43.6106713,1.3972581,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1668,Argoulets Métro,43.6238357,1.4766294,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1726,Parking Monestie,43.56287475359773,1.290864033423648,2,2.0,False,False,31424,Plaisance-du-Touch,31
+Citiz,Citiz Occitanie,1727,Mairie de Lévignac,43.66708615893174,1.194170643783381,2,2.0,False,False,31297,Lévignac,31
+Citiz,Citiz Occitanie,1728,Parking Jean Jaurès,43.578301,1.272448,2,2.0,False,False,31526,La Salvetat-Saint-Gilles,31
+Citiz,Citiz Occitanie,1729,Place du 8 Mai 1945,43.60004050905629,1.234361291304918,2,2.0,False,False,31291,Léguevin,31
+Citiz,Citiz Occitanie,1731,Corraze,43.5811413,1.4860941,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1746,Gare Saint-Martin-du-Touch,43.5994029,1.3724193,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1880,Aqueduc,43.602026,1.457355,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1881,Pont des Catalans,43.605266,1.428371,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Grand Poitiers,548,GARE TOUMAÏ,46.58420944213867,0.3359949886798858,3,2.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,550,MARBOURG,46.589061,0.361505,3,2.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1485,MAGENTA,46.578792,0.339976,3,2.0,False,False,86194,Poitiers,86
+Citiz,Citiz Développement,43,Halles,47.39277648925781,0.6796849966049194,3,2.0,False,False,37261,Tours,37
+Citiz,Citiz Auvergne-Rhône-Alpes,732,Apvril,45.18622589111328,5.729885101318359,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1371,Carmes,43.5972595214844,1.44472897052765,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1372,Palais de Justice,43.5916557312012,1.44329297542572,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1373,URSS,43.5829963684082,1.44853496551514,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1374,François Verdier,43.6018486022949,1.45199203491211,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1375,Saint Cyprien,43.597484588623,1.4313360452652,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1532,Gare de Castelnaudary,43.3131418,1.9498614,2,2.0,False,False,11076,Castelnaudary,11
+Citiz,Citiz Occitanie,1537,Michel Ange,43.6241436,1.4503522,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1555,Bois de Saget,43.6614633,1.4987193,2,2.0,False,False,31488,Saint-Jean,31
+Citiz,Citiz Occitanie,1613,Doumergue,43.5847133,1.3480058,2,2.0,False,False,31557,Tournefeuille,31
+Citiz,Citiz Occitanie,1809,Saint-Georges,43.6036992,1.4512684,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1812,Louise Bourgeois,43.5327575,1.4799523,2,2.0,False,False,31035,Auzeville-Tolosane,31
+Citiz,Citiz Occitanie,1831,Boudou,43.650998,1.44487,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1851,Cité de l'Hers,43.5966278,1.483689,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1876,Saint-Michel Marcel Langer,43.5851963,1.4475838,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,748,St Bruno,45.1861457824707,5.713963985443115,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1664,Gare Saint-Agne,43.5799559,1.4497478,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1359,Castanet Tolosan P+R,43.5079689025879,1.50662195682526,2,2.0,False,False,31113,Castanet-Tolosan,31
+Citiz,Citiz Occitanie,1360,Aéroconstellation P+R,43.6638526916504,1.36201095581055,3,2.0,False,False,31056,Beauzelle,31
+Citiz,Citiz Auvergne-Rhône-Alpes,816,SNCF Gare d'Aix-les-Bains - Charles de Gaulle,45.688263,5.910197,2,2.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,821,Pont de Vence,45.23038482666016,5.68335485458374,3,2.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Auvergne-Rhône-Alpes,829,Desaix - Commandant GILOT,45.181549072265625,5.721517086029053,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,801,Jaurès - Covet,45.56692886352539,5.915060997009277,2,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,802,Carrefour de la Trousse,45.572078704833984,5.959740161895752,3,2.0,False,False,73213,La Ravoire,73
+Citiz,Citiz Auvergne-Rhône-Alpes,803,Agence Citiz,45.188018798828125,5.7199578285217285,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,810,"SNCF Gare de Bourgoin-Jallieu, Impasse de le Marbrerie (1)",45.58383,5.27582,3,2.0,False,False,38053,Bourgoin-Jallieu,38
+Citiz,Citiz Occitanie,1364,Casablanca,43.5691604614258,1.50142800807953,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1771,Nazareth,43.5954654,1.4457437,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1772,Hôtel de Région,43.5902498,1.4419732,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1779,Santiago du Chili,43.5679647,1.5070797,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,765,CHU,45.201497,5.742415,2,2.0,False,False,38516,La Tronche,38
+Citiz,Citiz Occitanie,1369,Grand Rond,43.5958061218262,1.45490300655365,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1370,Héraclès,43.6087188720703,1.43021297454834,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1334,Courrège,43.5833930969238,1.47002816200256,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1335,Maourine,43.6303634643555,1.44957900047302,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1337,Esquirol Parking Indigo,43.6006050109863,1.44538295269012,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1338,Gare des Ramassiers,43.6016426086426,1.35402202606201,2,2.0,False,False,31149,Colomiers,31
+Citiz,Citiz Occitanie,1340,Mairie de Tournefeuille,43.5832633972168,1.34531497955322,2,2.0,False,False,31557,Tournefeuille,31
+Citiz,Citiz Occitanie,1343,Soupetard,43.6100959777832,1.47182500362396,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1344,Grande Bretagne,43.6017684936523,1.41105794906616,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1345,Lacourtensourt,43.662109375,1.42243599891663,2,2.0,False,False,31022,Aucamville,31
+Citiz,Citiz Occitanie,1346,Mairie de Quint-Fonsegrives,43.5852355957031,1.52998900413513,2,2.0,False,False,31445,Quint-Fonsegrives,31
+Citiz,Citiz Occitanie,1348,Marcel Bouvier,43.6214447021484,1.45750105381012,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1350,Oncopole P+R,43.5548439025879,1.42965698242188,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,781,Place des Romains - Avenue du Stand,45.90802383422852,6.1215500831604,2,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,790,SNCF Gare de Voiron,45.364358,5.594132,3,2.0,False,False,38563,Voiron,38
+Citiz,Citiz Occitanie,1662,IUT Ponsan,43.5660967,1.4591218,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1355,Bellefontaine,43.5649642944336,1.3981260061264,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1357,Balma Gramont P+R,43.6287422180176,1.48182702064514,2,2.0,False,False,31044,Balma,31
+Citiz,Citiz Grand Est,189,Arquebusiers (Contades),48.5920524597168,7.759597778320312,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,190,Pontonniers (Tribunal),48.5841178894043,7.756669998168945,2,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Occitanie,1316,Sept Deniers,43.6168746948242,1.40814697742462,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1317,La Gloire,43.6073150634766,1.46884202957153,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1318,Mairie de Saint-Alban,43.6933364868164,1.41276395320892,2,2.0,False,False,31467,Saint-Alban,31
+Citiz,Citiz Occitanie,1319,Ormes,43.5413131713867,1.48298501968384,2,2.0,False,False,31446,Ramonville-Saint-Agne,31
+Citiz,Citiz Occitanie,1321,Fontaine Lestang,43.5872567,1.4178746,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1323,Casselardit,43.6039581298828,1.40773928165436,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1324,Roseraie,43.6193504333496,1.47028994560242,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1327,Wilson,44.4461212158203,1.43954694271088,2,2.0,False,False,46042,Cahors,46
+Citiz,Citiz Auvergne-Rhône-Alpes,840,CRAN GEVRIER Passerelles Papeteries,45.90739059448242,6.1039252281188965,3,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,841,Centre Bourg,45.564212799072266,5.944493770599365,2,2.0,False,False,73029,Barberaz,73
+Citiz,Citiz Auvergne-Rhône-Alpes,845,Bellevue - Vallin Fier,45.91954040527344,6.124137878417969,2,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Occitanie,1366,Patte d'oie,43.5959625244141,1.42255795001984,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1367,Jean Jaurès,43.6055016,1.4495373,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1332,Place Jean Jaurès,43.9249229431152,2.14896011352539,2,2.0,False,False,81004,Albi,81
+Citiz,Citiz Occitanie,1351,Basso Cambo P+R,43.5694427490234,1.39171004295349,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1352,Argoulets P+R,43.624813079834,1.47750699520111,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1354,Gare de Montaudran,43.5738410949707,1.480309009552,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1315,Hippodrome,43.5932350158691,1.40564203262329,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Lyon,438,Neuville sur Saône,45.8778255684905,4.84134552974297,2,2.0,False,False,69143,Neuville-sur-Saône,69
+Citiz,Citiz Lyon,439,Saint-Germain-au-Mont-d'Or,45.8835182189941,4.80379819869995,2,2.0,False,False,69207,Saint-Germain-au-Mont-d'Or,69
+Citiz,Citiz Lyon,440,Lyon 7ème - Girondins,45.7407569885254,4.83380699157715,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,441,Lyon 6ème - Roosevelt - Boileau,45.769344329834,4.84904098510742,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,442,Lyon 1er - Place Colbert,45.7728004455566,4.83425998687744,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,443,Lyon 1er - Place Morel,45.7718658447266,4.82619380950928,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,444,Lyon 1er - Bourse - Bât d'Argent,45.7659149169922,4.83681201934814,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,151,Rome (Esplanade),48.57732391357422,7.768857002258301,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,154,Black Swans (Neudorf),48.57380294799805,7.766585826873779,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,155,Danube (Neudorf),48.5734977722168,7.768025875091553,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,185,St Aloïse (Neudorf),48.564361572265625,7.761331081390381,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,188,Ehrmann (Contades),48.59135437011719,7.755242824554443,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Occitanie,1293,Place Marcadieu,43.231559753418,0.0841315016150475,2,2.0,False,False,65440,Tarbes,65
+Citiz,Citiz Auvergne-Rhône-Alpes,846,Place Porte Reine,45.56416702270508,5.920472145080566,2,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,847,Place Attache Aux Boeufs,45.44189453125,4.389369010925293,2,2.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Occitanie,1329,Gare de Cahors,44.4488222,1.4342899,2,2.0,False,False,46042,Cahors,46
+Citiz,Citiz Occitanie,1331,Albi Gare,43.9221687316895,2.13780903816223,2,2.0,False,False,81004,Albi,81
+Citiz,Citiz Occitanie,1302,Bourrassol,43.6001319885254,1.4198169708252,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1303,Barrière de Paris,43.6275405883789,1.43393003940582,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1304,Halle de La Machine,43.5738258361816,1.47528600692749,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1307,Barrière de Muret,43.5798402,1.4237194,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1308,Boulevard de Suisse,43.6134719848633,1.42004001140594,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,867,Thiers (53),45.184200286865234,5.71917200088501,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,848,SNCF Gare d'Annemasse - AGGLO,46.19600296020508,6.230897903442383,2,2.0,False,False,74012,Annemasse,74
+Citiz,Citiz Auvergne-Rhône-Alpes,849,Archamps Communauté Communes du Genevois,46.13878631591797,6.118277072906494,2,2.0,False,False,74016,Archamps,74
+Citiz,Citiz Auvergne-Rhône-Alpes,855,Hôtel de Ville Amédée VIII de Savoie,46.14446572983697,6.080736844115906,2,2.0,False,False,74243,Saint-Julien-en-Genevois,74
+Citiz,Citiz Auvergne-Rhône-Alpes,857,Centre ville,46.3315345,6.0583226,2,2.0,False,False,01173,Gex,01
+Citiz,Citiz Auvergne-Rhône-Alpes,861,Gare SNCF TGV ROVALTAIN,44.988541,4.97625,3,2.0,False,False,26004,Alixan,26
+Citiz,Citiz Occitanie,1273,Canal du Midi,43.614128112793,1.43127000331879,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,880,Champs Elysées-Eaux Claires,45.17840194702149,5.709994792938232,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,862,SNCF Gare de St-Julien-en-Genevois - Place du Crêt,46.14380645751953,6.082779884338379,2,2.0,False,False,74243,Saint-Julien-en-Genevois,74
+Citiz,Citiz Auvergne-Rhône-Alpes,863,Avenue des Ducs,45.56739807128906,5.924088001251221,3,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Occitanie,1310,Jean Rieux,43.5916404724121,1.4701566696167,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1311,Jules Julien,43.5746765136719,1.45250201225281,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1277,Marnac,43.5465087890625,1.47733795642853,2,2.0,False,False,31446,Ramonville-Saint-Agne,31
+Citiz,Citiz Occitanie,1278,Métro Ramonville,43.5558395385742,1.475909948349,2,2.0,False,False,31446,Ramonville-Saint-Agne,31
+Citiz,Citiz Occitanie,1279,Capitole Parking Indigo,43.6043395996094,1.44345796108246,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1281,Du Barry Parking Indigo,43.6011962890625,1.40472996234894,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1286,Guilheméry,43.6005249023438,1.46396601200104,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1287,Matabiau Bonrepos,43.6121864318848,1.45187401771545,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1288,Fer à Cheval,43.5932846069336,1.43399000167847,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1289,Place Dupuy,43.5994682312012,1.45476198196411,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1290,Croix de Pierre,43.5849609375,1.42787003517151,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1291,Marengo Boulevard,43.609584,1.4555002,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Provence,1471,Jeanne d'Arc,43.2934265136719,5.40280294418335,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1472,Bruys,43.2968788146973,5.38867616653442,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1473,Vallier,43.2996520996094,5.40169620513916,4,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Grand Est,110,Prévert,48.60173034667969,7.738532066345215,3,2.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,113,Place Arnold (Orangerie),48.58501815795898,7.771204948425293,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,1149,Lyon 6ème - Créqui-Roosevelt,45.7686195373535,4.84606599807739,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Occitanie,1297,Jeanne d'Arc,43.609748840332,1.44706201553345,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1298,La Cavalerie,44.0088043212891,3.15834903717041,2,2.0,False,False,12063,La Cavalerie,12
+Citiz,Citiz Occitanie,1300,Amidonniers,43.609733581543,1.41987204551697,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1301,Chalets,43.6149101257324,1.44326996803284,3,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Angers,284,Giffard Langevin,47.46327972412109,-0.5590599775314331,3,2.0,False,False,49007,Angers,49
+Citiz,Citiz Auvergne-Rhône-Alpes,900,Clinique Belledonne,45.18598556518555,5.759891033172607,2,2.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Angers,1186,Centre Avrillé,47.503303,-0.58692,4,2.0,False,False,49015,Avrillé,49
+Citiz,Citiz Occitanie,1269,Jolimont,43.6149940490723,1.46210396289825,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1270,Arènes P+R,43.5930404663086,1.41737699508667,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1271,Faculté de Droit,43.6063041687012,1.43848705291748,3,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Grand Est,174,St Vincent,49.12392425537109,6.172266960144043,4,2.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,180,Berne (Bourse),48.5771369934082,7.755503177642822,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,1143,La Mulatière - Fontanières,45.7268295288086,4.81177711486816,2,2.0,False,False,69142,La Mulatière,69
+Citiz,Citiz Lyon,1144,Saint-Genis-Laval - Hôpitaux Sud,45.7006187438965,4.80424880981445,2,2.0,False,False,69204,Saint-Genis-Laval,69
+Citiz,Citiz Lyon,1145,Lyon 6ème - Bellecombe-Viabert,45.7663879394531,4.86482715606689,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1146,Lyon 6ème - Musée Guimet,45.7738647460938,4.84946298599243,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1147,Lyon 6ème - Vitton-Béranger,45.770149230957,4.8598952293396,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Provence,1479,Camas George,43.29462,5.3978,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Angers,278,Mitterrand,47.477149963378906,-0.5515649914741516,2,2.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,280,Louis Gain,47.46890640258789,-0.5398629903793335,2,2.0,False,False,49007,Angers,49
+Citiz,Citiz Auvergne-Rhône-Alpes,891,Muret,45.22633743286133,5.686428070068359,3,2.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Occitanie,1274,Pont des Demoiselles,43.5876350402832,1.45982599258423,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1275,Minimes/Nougaro,43.6207809448242,1.43553805351257,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1276,Rangueil,43.5749053955078,1.46145796775818,2,2.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,941,Les Burgondes,46.14706802368164,6.08771276473999,2,2.0,False,False,74243,Saint-Julien-en-Genevois,74
+Citiz,Citiz Provence,1470,Goudard,43.2938919067383,5.39416599273682,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,920,Arande,46.14104080200195,6.079351902008057,2,2.0,False,False,74243,Saint-Julien-en-Genevois,74
+Citiz,Citiz Auvergne-Rhône-Alpes,922,SNCF Gare de Goncelin,45.34184646606445,5.974249839782715,2,2.0,False,False,38181,Goncelin,38
+Citiz,Citiz Auvergne-Rhône-Alpes,933,SNCF Gare d'Aix-les-Bains - Wilson,45.6862678527832,5.910041809082031,2,2.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Grand Est,238,Gare de Metz - Les Arènes,49.10681,6.17817,2,2.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,247,Porte Blanche (Gare),48.5796127319336,7.731630802154541,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,248,Palais des Fêtes (Tribunal),48.59066390991211,7.749019145965576,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,249,Musau (Neudorf),48.5678939819336,7.768152236938477,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,456,Lyon 5ème - Saint-Paul,45.765977912525,4.82823429460604,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,457,Lyon 5ème - Vieux-Lyon,45.760311126709,4.82636022567749,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,458,Lyon 5ème - Ménival,45.7568893432617,4.78372716903687,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,459,Villeurbanne - Buers,45.7748489379883,4.888023853302,3,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,462,Villeurbanne - Pôle Pixel,45.7580337524414,4.89982604980469,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,467,Villeurbanne - République,45.7711067199707,4.87170314788818,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,468,Sathonay-Camp,45.8224411879186,4.87259076988712,2,2.0,False,False,69292,Sathonay-Camp,69
+Citiz,Citiz Lyon,508,Lyon 7ème - Gerland - Debourg,45.7303733825684,4.83661794662476,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1116,Lyon 6ème - Bugeaud - Garibaldi,45.7666893005371,4.85126781463623,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Provence,1442,Endoume,43.2848091125488,5.35921716690063,25,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1444,Fourragère,43.3040084838867,5.42457485198975,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,944,Marceau (15),45.18333053588867,5.721500873565674,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,966,Malakoff,45.18896865844727,5.738432884216309,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,967,Grand Annecy parking [Station électrique],45.911109924316406,6.115499973297119,2,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Angers,281,Monprofit,47.47433090209961,-0.5673999786376953,2,2.0,False,False,49007,Angers,49
+Citiz,Citiz Provence,1445,Mazargues FLEX,43.2479553222656,5.40100002288818,2,2.0,True,False,13055,Marseille,13
+Citiz,Citiz Provence,1446,Chutes Lavie,43.3091049194336,5.39666604995728,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1448,Sakakini,43.2934684753418,5.40145397186279,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1449,Jean Moulin Timone,43.2892532348633,5.40017318725586,10,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1450,Marx Dormoy,43.302083,5.395585,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1455,Pol Lapeyre,43.292896270752,5.40907096862793,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1456,Barral Mazargues,43.2636756896973,5.39278507232666,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1457,Emile Sicard,43.271167755127,5.38593196868896,5,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1460,Saint Barnabé FLEX,43.3039283752441,5.41629219055176,2,2.0,True,False,13055,Marseille,13
+Citiz,Citiz Provence,1461,Joliette Schuman,43.3043060302734,5.36714792251587,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1427,Cours Gouffé,43.2852973937988,5.39082193374634,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1428,Lord Duveen,43.2753944396973,5.38454484939575,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,977,Paul Dijon,45.1849365234375,5.720738887786865,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,995,CEA Metrovélo,45.20278930664063,5.704309940338135,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1429,Prado-Latil,43.2744026184082,5.39055919647217,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1430,Paradis Delibes,43.279857635498,5.38257122039795,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1431,Coteau - Taddei,43.286635,5.362672,7,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1432,Libération,43.3003768920898,5.38949918746948,10,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1433,Cours Franklin Roosevelt,43.2989702739557,5.38686076850341,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1434,Camas Jaubert,43.2975883483887,5.39358997344971,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1436,Toulon,43.2841606140137,5.39576482772827,5,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1437,Langeron,43.2905960083008,5.38861989974976,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1438,Liandier,43.2784156799316,5.39207696914673,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1439,Malmousque Kennedy,43.2824783325195,5.35065793991089,8,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1440,Boisson,43.3029861450195,5.40357494354248,8,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1441,Deiss Chartreux,43.3118553161621,5.40144300460815,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1413,Blancarde,43.296199798584,5.40537309646606,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1414,Pasteur,43.2898788452148,5.35935688018799,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1415,Place Corderie,43.2907638549805,5.37234878540039,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1416,Paradis,43.2873840332031,5.37931489944458,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1417,Pauriol,43.2886848449707,5.39105796813965,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1418,Paradis Mélizan,43.2837905883789,5.3807578086853,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1038,André Argouges,45.17780303955078,5.744287967681885,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1040,Alliés (66),45.171535,5.725148,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1419,Timone,43.2917,5.4029,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1420,Chave,43.29541015625,5.39229202270508,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1421,Lodi - ND du Mont,43.2909545898438,5.38579511642456,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1422,Caisserie - Saint-Jean,43.2965316772461,5.3665828704834,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1423,Montricher,43.3055305480957,5.39333200454712,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1424,Frères Barthélémy,43.2934455871582,5.38655996322632,7,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1425,Rouet-Turcat Méry,43.2805404663086,5.38969993591309,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1426,Notre Dame Bonnefoy,43.2866706848145,5.3738431930542,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1404,Arras,43.3088003,5.4011811,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1406,Blanqui,43.2920913696289,5.39055299758911,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1408,Abeilles,43.3013763427734,5.38578987121582,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1411,Berlioz,43.2889671325684,5.38320016860962,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1017,SNCF Gare de Chambéry - Maréchal Leclerc (168),45.57039642333984,5.917302131652832,2,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1019,Mérande (19),45.57181930541992,5.927979946136475,3,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1021,"Pierre de Coubertin (En travaux, appelez-nous pour l’adresse)",45.57797622680664,5.910171985626221,3,2.0,False,False,73065,Chambéry,73
+Citiz,Citiz Provence,1384,Grand Rue,43.2976913452148,5.37060022354126,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1385,Isoard,43.3018913269043,5.39079999923706,3,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1387,Dunkerque,43.3065948486328,5.36762714385986,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1029,CEA - Avenue des Martyrs (142),45.20355987548828,5.702527046203613,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,999,Carmagnole,45.17977142333984,5.764589786529541,3,2.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1001,Couvent Sainte Cécile,45.19089126586914,5.73299503326416,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1011,Louis le Cardonnel (13),45.1790771484375,5.715044975280762,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1014,Dupanloup,45.90362930297852,6.13336992263794,3,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1817,Chamrousse (6),45.179484982593,5.725284025876,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Grand Est,131,Hôtel de ville d'Ostwald,48.550777435302734,7.71115779876709,3,2.0,False,False,67365,Ostwald,67
+Citiz,Citiz Auvergne-Rhône-Alpes,1819,Piscine Intercommunale,45.1507671347531,5.83745740553181,2,2.0,False,False,38422,Saint-Martin-d'Uriage,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1861,marceau (7),45.1838595,5.721379,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1872,Turenne (38),45.1832505,5.7190292,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1379,Camas,43.2957992553711,5.396240234375,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1073,Parking du Globe- Rue Fontaine,46.3564682006836,6.138835906982422,2,2.0,False,False,01143,Divonne-les-Bains,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1085,Parking Barnave,45.23903,5.675657,2,2.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1086,Balleydier - Providence,45.89693832397461,6.130770206451416,2,2.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1052,Mairie de Ferney-Voltaire,46.2557954,6.1077925,3,2.0,False,False,01160,Ferney-Voltaire,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1211,SNCF Gare de Voiron [Station électrique],45.364315,5.594211,3,2.0,False,False,38563,Voiron,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1214,Asiaticus (22) (Place occupée? Ne pas se garer sur la place du marché le WE),45.520557,4.870002,4,2.0,False,False,38544,Vienne,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1247,Plan-de-Ville,45.34314727783203,5.814146041870117,4,2.0,False,False,38442,Saint-Pierre-de-Chartreuse,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1042,Bd Clémenceau (65),45.18232345581055,5.735527038574219,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1045,Jean Perrot (76),45.1754264831543,5.737610816955566,3,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1049,Gambetta (55),45.183135986328125,5.726740837097168,2,2.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1068,Mairie de Saint-Genis-Pouilly,46.2433878,6.0261986,2,2.0,False,False,01354,Saint-Genis-Pouilly,01
+Citiz,Citiz Lyon,1178,Villeurbanne - Salengro,45.7766189575195,4.87301158905029,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,1174,Villeurbanne - La Soie,45.7612380981445,4.91832971572876,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,1175,Villeurbanne - Gare de Villeurbanne,45.7558670043945,4.89086198806763,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,1176,Villeurbanne - Tonkin Nord,45.7788314819336,4.86510181427002,2,2.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Grand Est,87,Tauler (Orangerie),48.58828353881836,7.770202159881592,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,93,Ballon,47.751930236816406,7.33689022064209,3,2.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,94,Gare de Haguenau,48.8135986328125,7.783785820007324,3,2.0,False,False,67180,Haguenau,67
+Citiz,Citiz Grand Est,82,Gare Ouest - Rue du Tir,48.07369613647461,7.346710205078125,3,2.0,False,False,68066,Colmar,68
+Citiz,Citiz Grand Est,78,Turenne (Contades),48.58934783935547,7.756655216217041,5,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,77,Nordfeld,47.75276565551758,7.345475196838379,3,2.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,76,Gruber (Koenigshoffen),48.579063415527344,7.710916996002197,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,75,Gare de Sélestat,48.260353088378906,7.443867206573486,3,2.0,False,False,67462,Sélestat,67
+Citiz,Citiz Grand Est,74,Gare - 17 Novembre,47.742942810058594,7.341014862060547,3,2.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Provence,1388,Joliette - Mazenod,43.3039894104004,5.36601114273071,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1389,Lodi,43.2887001037598,5.38774919509888,5,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Lyon,1156,Lyon 3ème - Sans-Souci,45.7497596740723,4.86853408813477,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1159,Lyon 8ème - Antoine Lumière,45.7412185668945,4.86837577819824,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1160,Lyon 8ème - Mermoz-Californie,45.7329216003418,4.87777709960938,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1161,Lyon 8ème - Etats-Unis - Cazeneuve,45.7345581054688,4.86376476287842,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,507,Lyon 4ème - Pont Churchill,45.7782287597656,4.84052610397339,2,2.0,False,False,69123,Lyon,69
+Citiz,Citiz Provence,1381,Saint Victor - Corderie,43.2899017333984,5.36700010299683,2,2.0,False,False,13055,Marseille,13
+Citiz,Citiz Grand Est,72,Ciarus (Tribunal),48.589326,7.746746,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,84,Petite France Ste Marguerite (Gare),48.58057403564453,7.736602783203125,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,85,Schluthfeld (Neudorf),48.56834,7.752224,6,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,100,Ponts Couverts (Gare),48.581581,7.737955,4,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,101,Gutenberg (Grande-île),48.58127212524414,7.748400211334228,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,102,Jean Jaurès (Neudorf),48.56731414794922,7.773693084716797,3,2.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,105,Gare de Molsheim,48.53721618652344,7.500839233398437,3,2.0,False,False,67300,Molsheim,67
+Citiz,Citiz Grand Est,106,St Laurent,48.613426208496094,7.75164794921875,3,2.0,False,False,67043,Bischheim,67
+Citiz,Citiz Grand Est,109,Concorde,48.60861206054688,7.734739780426025,2,2.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Auvergne-Rhône-Alpes,1060,Hôpital,45.697486877441406,5.906736850738525,2,2.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Lyon,1165,Lyon 9ème - Marietton - Pont SNCF,45.7761192321777,4.80092573165894,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,86,Colonne,48.540095,7.737027,2,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Grand Est,89,Gare de Saverne,48.74445343017578,7.3628082275390625,2,1.0,False,False,67437,Saverne,67
+Citiz,Citiz Grand Est,91,Quai du Sable,48.42317581176758,7.664728164672852,1,1.0,False,False,67130,Erstein,67
+Citiz,Citiz Grand Est,92,Gare d'Erstein,48.42298126220703,7.638957977294922,1,1.0,False,False,67130,Erstein,67
+Citiz,Citiz Grand Est,95,Barberousse,48.81691360473633,7.788443088531494,2,1.0,False,False,67180,Haguenau,67
+Citiz,Citiz Grand Est,96,Bruche (Montagne Verte),48.57146453857422,7.711936950683594,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,117,CTO,48.53816223144531,7.725081920623779,2,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Grand Est,148,Pont de l'Europe (Port du Rhin),48.5716552734375,7.79533576965332,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,143,Ziegelau (Neudorf),48.56533432006836,7.767844200134277,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,142,E3 - Vienne,48.61240005493164,7.717436790466309,3,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,137,Rivetoile (Neudorf),48.57311630249024,7.762228012084961,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,136,Poteries Tram (Poteries),48.5832633972168,7.691351890563965,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,164,Dombasle,48.69193649291992,6.17822790145874,1,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,163,Craffe,48.6984748840332,6.177745819091797,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,162,Commanderie,48.685691833496094,6.167262077331543,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,159,Place de Chambre,49.120582580566406,6.1748127937316895,1,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,158,Dupont des Loges,49.115028381347656,6.174856185913086,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,157,Comédie,49.12178802490234,6.174746036529541,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,156,Chanoine Collin,49.12053680419922,6.17729377746582,3,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,153,Golbéry (Orangerie),48.58699417114258,7.766240119934082,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,152,Marne Anvers (Orangerie),48.58466720581055,7.77360200881958,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,150,Palerme (Esplanade),48.57562255859375,7.763755798339844,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Auvergne-Rhône-Alpes,1616,Rue du Vieux Pont,46.0594547,6.528983,1,1.0,False,False,74169,Marnaz,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1559,Estacade Parking,45.188774,5.7169488,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1558,Quinzaine,45.150977,5.706318,1,1.0,False,False,38151,Échirolles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1554,Parking Antoine Pissard,45.93788,6.629606,2,1.0,False,False,74256,Sallanches,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1553,SNCF Gare de Sallanches,45.936473,6.6358779,2,1.0,False,False,74256,Sallanches,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1549,Paul Héroult,45.146381,5.714161,3,1.0,False,False,38151,Échirolles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1548,Mairie Varces,45.08689,5.681695,1,1.0,False,False,38524,Varces-Allières-et-Risset,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1544,Saint-Simond,45.70788,5.915588,1,1.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1534,Ecole Choudy,45.6963515,5.8958767,1,1.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1533,Rue de Genève (39),46.1930073,6.2271244,1,1.0,False,False,74012,Annemasse,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1501,Barrier,45.703514,5.886598,1,1.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1500,Pont Rouge,45.70419,5.898338,1,1.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1498,Rue roncevaux (201),45.99503,4.71673,2,1.0,False,False,69264,Villefranche-sur-Saône,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1497,SNCF Route de riottier (249),45.98432,4.72173,3,1.0,False,False,69264,Villefranche-sur-Saône,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1268,Parking des Dralis,45.5761943,5.940615,2,1.0,False,False,73031,Bassens,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1266,La monta,45.237999,5.688417,1,1.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1706,Gare,45.245819,5.831056,1,1.0,False,False,38397,Saint-Ismier,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1705,La Dent du Chat (630),45.63449,5.865928,2,1.0,False,False,73179,La Motte-Servolex,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1703,Louis Vidon,45.296068,4.561777,2,1.0,False,False,42023,Bourg-Argental,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1702,ArchParc,46.136538,6.122462,2,1.0,False,False,74016,Archamps,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1698,Parking des cristaux,45.89588,6.64419,1,1.0,False,False,74083,Combloux,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1695,Bibliothèque Universitaire [Alizé - eTotem 22kW],45.1916079,5.7690523,1,1.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1682,Bibliothèque République [Alizé - eTotem 7kW],45.18264831153007,5.793985434555542,1,1.0,False,False,38179,Gières,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1670,parking hoche,45.18619,5.72669,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1669,Stendhal-APEI,45.5717027,5.9057435,1,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1651,"SNCF - Berthollet ( 6, avenue)",45.9036805,6.1218505,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1645,Parking Espace Bellevarde,45.55093,5.98314,1,1.0,False,False,73064,Challes-les-Eaux,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1622,Plateau d'Assy,45.938592,6.706525,1,1.0,False,False,74208,Passy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1781,Rue des Ecoles,45.648787,5.858799,1,1.0,False,False,73051,Le Bourget-du-Lac,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1776,Gare SNCF de Cluses,46.060333,6.582798,1,1.0,False,False,74081,Cluses,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1774,SNCF,45.47274,4.51689,1,1.0,False,False,42207,Saint-Chamond,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1773,Place du Temple (Place occupée? Ne pas se garer sur la place du marché le WE),45.525326,4.8742383,2,1.0,False,False,38544,Vienne,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1770,VRM Médiathèque,44.93335,4.903815,1,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1769,Parking de l'église,45.56957,5.981737,1,1.0,False,False,73030,Barby,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1732,Les Magnolias,45.325173,5.577084,2,1.0,False,False,38239,Moirans,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1721,Parking Louis Blanc,45.988771,4.722479,2,1.0,False,False,69264,Villefranche-sur-Saône,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1719,Mairie de Thonon-les-Bains,46.3729816,6.478167,1,1.0,False,False,74281,Thonon-les-Bains,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1718,Mairie SJA,45.5869,5.99596,2,1.0,False,False,73243,Saint-Jean-d'Arvey,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1713,La Revirée,45.2109389,5.7660959,3,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1709,SNCF Gare de Belleville en Beaujolais,46.111416,4.729403,2,1.0,False,False,69019,Belleville-en-Beaujolais,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1708,Etienne BOISSON [Station électrique],45.444712,4.383253,1,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1911,Rue des écoles (108),45.570798,6.156727,1,1.0,False,False,73270,Saint-Pierre-d'Albigny,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1883,SNCF Gare de Reignier,46.12535,6.268187,1,1.0,False,False,74220,Reignier-Ésery,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1862,Mairie de Reignier-Ésery,46.137028,6.270265,1,1.0,False,False,74220,Reignier-Ésery,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1858,Centre-ville,45.880234,6.324872,1,1.0,False,False,74280,Thônes,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1826,Parking de l'Arcade,45.291698,5.634256,1,1.0,False,False,38565,Voreppe,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1818,Eaux claires (44),45.176083,5.709112,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1815,Quai Pierre bayard (260),45.5676111,5.9335653,1,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1814,Jules Ferry (1),45.56611,5.92952,1,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1813,Chemin de Jacob (141),45.56212,5.91335,1,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1804,Gare SNCF Roman sortie Nord,45.0493,5.05073,2,1.0,False,False,26281,Romans-sur-Isère,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1803,borne électrique village,44.826425,5.622144,1,1.0,False,False,38113,Clelles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1797,Parking de la gare,45.554565,6.6499975,1,1.0,False,False,73006,Aime-la-Plagne,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1796,SNCF Gare de Bellegarde sur Valserine,46.110143,5.826976,2,1.0,False,False,01033,Valserhône,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1795,Mairie de Barby,45.57211,5.97774,2,1.0,False,False,73030,Barby,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1784,Pringy - Pré Billy,45.94000194058712,6.120387766649236,1,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1087,Rue des Martinets,45.1807861328125,5.790831089019775,2,1.0,False,False,38179,Gières,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1084,Libération (34),44.91271209716797,4.888573169708252,3,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1083,Parking de l'église,45.205810546875,5.743854999542236,2,1.0,False,False,38516,La Tronche,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1081,Pole Bus 2,44.930938720703125,4.894877910614014,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1079,Parking du Musée de Grenoble - 1er étage entrée Maréchal Randon,45.1949348449707,5.733129024505615,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1078,Quarante cinquième parallèle,44.996962,4.982023,3,1.0,False,False,26084,Châteauneuf-sur-Isère,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1077,Refuge,44.92789840698242,4.894247055053711,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1076,Latour Maubourg,44.93363571166992,4.903223037719727,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1075,Briffaut,44.91986083984375,4.918159008026123,4,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1937,Firmin Robert,45.1399231,5.7006674,1,1.0,False,False,38317,Le Pont-de-Claix,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1936,SNCF Baudin,46.200333,5.216334,1,1.0,False,False,01053,Bourg-en-Bresse,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1935,Berthelot (Les balcons d’Annie),46.1941138,5.214138,1,1.0,False,False,01053,Bourg-en-Bresse,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1933,Mairie de Ville-la-Grand,46.203501,6.249749,1,1.0,False,False,74305,Ville-la-Grand,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1046,Malherbe - Pascal,45.16908264160156,5.73330020904541,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1044,Haxo,45.18673706054688,5.73476505279541,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1071,Les Prémices - Mont Blanc,46.06597900390625,6.301929950714111,2,1.0,False,False,74224,La Roche-sur-Foron,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1067,Nouveau Monde,46.059173583984375,6.574643135070801,2,1.0,False,False,74081,Cluses,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1066,Etienne Grappe - Parking P+R [Alizé - Total 22kW],45.1720085144043,5.757769107818604,2,1.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1065,Hôtel de Ville - Parking P+R [Station électrique],45.17982864379883,5.695913791656494,2,1.0,False,False,38485,Seyssinet-Pariset,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1062,SNCF Gare de St-Pierre-en-Faucigny,46.05913543701172,6.375274181365967,2,1.0,False,False,74250,Saint-Pierre-en-Faucigny,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1061,Place Charles de Gaulle (4),45.325631,5.56451606750488,2,1.0,False,False,38239,Moirans,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1058,Crêt de roc [Station électrique],45.44343948364258,4.390779972076416,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1057,Malraux-CCI,45.18570709228516,5.729337215423584,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1054,Grand Sablon [Alizé - Cahors 7kW],45.19974136352539,5.750401020050049,2,1.0,False,False,38516,La Tronche,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1053,Henri Barbusse (16) [Station électrique],45.15702438354492,5.736069202423096,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1089,SNCF Place de la Gare,45.985107421875,4.7208781242370605,2,1.0,False,False,69264,Villefranche-sur-Saône,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1023,Ursules (11),45.43523406982422,4.387628078460693,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1022,Mairie de Guilherand-Granges,44.9326517,4.872346813051061,2,1.0,False,False,07102,Guilherand-Granges,07
+Citiz,Citiz Auvergne-Rhône-Alpes,1018,Jean Girard Madoux (32),45.56922912597656,5.911548137664795,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1016,Docteur Hermite,45.1817626953125,5.708475112915039,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Provence,1405,Saint Charles Voltaire,43.302437,5.38385,4,1.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1403,Allées de l'Oulle (ex Oratoire),43.9492874145508,4.80069303512573,2,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Provence,1401,National Électrique,43.3062286376953,5.38326692581177,2,1.0,False,False,13055,Marseille,13
+Citiz,Citiz Provence,1400,Lycée Aubanel,43.952335357666,4.81180095672607,2,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Provence,1399,Rue St Etienne,43.9504241943359,4.80445194244385,2,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Provence,1398,Ecobio Université,43.9503173828125,4.82142019271851,9,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Provence,1397,Porte Limbert,43.9440460205078,4.81464004516602,2,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Provence,1396,Porte St Michel,43.9430541992188,4.80969476699829,5,1.0,False,False,84007,Avignon,84
+Citiz,Citiz Auvergne-Rhône-Alpes,1051,Karben - Parking P+R [Station électrique],45.24273681640625,5.669486045837402,2,1.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Grand Est,149,Mélanie (Robertsau),48.60320663452149,7.783641815185547,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,1123,Lyon 5ème - Joliot Curie,45.7537994384766,4.77618980407715,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1121,Lyon 5ème - Radisson - Jaricot,45.7598342895508,4.81683111190796,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1120,Lyon 5ème - Valdo - Witkowski,45.7501182556152,4.78543996810913,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1118,Lyon 2ème - Charité - Auguste Comte,45.7548332214355,4.83118009567261,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1117,Sainte-Foy - Place St Luc,45.7494049072266,4.80109977722168,1,1.0,False,False,69202,Sainte-Foy-lès-Lyon,69
+Citiz,Citiz Grand Est,179,Parc d'Innovation - 7 Hotel,48.523399353027344,7.73866081237793,2,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Grand Est,178,Mairie de Lingolsheim,48.55571746826172,7.682474136352539,1,1.0,False,False,67267,Lingolsheim,67
+Citiz,Citiz Grand Est,177,Gare de Benfeld,48.37482452392578,7.5862040519714355,2,1.0,False,False,67028,Benfeld,67
+Citiz,Citiz Grand Est,176,St Joseph,48.08226013183594,7.347602844238281,2,1.0,False,False,68066,Colmar,68
+Citiz,Citiz Grand Est,175,Place Haslinger,48.08176040649414,7.35908317565918,3,1.0,False,False,68066,Colmar,68
+Citiz,Citiz Grand Est,173,Place Reggio,48.773246,5.158985,2,1.0,False,False,55029,Bar-le-Duc,55
+Citiz,Citiz Grand Est,172,Gare de Bar-le-Duc,48.77296447753906,5.1669111251831055,3,1.0,False,False,55029,Bar-le-Duc,55
+Citiz,Citiz Grand Est,171,Sablon - Belchamps,49.10534286499024,6.175780773162842,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,170,Baggersee,48.54469299316406,7.737936973571777,2,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Auvergne-Rhône-Alpes,978,CEA Minatec,45.195831298828125,5.710597038269043,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1015,Meythet-Hôtel de Ville,45.91578674316406,6.092559814453125,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1012,École Saint François La Salle - Jean Jaures,45.66912841796875,6.38990592956543,2,1.0,False,False,73011,Albertville,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1010,SNCF Gare de Grenoble - Moulin de Canel,45.1903190612793,5.7167558670043945,5,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1008,Parking Sirand,45.29578,5.63764,2,1.0,False,False,38565,Voreppe,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1007,Général de Gaulle (918),45.22859191894531,5.804712772369385,2,1.0,False,False,38249,Montbonnot-Saint-Martin,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1004,Libération (8),45.17960739135742,5.715962886810303,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1003,Parc & Villages Falaise [Station électrique],45.20376968383789,5.661940097808838,2,1.0,False,False,38474,Sassenage,38
+Citiz,Citiz Auvergne-Rhône-Alpes,998,Mairie de La Roche-sur-Foron,46.06697082519531,6.311892986297607,2,1.0,False,False,74224,La Roche-sur-Foron,74
+Citiz,Citiz Auvergne-Rhône-Alpes,997,SNCF Gare la Roche sur Foron [Station électrique],46.06819152832031,6.3036208152771,2,1.0,False,False,74224,La Roche-sur-Foron,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1032,La Bruyère (66),45.16657257080078,5.73121976852417,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1030,Le Prisme - Parking P+R,45.16481399536133,5.691401958465576,2,1.0,False,False,38486,Seyssins,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1028,Hôtel de Ville [Station électrique],45.191139221191406,5.688819885253906,2,1.0,False,False,38169,Fontaine,38
+Citiz,Citiz Auvergne-Rhône-Alpes,945,Thiers (42),45.184852600097656,5.719723224639893,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,943,Gymnase Colette Besson,45.176517486572266,5.766047954559326,2,1.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,942,Mairie de Poisy,45.92180633544922,6.062557220458984,2,1.0,False,False,74213,Poisy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,993,CEA - Avenue des Martyrs (74),45.20151138305664,5.705632209777832,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,992,Bouchayer-Viallet [Station électrique],45.18437957763672,5.704103946685791,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,990,Manouchian,44.93398284912109,4.893267154693604,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,988,Square Sylvestre,44.92478942871094,4.888360977172852,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,987,Pl. de la Paix,44.92485427856445,4.895219802856445,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,985,Esclangon,45.19279479980469,5.70834493637085,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,984,Place Paul Doumer,45.04070281982422,5.048768997192383,2,1.0,False,False,26057,Bourg-de-Péage,26
+Citiz,Citiz Auvergne-Rhône-Alpes,981,CEA - Avenue des Martyrs (62),45.2010612487793,5.706210136413574,3,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,979,Place Martin Luther King,46.19843292236328,6.237949848175049,2,1.0,False,False,74012,Annemasse,74
+Citiz,Citiz Auvergne-Rhône-Alpes,918,République Pôle Emploi,45.12272262573242,5.697378158569336,2,1.0,False,False,38317,Le Pont-de-Claix,38
+Citiz,Citiz Auvergne-Rhône-Alpes,917,Avenue de la gare SNCF,45.863525,5.947626,2,1.0,False,False,74225,Rumilly,74
+Citiz,Citiz Auvergne-Rhône-Alpes,916,Arpège 1 Pl. du Théatre,45.67439651489258,6.391451835632324,2,1.0,False,False,73011,Albertville,73
+Citiz,Citiz Provence,1452,Delphes Electrique FLEX,43.2847229,5.3882633,2,1.0,True,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,976,Nelson Mandela-Duboin,46.14280319213867,6.073307991027832,2,1.0,False,False,74243,Saint-Julien-en-Genevois,74
+Citiz,Citiz Auvergne-Rhône-Alpes,974,Mairie de Bluffy,45.86831283569336,6.218371868133545,2,1.0,False,False,74036,Bluffy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,972,Hôtel de Ville,45.23268508911133,5.679622173309326,2,1.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Auvergne-Rhône-Alpes,968,Jourdies,46.07297134399414,6.377273082733154,2,1.0,False,False,74250,Saint-Pierre-en-Faucigny,74
+Citiz,Citiz Auvergne-Rhône-Alpes,947,SNCF Gare d'Albertville,45.672489166259766,6.383090019226074,2,1.0,False,False,73011,Albertville,73
+Citiz,Citiz Auvergne-Rhône-Alpes,946,Liberation (66),45.17402648925781,5.714091777801514,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Angers,275,Lorraine,47.46980285644531,-0.5458390116691589,4,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,274,Imbach,47.47395706176758,-0.5481740236282349,4,1.0,False,False,49007,Angers,49
+Citiz,Citiz Provence,1482,Sidi Brahim Electrique FLEX,43.2975196838379,5.40005922317505,2,1.0,True,False,13055,Marseille,13
+Citiz,Citiz Provence,1467,Blanqui Virgile Marron Électrique Flex,43.2888107299805,5.39119720458984,3,1.0,True,False,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,940,CEA Marie-Louise Paris [Station électrique],45.2022532,5.7047082,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,939,Parc du Pilat 2 rue Benay,45.41902542114258,4.666982173919678,2,1.0,False,False,42168,Pélussin,42
+Citiz,Citiz Auvergne-Rhône-Alpes,937,Mairie de Poisat,45.15894317626953,5.759376049041748,2,1.0,False,False,38309,Poisat,38
+Citiz,Citiz Auvergne-Rhône-Alpes,934,Mairie de Sassenage,45.20670700073242,5.662520885467529,2,1.0,False,False,38474,Sassenage,38
+Citiz,Citiz Auvergne-Rhône-Alpes,921,SNCF Gare d'Annemasse - Émile Zola,46.19744110107422,6.234039783477783,2,1.0,False,False,74012,Annemasse,74
+Citiz,Citiz Auvergne-Rhône-Alpes,919,SNCF Gare de Gières,45.18506622314453,5.785429954528809,2,1.0,False,False,38179,Gières,38
+Citiz,Citiz Grand Est,168,Vélodrome,48.665653228759766,6.166554927825928,1,1.0,False,False,54547,Vandœuvre-lès-Nancy,54
+Citiz,Citiz Grand Est,167,Mon Désert,48.68343353271485,6.173930168151856,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,166,Gare de Nancy - Maginot,48.689736,6.177596,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,165,Driant,48.692236,6.187766,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Lyon,498,Lyon 6ème - Parking LPA Cité Internationale P2,45.7858543395996,4.85670804977417,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,496,Vaulx-en-Velin - La Soie,45.76132771389691,4.923709192352527,2,1.0,False,False,69256,Vaulx-en-Velin,69
+Citiz,Citiz Lyon,495,Vaulx-en-Velin - Village,45.786247253418,4.92418813705444,1,1.0,False,False,69256,Vaulx-en-Velin,69
+Citiz,Citiz Lyon,493,Vaulx-en-Velin - Centre ville,45.778450012207,4.91778993606567,1,1.0,False,False,69256,Vaulx-en-Velin,69
+Citiz,Citiz Grand Est,197,Muse - Amphithéatre,49.10567855834961,6.181794166564941,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,196,Rives du Bohrie - Crèche,48.55192565917969,7.706169128417969,2,1.0,False,False,67365,Ostwald,67
+Citiz,Citiz Grand Est,195,Rives du Bohrie - Roselière,48.5494384765625,7.701807975769043,1,1.0,False,False,67365,Ostwald,67
+Citiz,Citiz Grand Est,194,Place du Cygne (Grande-île),48.57831954956055,7.739441871643066,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,193,Kageneck (Gare),48.58396530151367,7.738564968109131,4,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,192,Andlau (Gare),48.57756805419922,7.731740951538086,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,186,Les Halles Friesé (Tribunal),48.58900451660156,7.741882801055908,4,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,184,Polygone Baldner (Neudorf),48.56932067871094,7.756916046142578,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Auvergne-Rhône-Alpes,910,Palluel,45.25455093383789,5.662350177764893,2,1.0,False,False,38170,Fontanil-Cornillon,38
+Citiz,Citiz Auvergne-Rhône-Alpes,909,Maison neuve,45.165225982666016,5.742527008056641,2,1.0,False,False,38158,Eybens,38
+Citiz,Citiz Auvergne-Rhône-Alpes,908,Marcoz Lanfrey,45.56884002685547,5.914440155029297,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,907,Jean Jaurès,45.04558944702149,5.056350231170654,2,1.0,False,False,26281,Romans-sur-Isère,26
+Citiz,Citiz Auvergne-Rhône-Alpes,906,Seynod - Le Polyèdre,45.88789367675781,6.10151481628418,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,904,Mairie de Meylan,45.209468841552734,5.778988838195801,2,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,903,ENISE,45.4291877746582,4.422457218170166,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,901,Verdun-Aiguinards,45.205668,5.76518,2,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,899,Plaine Fleurie,45.20638656616211,5.756903171539307,2,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Angers,288,Votier Poirel,47.46053695678711,-0.5620840191841125,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,287,Jean Moulin,47.49222183227539,-0.5517640113830566,2,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,286,Madeleine,47.46025085449219,-0.5381960272789001,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,285,Tunnel Vélo Cargo,47.46506118774414,-0.5556229948997498,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,283,Bichon,47.478946685791016,-0.5636640191078186,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,282,Ney,47.4788703918457,-0.5432800054550171,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,276,Sainte Croix,47.4701749,-0.5551388,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1940,Bretonnières,47.495132,-0.558701,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1834,Centre Beaucouzé,47.474417,-0.63033,1,1.0,False,False,49020,Beaucouzé,49
+Citiz,Citiz Angers,1751,Châtenay,47.483715,-0.519092,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1750,Lac de Maine,47.466423,-0.598383,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1724,Marengo,47.464433,-0.554212,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1546,Strasbourg,47.455679,-0.551181,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1545,Justices Saumuroise,47.454483,-0.527771,2,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,1185,Fraternité,47.491016,-0.560761,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,522,Desjardins,47.47848129272461,-0.5322239995002747,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,521,Patton Croix Pelette,47.47283554077149,-0.585739016532898,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Angers,520,Beaussier,47.476863861083984,-0.5983690023422241,1,1.0,False,False,49007,Angers,49
+Citiz,Citiz Auvergne-Rhône-Alpes,915,Mairie du Veyrier,45.88153787143158,6.178248879700914,2,1.0,False,False,74299,Veyrier-du-Lac,74
+Citiz,Citiz Auvergne-Rhône-Alpes,913,Place du Vercors,44.81676483154297,5.747974872589111,2,1.0,False,False,38226,Mens,38
+Citiz,Citiz Auvergne-Rhône-Alpes,912,Maconnais Hauts de Chambéry,45.59311294555664,5.918089866638184,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,911,Grand Pré,45.17229843139648,5.693999767303467,2,1.0,False,False,38485,Seyssinet-Pariset,38
+Citiz,Citiz Occitanie,1284,Place du Maréchal Leclerc,43.956812,2.883093,1,1.0,False,False,12208,Saint-Affrique,12
+Citiz,Citiz Occitanie,1283,71 Bd de l'Ayrolle,44.0963134765625,3.07668995857239,1,1.0,False,False,12145,Millau,12
+Citiz,Citiz Occitanie,1282,Condamine Commissariat,44.100399017334,3.07611989974976,1,1.0,False,False,12145,Millau,12
+Citiz,Citiz Occitanie,1280,Saint Aubin Parking Indigo,43.6039123535156,1.45427000522614,1,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,898,Champ Rochas-Aiguinards,45.2088637988381,5.76289036490968,2,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,897,Gare SNCF de Valence,44.92815780639648,4.892560958862305,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,896,Espace Aragon,45.23838424682617,5.888640880584717,2,1.0,False,False,38547,Villard-Bonnot,38
+Citiz,Citiz Auvergne-Rhône-Alpes,895,Ville -Rue du 08 mai 1945,46.19119644165039,6.233670234680176,2,1.0,False,False,74012,Annemasse,74
+Citiz,Citiz Auvergne-Rhône-Alpes,894,Mairie de Metz Tessy,45.93963241577149,6.105289936065674,2,1.0,False,False,74112,Epagny Metz-Tessy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,893,Mairie d'Epagny,45.937747955322266,6.09090518951416,2,1.0,False,False,74112,Epagny Metz-Tessy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,892,Sauvegarde-Comte Vert,45.57085418701172,5.913637161254883,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,890,Les rigoles,45.940128326416016,6.139876842498779,2,1.0,False,False,74019,Argonay,74
+Citiz,Citiz Auvergne-Rhône-Alpes,888,Place Route de l'église,45.8318353,6.162168,2,1.0,False,False,74242,Saint-Jorioz,74
+Citiz,Citiz Auvergne-Rhône-Alpes,887,Général Ferrié (13),45.17909622192383,5.723886013031006,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,885,Avenue de l'Europe,45.22153472900391,5.812664985656738,2,1.0,False,False,38249,Montbonnot-Saint-Martin,38
+Citiz,Citiz Auvergne-Rhône-Alpes,876,Mairie d'Ambilly,46.1958236694336,6.222959995269775,2,1.0,False,False,74008,Ambilly,74
+Citiz,Citiz Auvergne-Rhône-Alpes,875,Bellevue,45.415977478027344,4.394111156463623,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,874,Gare SNCF Romans sortie Sud,45.04870223999024,5.0494818687438965,3,1.0,False,False,26281,Romans-sur-Isère,26
+Citiz,Citiz Auvergne-Rhône-Alpes,872,Quai de France (8),45.19356536865234,5.722860813140869,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,871,Place de l'Eglise,46.078590393066406,6.409546852111816,2,1.0,False,False,74042,Bonneville,74
+Citiz,Citiz Auvergne-Rhône-Alpes,870,SNCF Gare de Bonneville,46.07796096801758,6.416598796844482,2,1.0,False,False,74042,Bonneville,74
+Citiz,Citiz Auvergne-Rhône-Alpes,869,Edouard REY,45.19118881225586,5.722932815551758,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,868,Charles Testoud,45.18429183959961,5.718997955322266,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,866,Ecole des Mines Fauriel [Station électrique],45.42277908325195,4.409433841705322,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,865,Casemate,45.198174,5.732391,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,864,"Guilbaud, Ponsard-Bajatiere",45.17760848999024,5.74052095413208,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1306,Foirail,43.2298812866211,0.0831329971551895,1,1.0,False,False,65440,Tarbes,65
+Citiz,Citiz Occitanie,1305,Haras,43.2299156188965,0.0702129974961281,1,1.0,False,False,65440,Tarbes,65
+Citiz,Citiz Occitanie,1299,Rue de la Pépinière,44.1008613076815,3.076815,1,1.0,False,False,12145,Millau,12
+Citiz,Citiz Occitanie,1294,Place du Champ Commun,43.0929957,-0.046487,1,1.0,False,False,65286,Lourdes,65
+Citiz,Citiz Occitanie,1325,Route de Blagnac,43.6142654418945,1.41091501712799,1,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1322,Flex Gare de Portet-sur-Garonne,43.5275192260742,1.38872802257538,1,1.0,True,False,31433,Portet-sur-Garonne,31
+Citiz,Citiz Occitanie,1320,Moulin Armand,43.5313034057617,1.48763203620911,2,1.0,False,False,31035,Auzeville-Tolosane,31
+Citiz,Citiz Occitanie,1314,Station V,43.5471267700195,1.51204395294189,1,1.0,False,False,31254,Labège,31
+Citiz,Citiz Occitanie,1313,Flex l'Ormeau,43.5807151794434,1.48059701919556,1,1.0,True,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,860,Edouard Herriot,44.934661865234375,4.894474983215332,2,1.0,False,False,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,858,Mérande Saint François,45.56893539428711,5.928140163421631,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,856,Montmélian - avenue de Savoie,45.50214385986328,6.051830768585205,2,1.0,False,False,73171,Montmélian,73
+Citiz,Citiz Auvergne-Rhône-Alpes,854,Campus Tréfilerie,45.42621994018555,4.391089916229248,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,853,Grand Sablon,45.199437,5.750443,2,1.0,False,False,38516,La Tronche,38
+Citiz,Citiz Auvergne-Rhône-Alpes,852,Jean Plotton,45.43979263305664,4.384103775024414,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,851,Conservatoire Massenet,45.4303092956543,4.395176887512207,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,850,Irvoy-Violettes,45.18043518066406,5.713015079498291,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,878,Odyssée - La poste,45.153690338134766,5.749575138092041,2,1.0,False,False,38158,Eybens,38
+Citiz,Citiz Auvergne-Rhône-Alpes,877,Mairie d'Eybens,45.147911071777344,5.75108814239502,2,1.0,False,False,38158,Eybens,38
+Citiz,Citiz Occitanie,1342,Mairie de Portet-sur-Garonne,43.5206985473633,1.39997851848602,1,1.0,False,False,31433,Portet-sur-Garonne,31
+Citiz,Citiz Occitanie,1339,Les Chênes,43.5846900939941,1.34348595142365,1,1.0,False,False,31557,Tournefeuille,31
+Citiz,Citiz Occitanie,1336,Flex L'Union Saint Caprais,43.655707,1.478976,1,1.0,True,False,31561,L'Union,31
+Citiz,Citiz Occitanie,1330,De Gaulle,44.4516525268555,1.44008898735046,1,1.0,False,False,46042,Cahors,46
+Citiz,Citiz Auvergne-Rhône-Alpes,843,Cité du Design-Mixeur,45.44944381713867,4.385979175567627,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,842,Vaugelas,45.56669616699219,5.917846202850342,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,838,Jules Ferry,45.18193817138672,5.735709190368652,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,835,Joseph Chanrion,45.18935775756836,5.736892223358154,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,834,Place Diéderichs (CAF),45.59024429321289,5.280710220336914,2,1.0,False,False,38053,Bourgoin-Jallieu,38
+Citiz,Citiz Auvergne-Rhône-Alpes,833,Hotel de ville,45.18623352050781,5.735168933868408,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,832,Mallifaud,45.18069839477539,5.728859901428223,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,831,Haxo (6),45.18740463256836,5.734235763549805,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,825,Parc Technologique - Mercure,45.62696838378906,5.16733980178833,2,1.0,False,False,38553,Villefontaine,38
+Citiz,Citiz Auvergne-Rhône-Alpes,824,Cité du Design,45.45153427124024,4.38675594329834,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,823,Piscine Buisson Rond,45.56558227539063,5.937188148498535,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,822,Nicolas Chorier,45.18478012084961,5.709795951843262,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,820,Fontaine-Cachin,45.1948356628418,5.687298774719238,4,1.0,False,False,38169,Fontaine,38
+Citiz,Citiz Auvergne-Rhône-Alpes,819,"Eléphants Astrée CCI (En travaux, appelez-nous pour l’adresse)",45.566253662109375,5.923520088195801,3,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,818,Bonne [Station électrique],45.18352127075195,5.721443176269531,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,817,Allobroges Pierre Cot,45.57294845581055,5.915555000305176,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,815,Antarès Saint Germain,45.51367950439453,4.864808082580566,2,1.0,False,False,38544,Vienne,38
+Citiz,Citiz Auvergne-Rhône-Alpes,814,SNCF Gare de St Egrève St Robert,45.23568344116211,5.67151403427124,2,1.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Occitanie,1363,Route de Labège,43.5189476013184,1.50954902172089,1,1.0,False,False,31113,Castanet-Tolosan,31
+Citiz,Citiz Occitanie,1362,Ribaute P+R,43.5878715515137,1.51619899272919,1,1.0,False,False,31044,Balma,31
+Citiz,Citiz Occitanie,1358,Mairie de Castanet,43.5173187255859,1.49603295326233,1,1.0,False,False,31113,Castanet-Tolosan,31
+Citiz,Citiz Occitanie,1356,Laurabuc Centre,43.2475509643555,1.98129200935364,1,1.0,False,False,11195,Laurabuc,11
+Citiz,Citiz Occitanie,1349,Place Bila,43.6265563964844,1.45861601829529,1,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,785,Bouchayer Viallet,45.18444061279297,5.704965114593506,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,783,Alsace Lorraine,45.189640045166016,5.717625141143799,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,813,SNCF Gare de Montmélian,45.5029411315918,6.043437004089356,2,1.0,False,False,73171,Montmélian,73
+Citiz,Citiz Auvergne-Rhône-Alpes,812,SNCF Gare de Châteaucreux,45.44269943237305,4.401658058166504,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,811,SNCF Gare d'Annecy Sortie Nord,45.90311813354492,6.122211933135986,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,809,Petit Jean,45.18311309814453,5.783907890319824,2,1.0,False,False,38179,Gières,38
+Citiz,Citiz Auvergne-Rhône-Alpes,808,SNCF Gare de Vienne (Place occupée ? Ne pas se garer sur la place du marché le WE),45.52147674560547,4.872756004333496,2,1.0,False,False,38544,Vienne,38
+Citiz,Citiz Auvergne-Rhône-Alpes,806,Lakanal,45.18640899658203,5.723215103149414,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,805,Lans en Vercors,45.12971878051758,5.583407878875732,2,1.0,False,False,38205,Lans-en-Vercors,38
+Citiz,Citiz Auvergne-Rhône-Alpes,804,Villard de Lans,45.07051086425781,5.554580211639404,2,1.0,False,False,38548,Villard-de-Lans,38
+Citiz,Citiz Auvergne-Rhône-Alpes,800,Prés Riants,45.694454193115234,5.910085201263428,2,1.0,False,False,73008,Aix-les-Bains,73
+Citiz,Citiz Auvergne-Rhône-Alpes,797,Jeanne d'arc,45.18184661865234,5.744770050048828,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,830,Joseph Fourrier,45.19002532958984,5.7362141609191895,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,828,Rue Porte de la Buisse,45.36593,5.59519,1,1.0,False,False,38563,Voiron,38
+Citiz,Citiz Auvergne-Rhône-Alpes,772,Mayencin,45.18757247924805,5.776234149932861,2,1.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,771,Fiancey Prédieu,45.22429275512695,5.688334941864014,2,1.0,False,False,38382,Saint-Égrève,38
+Citiz,Citiz Auvergne-Rhône-Alpes,769,"Ampere, Cémoi",45.18497085571289,5.705740928649902,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,766,Jean Moulin,45.43736267089844,4.3929619789123535,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,763,Bd Marechal Joffre-park hotel,45.183929443359375,5.732211112976074,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1768,Mairie de Belmont sur Rance,43.816625,2.752578,1,1.0,False,False,12025,Belmont-sur-Rance,12
+Citiz,Citiz Auvergne-Rhône-Alpes,796,Bajatière,45.17866134643555,5.736018180847168,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,794,Henry Bordeaux,45.91008758544922,6.133563995361328,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,793,Blanche Monier,45.19660568237305,5.738699913024902,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,792,Clos des fleurs,45.19766616821289,5.712434768676758,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,791,Tourmaline,45.362318,5.593707,1,1.0,False,False,38563,Voiron,38
+Citiz,Citiz Auvergne-Rhône-Alpes,789,Le Prisme,45.16637420654297,5.690347194671631,2,1.0,False,False,38486,Seyssins,38
+Citiz,Citiz Auvergne-Rhône-Alpes,788,Belle étoile,45.27195739746094,5.893124103546143,2,1.0,False,False,38140,Crolles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,787,SNCF Gare de Pontcharra,45.43408203125,6.008092880249023,2,1.0,False,False,38314,Pontcharra,38
+Citiz,Citiz Auvergne-Rhône-Alpes,786,Place République,45.1822624206543,5.792633056640625,2,1.0,False,False,38179,Gières,38
+Citiz,Citiz Auvergne-Rhône-Alpes,752,Sainte Claire - Rue de la gare,45.89882278442383,6.122069835662842,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,751,CPAM Liberation (90),45.17131042480469,5.71320390701294,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,749,Echirolles Cinéma,45.14796829223633,5.718113899230957,2,1.0,False,False,38151,Échirolles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,745,Pierre Semard,45.19301986694336,5.708963871002197,3,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Occitanie,1875,Chaumière,43.6151648,1.4650192,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1856,Ancely,43.6186434,1.3973184,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1816,Gare Severac d'aveyron,44.3239597247752,3.05725058630779,1,1.0,False,False,12270,Sévérac d'Aveyron,12
+Citiz,Citiz Occitanie,1802,Saint-Alban Salvador Allende,43.691285,1.407977,1,1.0,False,False,31467,Saint-Alban,31
+Citiz,Citiz Auvergne-Rhône-Alpes,780,Parc du Pilat Place Abbé Vincent,45.41761779785156,4.671284198760986,2,1.0,False,False,42168,Pélussin,42
+Citiz,Citiz Auvergne-Rhône-Alpes,779,Stalingrad,45.17940139770508,5.726298809051514,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,778,Balay,45.44371032714844,4.386653900146484,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,777,Narvik,45.182708740234375,5.728264808654785,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,776,Mairie de Seyssinet,45.18004608154297,5.695526123046875,2,1.0,False,False,38485,Seyssinet-Pariset,38
+Citiz,Citiz Auvergne-Rhône-Alpes,775,Les Granges,45.15681838989258,5.72735595703125,2,1.0,False,False,38151,Échirolles,38
+Citiz,Citiz Grand Est,182,Heyritz (Neudorf),48.57312774658203,7.749137878417969,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,486,Marcy - Centre,45.7817306518555,4.70608901977539,1,1.0,False,False,69127,Marcy-l'Étoile,69
+Citiz,Citiz Lyon,480,Vénissieux - Hôtel de Ville,45.696601867,4.8844289779,1,1.0,False,False,69259,Vénissieux,69
+Citiz,Citiz Lyon,474,Villeurbanne - Saint Jean,45.7785949707031,4.90250110626221,1,1.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,471,Villeurbanne - Flachet,45.7677116394043,4.88915300369263,2,1.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Grand Est,225,Aristide Briand,49.2572025,4.0384959,3,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,223,Hôtel de Ville de Reims,49.2587646,4.0314822,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,216,Monseigneur Tissier,48.957008361816406,4.364614963531494,2,1.0,False,False,51108,Châlons-en-Champagne,51
+Citiz,Citiz Grand Est,214,22 Novembre (Grande-île),48.58283233642578,7.7428388595581055,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,212,Mairie de La Wantzenau,48.657678,7.827566,2,1.0,False,False,67519,La Wantzenau,67
+Citiz,Citiz Grand Est,209,Hôtel de Ville de Nancy,48.69248962402344,6.183746814727783,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,205,Queuleu - Plantières,49.111629486083984,6.190110206604004,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,204,Dornach,47.74665069580078,7.307722091674805,1,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,203,République - Joffre,47.74557876586914,7.342142105102539,1,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Poitiers,1483,EUROPE,46.59140892962806,0.352244801328796,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,553,DESCARTES (campus universitaire),46.56735610961914,0.387686014175415,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,552,MONTMIDI,46.57841491699219,0.3205670118331909,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,551,PONT-NEUF,46.5726432800293,0.3592570126056671,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,549,TECHNOPOLE DU FUTUROSCOPE,46.66313171386719,0.3588989973068237,1,1.0,False,False,86062,Chasseneuil-du-Poitou,86
+Citiz,Citiz Grand Poitiers,547,BUXEROLLES MAIRIE,46.59848785400391,0.3522970080375671,2,1.0,False,False,86041,Buxerolles,86
+Citiz,Citiz Occitanie,1946,Pins-Justaret,43.4793975,1.3997625,1,1.0,False,False,31421,Pins-Justaret,31
+Citiz,Citiz Occitanie,1945,Trois Cocus,43.638449,1.444208,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1941,Acacias,44.44284,1.443534,1,1.0,False,False,46042,Cahors,46
+Citiz,Citiz Occitanie,1938,CEAT,43.6174814,1.4663573,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1934,Saouzelong,43.579426,1.4590839,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Occitanie,1879,La Vache,43.6334314,1.4349398,2,1.0,False,False,31555,Toulouse,31
+Citiz,Citiz Auvergne-Rhône-Alpes,762,"Chambéry le Haut, FORUM",45.59201049804688,5.919422149658203,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,755,La Poste,45.5973014831543,5.876500129699707,2,1.0,False,False,73179,La Motte-Servolex,73
+Citiz,Citiz Auvergne-Rhône-Alpes,753,Stade - Piscine découverte,45.572898864746094,5.910504817962647,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,736,Mérande Pôle Emploi,45.56940078735352,5.93310022354126,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,733,Général Ferrié (20),45.17863464355469,5.723887920379639,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,731,Joseph Vallier - Station Mobile,45.18007278442383,5.713033199310303,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,729,Felix Viallet,45.19078063964844,5.719250202178955,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Grand Poitiers,1782,CHAUVIGNY,46.568190989349,0.644840011673,2,1.0,False,False,86070,Chauvigny,86
+Citiz,Citiz Grand Poitiers,1495,SABLETTE,46.568076,0.344022,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1494,BAPTISTERE SAINT-JEAN,46.57953,0.3495705,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1493,TROIS QUARTIERS,46.58942,0.342216,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1492,CLAIN SAINTE-RADEGONDE,46.58000142738736,0.3528343212479967,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1491,PASTEUR,46.576033,0.353497,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1490,CONDORCET,46.5889996,0.3301599,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1489,MAILLOCHON,46.5835817,0.3321877,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1488,GIBAUDERIE,46.559541,0.37517,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1487,MADELEINE,46.5739714,0.3290087,1,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1486,GASTON HULIN,46.5831461,0.3411186,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Grand Poitiers,1484,AUGOUARD,46.583757,0.345772,2,1.0,False,False,86194,Poitiers,86
+Citiz,Citiz Gironde,1655,Yser électrique,44.8247303445314,-0.569924208223919,1,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Développement,58,Preuilly,47.392356872558594,0.6703180074691772,2,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,56,Chambray-lès-Tours En[vert]gure,47.34170150756836,0.6843000054359436,2,1.0,False,False,37050,Chambray-lès-Tours,37
+Citiz,Citiz Développement,52,République,48.85319519042969,2.423048973083496,2,1.0,False,False,93048,Montreuil,93
+Citiz,Citiz Développement,49,ZZ_SXB LIVRAISON NE PAS RESERVER,48.63065719604492,7.753045082092285,5,1.0,False,False,67471,Souffelweyersheim,67
+Citiz,Citiz Auvergne-Rhône-Alpes,723,Berriat (145),45.18865966796875,5.707364082336426,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,720,Denfert Rochereau,45.188438415527344,5.716395854949951,1,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,718,Place des Romains-Sports,45.90885543823242,6.121918201446533,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,717,Avenue de Cran (20),45.90580368041992,6.118441104888916,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,716,Grüner [Station électrique],45.44015884399414,4.399269104003906,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,715,SNCF Gare du Clapier - Augustin Dupré,45.43770980834961,4.380849838256836,2,1.0,False,False,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,743,Fontainades,45.18917846679688,5.698843955993652,2,1.0,False,False,38169,Fontaine,38
+Citiz,Citiz Auvergne-Rhône-Alpes,742,Marval (1),45.18452072143555,5.720987796783447,3,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,740,Espace Brun - Biscuiterie,45.185035705566406,5.750250816345215,2,1.0,False,False,38421,Saint-Martin-d'Hères,38
+Citiz,Citiz Auvergne-Rhône-Alpes,739,Premol,45.16396331787109,5.7281928062438965,2,1.0,False,False,38185,Grenoble,38
+Citiz,Citiz Gironde,696,Saint-Louis,44.8579216003418,-0.5697900056838989,1,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Développement,1644,Abbaye-aux-Dames,49.186721,-0.353753,2,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1643,Place Villers,49.178274,-0.378717,3,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1641,Eglise de Ouistreham,49.27594438973717,-0.2581701981799049,2,1.0,False,False,14488,Ouistreham,14
+Citiz,Citiz Développement,1640,Place du Café des Images Hérouville-Saint-Clair,49.20207,-0.332586,3,1.0,False,False,14327,Hérouville-Saint-Clair,14
+Citiz,Citiz Développement,1639,Gare nord,49.178176197092064,-0.3479050472904434,2,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1638,Place Saint-Etienne-le-Vieux,49.18068198679792,-0.3688109858770803,2,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1635,Campus 1 - rue du magasin à poudre,49.19098053661006,-0.3673817574794826,2,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1536,RER Vert-de-Maisons - Cour Beethoven,48.790283,2.43097,3,1.0,False,False,94002,Alfortville,94
+Citiz,Citiz Développement,1522,ORANGERIE,46.1885032653809,-1.11660599708557,3,1.0,False,False,17291,Puilboreau,17
+Citiz,Citiz Gironde,1679,[FLEX]-Sainte Germaine,44.8700858307791,-0.614446271936705,1,1.0,True,False,33069,Le Bouscat,33
+Citiz,Citiz Gironde,1660,Piscine judaïque électrique,44.8409796120779,-0.592625370837323,1,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1658,Forum électrique,44.81201,-0.59109,1,1.0,False,False,33522,Talence,33
+Citiz,Citiz Gironde,1657,Bergonié électrique,44.82533,-0.57759,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,1656,Furtado électrique,44.8242982728806,-0.558580145116688,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,688,Bel-Air / République,44.83951187133789,-0.6064000129699707,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,685,Bonnier / Château d'eau,44.838340759277344,-0.5832800269126892,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Développement,1692,Place de la mare,49.1867773,-0.3663499,1,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1691,Hauts de l’Orne,49.1536554,-0.3609238,1,1.0,False,False,14271,Fleury-sur-Orne,14
+Citiz,Citiz Développement,1690,Grace de Dieu,49.1602853,-0.3615749,1,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1689,Beaulieu,49.1821977,-0.4003517,1,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1688,Cygne de Croix,49.1697524,-0.3528257,2,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1687,Anciennes Boucheries,49.1825437,-0.3757072,1,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1686,Agence Twisto,49.1801703,-0.3613467,1,1.0,False,False,14118,Caen,14
+Citiz,Citiz Développement,1678,Jardin Secret,48.4368529,1.5082218,1,1.0,False,False,28085,Chartres,28
+Citiz,Citiz Développement,1673,Saint-Jean-le-Blanc - L'envol,47.88845,1.920619,2,1.0,False,False,45286,Saint-Jean-le-Blanc,45
+Citiz,Citiz Développement,1672,JOSEPHINE,46.159599,-1.181888,1,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Développement,1647,République,47.58922,1.33427,1,1.0,False,False,41018,Blois,41
+Citiz,Citiz Gironde,708,[Titi Floris]-BORDEAUX-2 RUE DES FRÈRES PORTMANN,44.86053466796875,-0.5756539702415466,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,705,[Titi Floris]-MÉRIGNAC-108 AVENUE DE MAGUDAS,44.85703659057617,-0.6586419939994812,2,1.0,False,False,33281,Mérignac,33
+Citiz,Citiz Gironde,702,Gaviniès,44.83340835571289,-0.5934799909591675,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,645,Mondésir,44.83821487426758,-0.6162440180778503,1,1.0,False,False,33281,Mérignac,33
+Citiz,Citiz Gironde,644,Mairie (Parking rue Coudol),44.86592102050781,-0.5995299816131592,1,1.0,False,False,33069,Le Bouscat,33
+Citiz,Citiz Gironde,641,Rue Victor Hugo,44.81924819946289,-0.5803390145301819,1,1.0,False,False,33522,Talence,33
+Citiz,Citiz Développement,1932,Bordiers / Pl. de la Tranchée,47.409622,0.6803918,1,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1914,Gare de Massiac-Blesle,45.25273232753594,3.196773588757777,1,1.0,False,False,15119,Massiac,15
+Citiz,Citiz Développement,1888,Charles BARRIER,47.40472,0.682891,1,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1882,Deux Lions,47.36515,0.680406,2,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1844,LES DRYADES,47.38238,0.666293,1,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1836,Parking Aucard,47.40237348555645,0.6956119995221194,5,1.0,False,False,37261,Tours,37
+Citiz,Citiz Développement,1787,[FLEX] TAVERA,46.1478318,-1.1482659,1,1.0,True,False,17300,La Rochelle,17
+Citiz,Citiz Développement,1786,[FLEX] HUGUENOTE,46.1493934,-1.157051,1,1.0,True,False,17300,La Rochelle,17
+Citiz,Citiz Développement,1785,Agate,48.4466803,1.4940302,1,1.0,False,False,28085,Chartres,28
+Citiz,Citiz Développement,1777,[FLEX] Gare - Parking Münster,47.91102,1.90557,1,1.0,True,False,45234,Orléans,45
+Citiz,Citiz Gironde,689,Gare de Caudéran-Mérignac,44.84259033203125,-0.6283800005912781,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Nantes,1267,Haluchère,47.248471,-1.5245079,2,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,1250,Beauséjour,47.23713280359039,-1.5852828435325248,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,1101,Croissant,47.24056243896485,-1.530603289604187,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,595,Picasso,47.21482849121094,-1.537498950958252,2,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,593,Mitrie,47.22924423217773,-1.5271174907684326,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,591,Tour d'Auvergne,47.206485748291016,-1.5566539764404297,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,585,Joffre,47.2222243971632,-1.5490817185651458,2,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,579,Facultés,47.24791,-1.55241,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,569,Canclaux,47.21453094482422,-1.5731899738311768,2,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,565,Racine,47.21427917480469,-1.5653200149536133,2,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Gironde,673,Yser / Brémontier,44.82476425170898,-0.5698829889297485,2,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Gironde,668,Place Kennedy,44.553253173828125,-0.2498340010643005,2,1.0,False,False,33227,Langon,33
+Citiz,Citiz Gironde,667,Gare - Langon,44.55532836914063,-0.2554329931735992,2,1.0,False,False,33227,Langon,33
+Citiz,Citiz Gironde,665,Gare - La Réole,44.57976531982422,-0.0328480005264282,2,1.0,False,False,33352,La Réole,33
+Citiz,Citiz Gironde,646,Arlac Peychotte,44.826171875,-0.6246100068092346,1,1.0,False,False,33281,Mérignac,33
+Citiz,Citiz Bourgogne-Franche-Comté,1652,Morteau Gare,47.05389,6.604601,1,1.0,False,False,25411,Morteau,25
+Citiz,Citiz Bourgogne-Franche-Comté,1541,Vareilles,47.242576,6.046021,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,1540,Marmier,47.241202,6.006686,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,1539,Champollion,47.33131,5.068263,1,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,540,Fontaine d'Ouche,47.319254,5.001727,1,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,509,Palais des Sports,47.331493,5.056527,2,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Hauts-de-France,299,GRAND PLACE,50.69030380249024,3.175076961517334,3,1.0,False,False,59512,Roubaix,59
+Citiz,Citiz Hauts-de-France,291,CANON D'OR,50.64962768554688,3.0423483848571777,3,1.0,False,False,59328,Lambersart,59
+Citiz,Citiz Nantes,1885,Doulon,47.2244674,-1.5207919,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,1860,"Saint Félix /!\ travaux en cours, véhicule à récupérer et rendre au 41 Bld Amiral Courbet /!\",47.2302015,-1.5558259,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,1835,Ferrière,47.2442086,-1.5913753,1,1.0,False,False,44114,Orvault,44
+Citiz,Citiz Nantes,1697,Prairie au Duc,47.203877,-1.568494,1,1.0,False,False,44109,Nantes,44
+Citiz,Citiz Nantes,1547,Le Cardo,47.26198375763297,-1.5844317948190731,1,1.0,False,False,44114,Orvault,44
+Citiz,Citiz Nantes,1530,8 Mai,47.18989590834666,-1.5508649436311162,1,1.0,False,False,44143,Rezé,44
+Citiz,Citiz Gironde,622,Mairie de Talence,44.8089485168457,-0.5883499979972839,1,1.0,False,False,33522,Talence,33
+Citiz,Citiz Gironde,627,Ginko,44.8789291381836,-0.5706539750099182,1,1.0,False,False,33063,Bordeaux,33
+Citiz,Citiz Bourgogne-Franche-Comté,41,Place du Jura,47.23121429284662,6.026266382438243,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,40,Grette,47.22977828979492,6.0107741355896,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,38,Victor Hugo,47.3306884765625,5.022916793823242,2,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,36,Morez - Quai Jobez,46.52098,6.021495,1,1.0,False,False,39368,Hauts de Bienne,39
+Citiz,Citiz Bourgogne-Franche-Comté,35,Lajoux-Maison du Parc,46.37466430664063,5.97393798828125,1,1.0,False,False,39274,Lajoux,39
+Citiz,Citiz Bourgogne-Franche-Comté,34,Saint-Claude - Place de la Halle,46.38628,5.864762,1,1.0,False,False,39478,Saint-Claude,39
+Citiz,Citiz Bourgogne-Franche-Comté,33,Place des Salines,46.9379,5.8777,1,1.0,False,False,39500,Salins-les-Bains,39
+Citiz,Citiz Bourgogne-Franche-Comté,31,Junot,47.339839935302734,5.0453200340271,3,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,1873,Résistance Nevers,46.99226,3.15994,1,1.0,False,False,58194,Nevers,58
+Citiz,Citiz Bourgogne-Franche-Comté,1870,Inkub Nevers,46.99189,3.14272,1,1.0,False,False,58194,Nevers,58
+Citiz,Citiz Bourgogne-Franche-Comté,1869,Nevers Gares,46.98782,3.150823,1,1.0,False,False,58194,Nevers,58
+Citiz,Citiz Bourgogne-Franche-Comté,1830,Velotte,47.219247,6.011036,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,1823,Mirande,47.317134,5.062938,2,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,1685,Hôtel de Ville - Décentralisation,46.951515,4.299424,1,1.0,False,False,71014,Autun,71
+Citiz,Citiz Bourgogne-Franche-Comté,25,Place du 30,47.321590423583984,5.053609848022461,2,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,24,Rivotte,47.2337760925293,6.0341081619262695,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,23,Mission Mobilité,46.62691116333008,5.226586818695068,1,1.0,False,False,71263,Louhans-Châteaurenaud,71
+Citiz,Citiz Hauts-de-France,335,MAIRIE DE LAMBERSART,50.6478385925293,3.019779920578003,2,1.0,False,False,59328,Lambersart,59
+Citiz,Citiz Hauts-de-France,333,COURS DE VERDUN,50.29032897949219,2.76855993270874,3,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,327,OSCAR LAMBRET,50.6136360168457,3.0357930660247803,3,1.0,False,False,59350,Lille,59
+Citiz,Citiz Hauts-de-France,325,PLACE GUY MOLLET,50.293213,2.779014,4,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,324,PLACE DU THEATRE,50.29005432128906,2.7734360694885254,2,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,323,PLACE FOCH,50.28715896606445,2.7814269065856934,4,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,322,EMILE BRETON,50.28643798828125,2.782445907592773,2,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,316,ROMARIN,50.64395904541016,3.074660062789917,4,1.0,False,False,59368,La Madeleine,59
+Citiz,Citiz Bourgogne-Franche-Comté,64,Saint-Claude,47.25544357299805,6.016624927520752,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,63,Jaurès,47.30892181396485,5.025340080261231,2,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,42,Montmuzard,47.32714080810547,5.0624098777771,1,1.0,False,False,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,5,Chaprais,47.24850463867188,6.029687881469727,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,3,Gare-Viotte,47.24745559692383,6.021071910858154,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,2,Mouillère,47.240181,6.033936,3,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,1,Marulaz,47.239609,6.015885,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Grand Est,1929,Aire d'écomobilité de Muttersholtz,48.268424,7.523367,2,1.0,False,False,67311,Muttersholtz,67
+Citiz,Citiz Grand Est,1927,Gare de Morhange,48.936707,6.658742,2,1.0,False,False,57483,Morhange,57
+Citiz,Citiz Hauts-de-France,526,CARNOT,50.60601806640625,3.066437005996704,3,1.0,False,False,59220,Faches-Thumesnil,59
+Citiz,Citiz Hauts-de-France,525,MAIRIE DE LA MADELEINE,50.65454864501953,3.0740699768066406,6,1.0,False,False,59368,La Madeleine,59
+Citiz,Citiz Hauts-de-France,524,LEMIRE,50.65231323242188,3.0736653804779053,1,1.0,False,False,59368,La Madeleine,59
+Citiz,Citiz Hauts-de-France,339,LA PISCINE,50.6935038,3.1674859,3,1.0,False,False,59512,Roubaix,59
+Citiz,Citiz Hauts-de-France,337,BOURG,50.652977,3.025986,3,1.0,False,False,59328,Lambersart,59
+Citiz,Citiz Hauts-de-France,336,DELECAUX,50.64485549926758,3.034480094909668,1,1.0,False,False,59328,Lambersart,59
+Citiz,Citiz Bourgogne-Franche-Comté,29,Tilleuls,47.26005554199219,6.046000003814697,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,28,Saint-Ferjeux,47.23012924194336,5.992489814758301,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,27,Hauts-du-Chazal,47.22306823730469,5.95644998550415,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Hauts-de-France,1723,PLACE DE L'ABBAYE,50.639172,1.746373,1,1.0,False,False,62773,Samer,62
+Citiz,Citiz Hauts-de-France,1674,MAIRIE DE WASQUEHAL,50.669979,3.130465,1,1.0,False,False,59646,Wasquehal,59
+Citiz,Citiz Hauts-de-France,1262,PREFECTURE,50.2923941,2.7658475,1,1.0,False,False,62041,Arras,62
+Citiz,Citiz Hauts-de-France,1217,PARKING G.DUPONT,50.6132588,3.018214542,2,1.0,False,False,59360,Loos,59
+Citiz,Citiz Hauts-de-France,1216,PLACE JAURES,50.6087619,3.0149936,3,1.0,False,False,59360,Loos,59
+Citiz,Citiz Bourgogne-Franche-Comté,13,Tristan Bernard,47.24728393554688,6.036759853363037,1,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,10,City,47.23464584350586,6.015480041503906,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Bourgogne-Franche-Comté,6,Marché Beaux Arts,47.24116897583008,6.0236101150512695,2,1.0,False,False,25056,Besançon,25
+Citiz,Citiz Grand Est,202,Cité Administrative,47.755401611328125,7.333731174468994,2,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,201,Fonderie,47.73926162719727,7.33082389831543,3,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,200,Austerlitz (Bourse) - électrique,48.57777786254883,7.751948833465576,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,199,Nouvelle Ville - Coeur Impérial,49.10590362548828,6.168351173400879,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Lyon,469,Villeurbanne - Croix-Luizet,45.7812271118164,4.88567018508911,1,1.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,465,Saint-Fons - Gare,45.7061157226563,4.85257482528687,1,1.0,False,False,69199,Saint-Fons,69
+Citiz,Citiz Lyon,463,Fleurieu-sur-Saône,45.8621025085449,4.84530115127563,1,1.0,False,False,69085,Fleurieu-sur-Saône,69
+Citiz,Citiz Lyon,461,Villeurbanne - Les Brosses,45.7521743774414,4.91452598571777,1,1.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Lyon,455,Champagne-au-Mont-d'Or,45.7975022796652,4.78995426134665,1,1.0,False,False,69040,Champagne-au-Mont-d'Or,69
+Citiz,Citiz Lyon,453,Meyzieu - Gare,45.771369934082,4.9988169670105,1,1.0,False,False,69282,Meyzieu,69
+Citiz,Citiz Grand Est,246,Place du 18 Juin,47.74644470214844,7.400091171264648,2,1.0,False,False,68278,Rixheim,68
+Citiz,Citiz Grand Est,245,Mairie de Rixheim,47.74381637573242,7.397079944610596,2,1.0,False,False,68278,Rixheim,68
+Citiz,Citiz Grand Est,242,St Nicolas (Grande-île),48.57561111450195,7.749866962432861,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,241,Schutzenberger,48.59953308105469,7.746726989746094,2,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,240,Place de la Liberté,48.6060676574707,7.753698825836182,3,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz La Rochelle,1514,LA PALLICE,46.1632270812988,-1.20761299133301,2,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1511,MINIMES,46.1407661437988,-1.16580295562744,2,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1510,AYTRE,46.1336784362793,-1.11550199985504,2,1.0,False,False,17028,Aytré,17
+Citiz,Citiz La Rochelle,1507,PISCINE,46.1688003540039,-1.15388202667236,2,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz Hauts-de-France,1910,GARE DE CALAIS-FRETHUN,50.901183,1.809355,1,1.0,False,False,62360,Fréthun,62
+Citiz,Citiz Hauts-de-France,1747,MAIRIE DE WAMBRECHIES,50.6863528,3.0534191,2,1.0,False,False,59636,Wambrechies,59
+Citiz,Citiz Grand Est,1926,Gare de Saint-Avold,49.086072,6.720604,2,1.0,False,False,57690,Valmont,57
+Citiz,Citiz Grand Est,1925,St Quentin (Conseil des XV),48.586437,7.778893,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1915,Hôtel de Ville de Riedisheim,47.7490064611402,7.36823865668011,1,1.0,False,False,68271,Riedisheim,68
+Citiz,Citiz Rennes,1562,Antrain,48.1225415,-1.6694257,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz La Rochelle,1642,TASDON,46.14851014071285,-1.144076419792335,1,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1520,LA GENETTE,46.159854888916,-1.16636502742767,2,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1519,ATLANTECH - Code armoire : C3104,46.1848754882813,-1.14567899703979,2,1.0,False,False,17200,Lagord,17
+Citiz,Citiz La Rochelle,1518,SAUTEL,46.1664199829102,-1.13756000995636,2,1.0,False,False,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1515,PUILBOREAU,46.1874046325684,-1.11854302883148,2,1.0,False,False,17291,Puilboreau,17
+Citiz,Citiz Grand Est,237,Gare de Metz - François de Curel,49.1113166809082,6.176890850067139,1,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,232,Gare de Sarrebourg,48.738189697265625,7.0533127784729,2,1.0,False,False,57630,Sarrebourg,57
+Citiz,Citiz Grand Est,228,Jeanne d'Arc,49.2528938,4.0267537,2,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,227,Poittevin,49.249629974365234,4.029541969299316,2,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,226,Godinot,49.253966,4.037178,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Lyon,450,Lyon 8ème - Paul Santy La Plaine,45.7282981872559,4.87749290466309,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,437,Lyon 9ème - Champvert,45.76436,4.790907,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,436,Lyon 2ème - Grolée,45.7611109476768,4.83649437110771,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,346,Poincaré,48.25677490234375,7.455870151519775,2,1.0,False,False,67462,Sélestat,67
+Citiz,Citiz Grand Est,345,Bibliothèque Humaniste,48.26161956787109,7.454178810119629,2,1.0,False,False,67462,Sélestat,67
+Citiz,Citiz Grand Est,267,Mozart (Orangerie),48.58729553222656,7.775164127349853,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,265,Ecole Bauernhof,48.57892227172852,7.689611911773682,2,1.0,False,False,67118,Eckbolsheim,67
+Citiz,Citiz Grand Est,262,Renaissance Lejeune (Robertsau),48.61261749267578,7.787964820861816,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,261,Papeterie (Robertsau),48.61094665527344,7.781879901885986,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,260,Prairies du Canal,48.52821731567383,7.7272210121154785,1,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Rennes,1584,Metz/Sévigné,48.1160622,-1.6583656,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1571,Cleunay,48.1004295349121,-1.70731198787689,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1568,Cimetière de l'Est,48.103946685791,-1.64966905117035,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1566,Croix Saint-Hélier,48.1031379699707,-1.66221594810486,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1565,Bourg l'Evêque,48.1132583618164,-1.69348001480103,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1564,Beauregard,48.1286736,-1.6981094,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Grand Est,1829,Barbatre,49.250107196979,4.0389158192257,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,1828,Cours Langlet,49.257442001673,4.02896122018329,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,1827,Laon - St Thomas,49.2652222762639,4.02583044277637,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,1760,Besançon (Neudorf),48.570297,7.754501,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1759,Rue de la Tour (Koenigshoffen),48.579265,7.719036,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1758,Colette (Poteries),48.587035,7.698482,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1757,Bonnes Gens (Tribunal),48.588441,7.743637,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1756,Duntzenheim (Cronenbourg),48.599147,7.702486,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1755,Wihrel,48.556896,7.713229,1,1.0,False,False,67365,Ostwald,67
+Citiz,Citiz Grand Est,1754,Eglise Protestante - Vernois Mangold,48.547033,7.709008,1,1.0,False,False,67365,Ostwald,67
+Citiz,Citiz Grand Est,1753,7 Arpents,48.631176,7.74008,1,1.0,False,False,67471,Souffelweyersheim,67
+Citiz,Citiz Grand Est,1752,Gare de Mundolsheim,48.64508,7.720331,1,1.0,False,False,67309,Mundolsheim,67
+Citiz,Citiz Grand Est,1745,Meuse TGV - Centre d'Affaires Coeur de Meuse,48.97766,5.269761,1,1.0,False,False,55254,Les Trois-Domaines,55
+Citiz,Citiz Rennes,1596,Saint-Martin,48.125846862793,-1.6855880022049,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1594,Pigeon Blanc,48.090233,-1.692578,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1590,Saint-Malo,48.118448,-1.680527,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1589,Sainte-Thérèse,48.0949058532715,-1.66395401954651,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1588,Rue de Lorient,48.1092077851628,-1.7082446869274373,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1587,Rue de Fougères,48.1231304,-1.6601153,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1610,Chambre d'Agriculture,48.1145973205566,-1.71540403366089,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1609,Carsat,48.0954895019531,-1.63740801811218,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1606,Léon Bourgeois,48.0982208251953,-1.6560389995575,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1605,Champs Manceaux,48.0903396606445,-1.68231105804443,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1603,Armorique,48.1299781799316,-1.67606294155121,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1602,Rochester,48.128246,-1.662526,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1601,Saint Jacques-Gaîté,48.0929374694824,-1.70229995250702,2,1.0,False,False,35281,Saint-Jacques-de-la-Lande,35
+Citiz,Citiz Rennes,1600,Cesson-Sévigné - Via Silva,48.1314392089844,-1.62113702297211,2,1.0,False,False,35051,Cesson-Sévigné,35
+Citiz,Citiz Rennes,1599,Gares,48.1044502258301,-1.67172002792358,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1598,La Courrouze,48.0969390869141,-1.6992199420929,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Grand Est,1767,Gare de Schirmeck - La Broque,48.479806,7.216428,1,1.0,False,False,67448,Schirmeck,67
+Citiz,Citiz Grand Est,1766,Finkwiller (Grande-île),48.579322,7.741154,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1765,Stoeber (Orangerie),48.591087,7.768482,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1764,Geiler (Orangerie),48.586461,7.769153,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1762,Klebsau (Neuhof),48.540208,7.768346,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1761,Orbey (Neudorf),48.564103,7.773315,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Pays Basque,351,Jean Monnet,43.480504,-1.516501,1,1.0,False,False,64024,Anglet,64
+Citiz,Citiz Pays Basque,350,Mairie d'Anglet // Herriko etxea,43.48231887817383,-1.515362024307251,1,1.0,False,False,64024,Anglet,64
+Citiz,Citiz Rennes,1865,Chatillon,48.09787562854604,-1.6707504101013684,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1850,Saint Jacques - Morinais,48.08079912351215,-1.7156434634920317,1,1.0,False,False,35281,Saint-Jacques-de-la-Lande,35
+Citiz,Citiz Rennes,1849,Lenoir,48.12167717778389,-1.6829449322253758,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1848,Kennedy,48.121515974744455,-1.7141154033897237,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1847,Guilloux,48.10981794986515,-1.6978177288356373,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1846,Vitré,48.11999984159816,-1.6501247311087068,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1845,Chateaudun,48.1117178212221,-1.6658669749401318,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1843,Redon,48.10501817960514,-1.6913143919567264,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1842,Foyer Rennais,48.10063500598943,-1.6855186446004988,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1841,Oscar Leroux,48.09137571880605,-1.6663275038337515,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1840,Calmette,48.09506538090691,-1.6500548495451473,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1821,Combes,48.0936992,-1.672566,1,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1748,République - Saint-Germain,48.10935,-1.675827,2,1.0,False,False,35238,Rennes,35
+Citiz,Citiz Rennes,1683,Pilate,48.093845,-1.69075,2,1.0,False,False,35281,Saint-Jacques-de-la-Lande,35
+Citiz,Citiz Grand Est,1739,Quartier des Quinze (Conseil des XV),48.588782,7.782882,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1738,Kembs (Neudorf),48.5680362,7.7647157,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1737,Thiergarten (Gare),48.585079,7.737745,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1736,Général Frère (Tribunal),48.5887865,7.752417,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1735,Romanswiller (Cronenbourg),48.59677,7.7204,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1734,Malteries,48.601293,7.74282,1,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,1714,Coop (Port du Rhin),48.574742,7.791475,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1676,STEP (Cronenbourg),48.603001,7.723765,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1648,Mairie de Chatenois,48.271373,7.399371,1,1.0,False,False,67073,Châtenois,67
+Citiz,Citiz Grand Est,1557,Eureka - Fraternité,47.574064,7.547373,3,1.0,False,False,68297,Saint-Louis,68
+Citiz,Citiz Grand Est,1265,Edouard Benes,48.075913,7.341959,1,1.0,False,False,68066,Colmar,68
+Citiz,Citiz Grand Est,1264,Général Leclerc,48.074065,7.354389,1,1.0,False,False,68066,Colmar,68
+Citiz,Citiz Pays Basque,1675,Grandola,43.54279,-1.46063,1,1.0,False,False,40312,Tarnos,40
+Citiz,Citiz Pays Basque,1248,Musées // Museoak,43.492451,-1.472277,2,1.0,False,False,64102,Bayonne,64
+Citiz,Citiz Pays Basque,1108,Jardin public // Loretegi publikoa,43.480545,-1.558926,1,1.0,False,False,64122,Biarritz,64
+Citiz,Citiz Pays Basque,352,Mairie de Biarritz // Herriko etxea,43.48252868652344,-1.5582480430603027,2,1.0,False,False,64122,Biarritz,64
+Citiz,Citiz Grand Est,1239,Marbach (Grande-île),48.58496,7.74516,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1238,Carmes (Neudorf),48.5705734598372,7.75873782174918,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1237,Metzeral (Neudorf),48.570574,7.770066,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1236,Neufeld (Neudorf),48.568068,7.755297,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1235,Citadelle (Neudorf),48.570879,7.779754,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1234,Sélestat (Neudorf),48.565772,7.76263,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1233,Baldung Grien (Contades),48.5897,7.75415,4,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1232,Cassin (Orangerie),48.583403,7.771239,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1231,Eisenhower (Tribunal),48.586728,7.760133,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1230,Jardin des 2 Rives (Port du Rhin),48.570461,7.796017,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1229,Sandre (Robertsau),48.5965193,7.7901201,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1228,Bitche (Contades),48.59118,7.75327,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,376,Lyon 9ème - Gorge de Loup,45.768009185791,4.8042049407959,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,1744,Rotterdam (Conseil des XV),48.58162,7.7815,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1740,Jardiniers (Robertsau),48.599737,7.783258,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,259,Porte Jeune,47.7507209777832,7.341012954711914,4,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,253,Michel Ange (Elsau),48.56489562988281,7.7280659675598145,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,251,Adrien Zeller (Wacken),48.59872817993164,7.7620439529418945,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,429,Lyon 9ème - Vaise Industrie,45.7866706848145,4.81151294708252,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,428,Lyon 9ème - Vaise Bourbonnais,45.7732963562012,4.8004150390625,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,426,Lyon 9ème - Saint-Rambert - Ile Barbe,45.7978134155273,4.83028316497803,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,425,Lyon 9ème - Mangini - Muriers,45.7920303344727,4.81847381591797,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,419,Lyon 3ème - Lafayette - Baraban,45.7636871337891,4.86833381652832,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,535,Gare de Vendenheim,48.66572189331055,7.716842174530029,1,1.0,False,False,67506,Vendenheim,67
+Citiz,Citiz Grand Est,534,Lazaret (Neudorf),48.5640754699707,7.755199909210205,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,533,Tanneries (Montagne Verte),48.56123733520508,7.694112777709961,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,532,Pfister (Meinau),48.55231857299805,7.751869201660156,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,531,Capucins (Koenigshoffen),48.57801055908203,7.702110767364502,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,529,Faubourg de Pierre (Tribunal),48.58806610107422,7.746009826660156,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,528,St Antoine (Cronenbourg),48.59786224365234,7.709183216094971,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,527,Rue Nationale,48.61556625366211,7.755352020263672,2,1.0,False,False,67043,Bischheim,67
+Citiz,Citiz Grand Est,1099,Gare de Barr,48.402405,7.45634,2,1.0,False,False,67021,Barr,67
+Citiz,Citiz Grand Est,1097,Gare de Brumath,48.7327766418457,7.70081090927124,1,1.0,False,False,67067,Brumath,67
+Citiz,Citiz Grand Est,1096,Gare de Bischwiller,48.76598358154297,7.851359844207764,1,1.0,False,False,67046,Bischwiller,67
+Citiz,Citiz Grand Est,600,Jardin Botanique,49.10317993164063,6.161269187927246,1,1.0,False,False,57480,Montigny-lès-Metz,57
+Citiz,Citiz Grand Est,599,Place de la Nation,49.100433349609375,6.155196189880371,1,1.0,False,False,57480,Montigny-lès-Metz,57
+Citiz,Citiz Grand Est,544,Mairie de Laxou,48.68448257446289,6.152822971343994,0,1.0,False,False,54304,Laxou,54
+Citiz,Citiz Grand Est,539,Rives de Meurthe,48.69144821166992,6.198552131652832,1,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,538,ARTEM,48.67379760742188,6.171402931213379,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,537,Place Godefroy de Bouillon,48.692138671875,6.167918205261231,2,1.0,False,False,54395,Nancy,54
+Citiz,Citiz Grand Est,536,Rieth (Cronenbourg),48.60131072998047,7.723369121551514,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Lyon,398,Lyon 6ème - Saxe Lafayette,45.7647590637207,4.84481382369995,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,391,Villeurbanne - La Doua,45.7817192077637,4.87283515930176,1,1.0,False,False,69266,Villeurbanne,69
+Citiz,Citiz Grand Est,1243,Lucerne (Krutenau),48.577557,7.758235,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1242,St Gothard (Krutenau),48.578913,7.75649,1,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1241,Ducs d'Alsace (Cronenbourg),48.589938,7.715288,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1240,Clarisses (Grande-île),48.58603,7.75003,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,523,Temple,47.58700942993164,7.563029766082764,2,1.0,False,False,68297,Saint-Louis,68
+Citiz,Citiz Grand Est,513,Vergers,48.65193939208984,7.754096984863281,1,1.0,False,False,67389,Reichstett,67
+Citiz,Citiz Grand Est,511,Sablon - Lothaire,49.10007858276367,6.177295207977295,2,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,510,Tanneurs,49.11972427368164,6.182138919830322,1,1.0,False,False,57463,Metz,57
+Citiz,Citiz Grand Est,353,Gare de Reims - Clairmarais,49.2604052,4.0223113,1,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,348,Jules Ferry,49.25696563720703,4.047629833221436,2,1.0,False,False,51454,Reims,51
+Citiz,Citiz Grand Est,347,St Rémi,49.245106,4.039134,2,1.0,False,False,51454,Reims,51
+Citiz,Citiz Lyon,415,Lyon 4ème - Place de la Croix-Rousse,45.7756291275445,4.83230113677423,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,414,Lyon 4ème - Hénon,45.779598236084,4.82707691192627,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,412,Lyon 4ème - Philippe de Lassalle,45.7793769836426,4.82055997848511,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,409,Lyon 8ème - Professeur Beauvisage,45.7297248840332,4.86761808395386,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,1227,E3 - La Haye,48.611846,7.706371,1,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,1224,Boeuf Rouge,48.587413,7.667334,1,1.0,False,False,67551,Wolfisheim,67
+Citiz,Citiz Grand Est,1107,Clos Romane,48.49917984008789,7.482209205627441,2,1.0,False,False,67411,Rosheim,67
+Citiz,Citiz Lyon,1173,Lyon 2ème - Claudius Collonge,45.7479438781738,4.82084894180298,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1162,Lyon 9ème - Observance,45.7683334350586,4.80956172943115,1,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Lyon,1157,Lyon 3ème - Docteur Rebatel,45.7502784729004,4.87370586395264,2,1.0,False,False,69123,Lyon,69
+Citiz,Citiz Grand Est,115,Buffon - Porte Haute,47.74781036376953,7.331164836883545,2,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,114,Brant Université (Orangerie),48.58580017089844,7.761969089508057,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,107,Place d'Islande (Esplanade),48.58026123046875,7.776356220245361,3,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,104,Palais des sports,47.73834609985352,7.317275047302246,1,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,103,Gare d'Obernai,48.46196365356445,7.488636016845703,2,1.0,False,False,67348,Obernai,67
+Citiz,Citiz Grand Est,132,Salm (Montagne Verte),48.563934,7.708525,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,130,Rodolphe Reuss (Neuhof),48.545213,7.766744,2,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,129,E3 - Londres,48.61026382446289,7.711759090423584,3,1.0,False,False,67447,Schiltigheim,67
+Citiz,Citiz Grand Est,125,Mairie de Hoenheim,48.62127685546875,7.755435943603516,3,1.0,False,False,67204,Hœnheim,67
+Citiz,Citiz Grand Est,124,Trois rois,47.744171142578125,7.3333740234375,1,1.0,False,False,68224,Mulhouse,68
+Citiz,Citiz Grand Est,123,Ypres (Conseil des XV),48.58564376831055,7.780213832855225,4,1.0,False,False,67482,Strasbourg,67
+Citiz,Citiz Grand Est,122,Place des Dragons,48.73966217041016,7.361268997192383,1,1.0,False,False,67437,Saverne,67
+Citiz,Citiz Grand Est,118,Malraux,48.52337646484375,7.721209049224853,2,1.0,False,False,67218,Illkirch-Graffenstaden,67
+Citiz,Citiz Auvergne-Rhône-Alpes,1213,Mairie de Jacob-Bellecombette,45.555338,5.9119903,1,1.0,False,False,73137,Jacob-Bellecombette,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1212,Pringy - Pré Billy (Station électrique),45.941692,6.122529,1,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1210,Bissy (Mairie de),45.5761949,5.8985953,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1209,Rue Jean Jaurès (15),45.90338,6.12759,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1190,Cloches (2),45.9104946,6.1366612,2,1.0,False,False,74010,Annecy,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1187,Place Saint-Bruno,45.366952,5.592531,2,1.0,False,False,38563,Voiron,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1109,Chemin des sources (10-12),45.206991,5.771719,2,1.0,False,False,38229,Meylan,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1105,Oriel,45.08841458616477,5.68363406599759,2,1.0,False,False,38524,Varces-Allières-et-Risset,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1100,Macornet,45.56746673583984,5.920587062835693,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1098,Montjay,45.57019805908203,5.909002780914307,2,1.0,False,False,73065,Chambéry,73
+Citiz,Citiz Lyon,1180,Saint-Genis-les-Ollières,45.7571258544922,4.72653341293335,1,1.0,False,False,69205,Saint-Genis-les-Ollières,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1102,Mairie du Veyrier-du-Lac,45.8815399,6.1776103,1,0.0,False,True,74299,Veyrier-du-Lac,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1196,Place du Commerce,45.5785098,5.9559659,1,0.0,False,True,73222,Saint-Alban-Leysse,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1222,AlpEspace,45.4804802,6.0324548,2,0.0,False,True,73151,Porte-de-Savoie,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1246,Louis Néel,45.217636,5.808716,3,0.0,False,True,38249,Montbonnot-Saint-Martin,38
+Citiz,Citiz Grand Est,1225,Zorn - Ouverture prochaine,48.60958,7.75503,1,0.0,False,True,67447,Schiltigheim,67
+Citiz,Citiz Lyon,408,Lyon 8ème - Mermoz - Moselle,45.7322463989258,4.88310289382935,1,0.0,False,True,69123,Lyon,69
+Citiz,Citiz Grand Est,1742,Aubepine (Robertsau) - FLEX,48.60611,7.77052,1,0.0,True,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1792,Mésanges - Ouverture prochaine,48.086235,7.33145,1,0.0,False,True,68066,Colmar,68
+Citiz,Citiz Grand Est,1793,Fleischhauer - Ouverture prochaine,48.08513,7.357924,1,0.0,False,True,68066,Colmar,68
+Citiz,Citiz Grand Est,1794,Porte de Bâle - Ouverture prochaine,48.073061,7.359478,1,0.0,False,True,68066,Colmar,68
+Citiz,Citiz Grand Est,1798,Mairie de Malzéville - Ouverture prochaine,48.708692,6.183208,1,0.0,False,True,54339,Malzéville,54
+Citiz,Citiz Grand Est,1887,Gare de Geispolsheim - Ouverture prochaine,48.52088,7.68525,0,0.0,False,True,67152,Geispolsheim,67
+Citiz,Citiz Grand Est,1889,Gare de Fegersheim - Lipsheim - Ouverture prochaine,48.491,7.67313,0,0.0,False,True,67268,Lipsheim,67
+Citiz,Citiz Grand Est,1890,Marcel Pagnol - Ouverture prochaine,48.6024,7.70233,0,0.0,False,True,67343,Oberhausbergen,67
+Citiz,Citiz Lyon,435,Lyon 2ème - Edouard Herriot,45.7619361877441,4.83408308029175,2,0.0,False,True,69123,Lyon,69
+Citiz,Citiz La Rochelle,1517,LAFOND,46.1740798950195,-1.14560401439667,2,0.0,False,True,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1521,LAGORD - OISEAUX DE MER,46.183967590332,-1.15605795383453,2,0.0,False,True,17200,Lagord,17
+Citiz,Citiz La Rochelle,1523,EIGSI,46.1402130126953,-1.15376496315002,2,0.0,False,True,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1524,VILLENEUVE LES SALINES,46.1522178649902,-1.1238659620285,2,0.0,False,True,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1525,MEDIATHEQUE,46.1534652709961,-1.15525197982788,2,0.0,False,True,17300,La Rochelle,17
+Citiz,Citiz La Rochelle,1526,MARCHE DE PORT NEUF,46.1593856811523,-1.18002200126648,2,0.0,False,True,17300,La Rochelle,17
+Citiz,Citiz Grand Est,1788,Aimé Morot - Ouverture prochaine,48.699531,6.165873,1,0.0,False,True,54395,Nancy,54
+Citiz,Citiz Grand Est,1789,Carnot - Ouverture prochaine,48.6943944,6.1777319,1,0.0,False,True,54395,Nancy,54
+Citiz,Citiz Grand Est,1790,Porte St Nicolas - Ouverture prochaine,48.6856227,6.1858656,1,0.0,False,True,54395,Nancy,54
+Citiz,Citiz Grand Est,1791,Saurupt - Clinchant - Ouverture prochaine,48.6775369,6.1810864,1,0.0,False,True,54395,Nancy,54
+Citiz,Citiz Grand Est,1899,Bains Municipaux (Orangerie) - Ouverture prochaine,48.5838,7.76113,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1900,Chopin (Orangerie) - Ouverture prochaine,48.586784,7.771871,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1901,Marne - Bruges (Conseil des XV) - Ouverture prochaine,48.585548,7.775478,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1902,Kirstein (Conseil des XV) - FLEX,48.58192,7.77224,0,0.0,True,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1903,Square Tivoli (Robertsau - Wacken) - Ouverture prochaine,48.59551,7.76033,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1921,Place Grimmeissen (Grande-île) - Ouverture prochaine,48.5816544810689,7.74056247613852,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Hauts-de-France,1783,PAVÉ DE LILLE,50.6636126,3.133711,0,0.0,False,True,59646,Wasquehal,59
+Citiz,Citiz Lyon,454,Lyon 9ème - La Duchère - Martinière,45.785472869873,4.79502010345459,2,0.0,False,True,69123,Lyon,69
+Citiz,Citiz Hauts-de-France,1716,BBNE - CHATEAU ROUGE,50.680614,3.11381,3,0.0,False,True,59378,Marcq-en-Barœul,59
+Citiz,Citiz Grand Est,1891,Mont Blanc (Esplanade) - Ouverture prochaine,48.5754,7.75908,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1892,Virgile (Koenigshoffen) - Ouverture prochaine,48.58128,7.70354,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1893,Gliesberg (Montagne Verte) - Ouverture prochaine,48.56835,7.70998,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1894,Aristide Briand (Neudorf) - Ouverture prochaine,48.5688,7.77685,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1896,Fried (Neudorf) - Ouverture prochaine,48.569312,7.771815,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1897,Jules Rathgeber (Neudorf) - Ouverture prochaine,48.56571,7.75669,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1898,Zellenberg (Neudorf) - Ouverture prochaine,48.563706,7.767668,0,0.0,False,True,67482,Strasbourg,67
+Citiz,Citiz Grand Est,1944,937 Bastion Couronné - Ouverture prochaine,49.351716,6.174319,2,0.0,False,True,57672,Thionville,57
+Citiz,Citiz Hauts-de-France,330,MAIRIE DE LEZENNES,50.61456680297852,3.1164140701293945,0,0.0,False,True,59346,Lezennes,59
+Citiz,Citiz Bourgogne-Franche-Comté,26,Quetigny,47.3137092590332,5.111464977264404,1,0.0,False,True,21515,Quetigny,21
+Citiz,Citiz Bourgogne-Franche-Comté,1733,Le Parc-Larrey,47.31511412074951,5.014912387033068,2,0.0,False,True,21231,Dijon,21
+Citiz,Citiz Bourgogne-Franche-Comté,37,Moirans Station,46.43438720703125,5.726367950439453,0,0.0,False,True,39333,Moirans-en-Montagne,39
+Citiz,Citiz Gironde,661,Réduit-Grand Darnal,44.88449478149414,-0.6028950214385986,3,0.0,False,True,33075,Bruges,33
+Citiz,Citiz Développement,1854,Alliés,47.5837077,1.3398147,1,0.0,False,True,41018,Blois,41
+Citiz,Citiz Développement,1943,Perspectives,48.438153,1.506304,1,0.0,False,True,28085,Chartres,28
+Citiz,Citiz Gironde,1659,Saint-Louis électrique,44.8581389953373,-0.569730830785325,1,0.0,False,True,33063,Bordeaux,33
+Citiz,Citiz Auvergne-Rhône-Alpes,758,Carré Curial,45.5634994506836,5.921999931335449,2,0.0,False,True,73065,Chambéry,73
+Citiz,Citiz Grand Est,215,Gare de Châlons-en-Champagne,48.955379486083984,4.346189975738525,2,0.0,False,True,51108,Châlons-en-Champagne,51
+Citiz,Citiz Lyon,482,Vénissieux - Moulin à Vent,45.7260208129883,4.85813283920288,1,0.0,False,True,69259,Vénissieux,69
+Citiz,Citiz Auvergne-Rhône-Alpes,773,Victor Hugo (8) T&B,45.188961029052734,5.7236409187316895,1,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,746,Calmette,45.18077850341797,5.706614017486572,3,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,795,DEMOBOX (Réservé Citiz),45.18806037580172,5.719697557630965,100,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,798,Esplanade - Jardin des Dauphins,45.1934814453125,5.720405101776123,1,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,826,Saint Pierre (CCI),45.52357864379883,4.87128496170044,2,0.0,False,True,38544,Vienne,38
+Citiz,Citiz Auvergne-Rhône-Alpes,836,CEA Cambridge,45.20261764526367,5.704329013824463,2,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,837,Frédéric Dard,45.591087341308594,5.275057792663574,2,0.0,False,True,38053,Bourgoin-Jallieu,38
+Citiz,Citiz Auvergne-Rhône-Alpes,839,SNCF Gare de Chambéry - Cassine (Q-Park),45.57078170776367,5.920917987823486,2,0.0,False,True,73065,Chambéry,73
+Citiz,Citiz Occitanie,1328,Clémenceau,44.4457092285156,1.44230103492737,1,0.0,False,True,46042,Cahors,46
+Citiz,Citiz Auvergne-Rhône-Alpes,873,Telepherique,45.19296646118164,5.725295066833496,0,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,881,Bd Marechal Joffre-Humanis,45.18400192260742,5.731959819793701,2,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,914,Mairie de Sevrier,45.86467742919922,6.140315055847168,2,0.0,False,True,74267,Sevrier,74
+Citiz,Citiz Auvergne-Rhône-Alpes,923,Boigne,45.588470458984375,5.882865905761719,2,0.0,False,True,73179,La Motte-Servolex,73
+Citiz,Citiz Provence,1462,Eugène Pierre Electrique Flex,43.297908782959,5.39069318771362,2,0.0,True,True,13055,Marseille,13
+Citiz,Citiz Provence,1468,Corbusier Flex,43.2612533569336,5.39701986312866,2,0.0,True,True,13055,Marseille,13
+Citiz,Citiz Provence,1476,Boulevard Perier,43.278621673584,5.3802318572998,2,0.0,False,True,13055,Marseille,13
+Citiz,Citiz Provence,1478,Granoux,43.298713684082,5.39810180664063,2,0.0,False,True,13055,Marseille,13
+Citiz,Citiz Provence,1481,Voltaire Electrique FLEX,43.3024864196777,5.38409614562988,2,0.0,True,True,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,965,Technopole-Rue Tournefort,45.4593620300293,4.39533281326294,2,0.0,False,True,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,969,10 Rue du Printemps,45.56458282470703,5.941652774810791,2,0.0,False,True,73029,Barberaz,73
+Citiz,Citiz Provence,1454,Lorgues Rabatau,43.2756118774414,5.39579200744629,2,0.0,False,True,13055,Marseille,13
+Citiz,Citiz Provence,1459,Prado-Périer Electrique FLEX,43.2791900634766,5.38792514801025,2,0.0,True,True,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,980,CEA Oxford-Schneider,45.20735168457031,5.69858980178833,5,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,982,20 rue des Tilleuls,45.568878173828125,5.949667930603027,2,0.0,False,True,73029,Barberaz,73
+Citiz,Citiz Auvergne-Rhône-Alpes,983,John Kennedy (17),45.174842834472656,5.718245983123779,2,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,989,Digonnet,44.930763244628906,4.892383098602295,2,0.0,False,True,26362,Valence,26
+Citiz,Citiz Auvergne-Rhône-Alpes,1024,CEA - Avenue des Martyrs (71),45.20772552490234,5.696967124938965,1,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1025,MC2-Paul Claudel,45.17169952392578,5.73281621932983,1,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1006,Bd Maréchal Foch (2),45.18178939819336,5.726500034332275,2,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Lyon,1127,Lyon 1er - Crimée,45.7734527587891,4.82815217971802,2,0.0,False,True,69123,Lyon,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1050,Biollay,45.55973052978516,5.903056144714356,2,0.0,False,True,73065,Chambéry,73
+Citiz,Citiz Provence,1409,République,43.3007888793945,5.37055492401123,2,0.0,False,True,13055,Marseille,13
+Citiz,Citiz Provence,1410,Préfecture Électrique,43.2907409667969,5.38010406494141,2,0.0,False,True,13055,Marseille,13
+Citiz,Citiz Auvergne-Rhône-Alpes,1059,Hôtel de ville,45.19097900390625,5.688849925994873,2,0.0,False,True,38169,Fontaine,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1043,Général Ferrié (66),45.17573165893555,5.724915027618408,2,0.0,False,True,38185,Grenoble,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1923,[Station temporaire] Parking du Clos Babuty,46.1976279,6.2227083,1,0.0,False,True,74008,Ambilly,74
+Citiz,Citiz Auvergne-Rhône-Alpes,1074,Pierre et Marie Curie (89),45.59438705444336,5.871445178985596,2,0.0,False,True,73179,La Motte-Servolex,73
+Citiz,Citiz Auvergne-Rhône-Alpes,1852,Rue Gabriel DIDIER,45.1438970908639,5.718752946121502,1,0.0,False,True,38151,Échirolles,38
+Citiz,Citiz Auvergne-Rhône-Alpes,1710,Rue du Beaujolais (9),46.107677,4.747779,1,0.0,False,True,69019,Belleville-en-Beaujolais,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1711,Rue de la Blanchisserie,46.1065434,4.7519163,3,0.0,False,True,69019,Belleville-en-Beaujolais,69
+Citiz,Citiz Auvergne-Rhône-Alpes,1775,Chavanelle,45.436302,4.391469,1,0.0,False,True,42218,Saint-Étienne,42
+Citiz,Citiz Auvergne-Rhône-Alpes,1650,Ruelle des jardins,46.256054,6.109914,0,0.0,False,True,01160,Ferney-Voltaire,01
+Citiz,Citiz Auvergne-Rhône-Alpes,1699,Côte Rousse,45.5896,5.92344,1,0.0,False,True,73065,Chambéry,73
