@@ -1,0 +1,476 @@
+operateur,service,categorie,nom,lat,lon,capacite,commune_code,commune_nom
+Lime,Vélos et trottinettes Lime Nice,zone de stationnement free-floating,Nice,43.7173,7.2413,,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,63 | Avenue Simone Veil | Nice,43.68365,7.20266,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Avenue Charles Buchet | Nice,43.66808,7.21508,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Boulevard de la Madeleine | Nice,43.69354,7.2441,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,48 | Boulevard de la Madeleine | Nice,43.69652,7.24169,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Place Alexandre Blanchi (Madeleine) | Nice,43.70814,7.23061,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,212 | Boulevard de la Madeleine | Nice,43.703832,7.23461,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,94 | Boulevard de la Madeleine | Nice,43.69826,7.24036,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,64 | Rue Trachel | Nice,43.70588,7.25637,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Boulevard Tzarewitch | Nice,43.70271,7.25517,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,46 | Rue Clément Roassal | Nice,43.7081,7.25678,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,49 | Boulevard Joseph Garnier | Nice,43.71001,7.25569,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,20 | Rue Michel Ange | Nice,43.71233,7.26204,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,44 | Boulevard Auguste Raynaud | Nice,43.71411,7.25886,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Promenade des Anglais | Nice,43.69486,7.26621,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Place Alexandre Médecin | Nice,43.72025,7.26258,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,18 | Boulevard Gorbella | Nice,43.719,7.25688,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,99 | Avenue Cyrille Besset | Nice,43.72009,7.25125,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Claude Gimelle | Nice,43.72209,7.25103,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,17 | Rue Marie Bashkirtseff | Nice,43.67472,7.22534,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Rue Molière | Nice,43.71289,7.25899,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Boulevard Comte de Falicon | Nice,43.72595,7.25551,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_123_zidNXHHO68Y,43.70718,7.26267,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,35 | Boulevard Raimbaldi | Nice,43.70595,7.26511,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_125_zidIHZJSRKC,43.71059,7.28411,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7 | Place du Palio | Nice,43.71176,7.28531,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,47 | Rue de Roquebillière | Nice,43.71065,7.2881,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Rue Humbert Ricolfi | Nice,43.71265,7.28902,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,74 | Promenade des Anglais | Nice,43.67779,7.22936,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Pie-François Toesca | Nice,43.71757,7.29097,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,43 | Avenue Denis Semeria | Nice,43.71536,7.29242,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7 | Rue Docteur Fighiéra | Nice,43.71023,7.29303,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Boulevard de l'Armée des Alpes | Nice,43.70767,7.29297,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,29 | Avenue Romain Rolland | Nice,43.71173,7.26483,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,26 | Avenue Mirabeau | Nice,43.70906,7.26672,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Jardin Albert 1er | Nice,43.69646,7.27001,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,141 | Avenue Maréchal Lyautey | Nice,43.71942,7.2835,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Boulevard de la Madeleine | Nice,43.69176,7.24508,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_150_zidU7UI610I,43.71745,7.28171,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,55 | Avenue Maréchal Lyautey | Nice,43.71387,7.2824,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_152_zidQXRJP5FQ,43.71215,7.28283,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_153_zid23QS3JAQ,43.71089,7.28286,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,70 | Route de Turin | Nice,43.71637,7.28435,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Autopont Route de Turin | Nice,43.71866,7.28458,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,30 | Rue Clément Roassal | Nice,43.70816,7.2592,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Rue Raiberti | Nice,43.71043,7.26286,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Saint-Sylvestre | Nice,43.72518,7.25208,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,42 | Boulevard Jean-Baptiste Verany | Nice,43.7149,7.28285,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,54 | Avenue Alfred Borriglione | Nice,43.7158,7.26168,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Cyrnos | Nice,43.71471,7.25404,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Rue Grimaldi | Nice,43.697952,7.265601,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Chemin Bessi | Nice,43.71613,7.26561,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,29 | Promenade des Anglais | Nice,43.69443,7.26021,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Avenue Félix Faure | Nice,43.69747,7.27064,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,40 | Rue Léonard Anfossi | Saint-Laurent-du-Var,43.66257,7.19456,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Place Jean Médecin | Saint-Laurent-du-Var,43.67415,7.18979,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,243 | Avenue du 11 Novembre | Saint-Laurent-du-Var,43.67401,7.19117,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Promenade des Flots Bleus | Saint-Laurent-du-Var,43.65803,7.18644,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,105 | Avenue France d'Outre-Mer | Saint-Laurent-du-Var,43.65952,7.19115,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,6 | Rue de la Préfecture | Nice,43.69673554852706,7.274372449018482,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,317 | Avenue Eugène Donadei | Saint-Laurent-du-Var,43.65839,7.19545,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,180 | Avenue Eugène Donadei | Saint-Laurent-du-Var,43.66034,7.19508,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Liaison Rue Albert Camus/Contre Allée du Commandant Jouhaud | Saint-Laurent-du-Var,43.6785,7.19052,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,849 | Avenue Jean Aicard | Saint-Laurent-du-Var,43.68552,7.18121,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,645 | Route des Pugets | Saint-Laurent-du-Var,43.6879,7.18385,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,6 | Chemin du Fahnestock | Saint-Laurent-du-Var,43.69069,7.18389,100.0,06123,Saint-Laurent-du-Var
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,13 | Quai des Etats-Unis | Nice,43.69464,7.278258,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Boulevard Franck Pilatte | Nice,43.69363,7.29001,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,11 | Avenue Simone Veil | Nice,43.6789,7.20454,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Jean Allègre | Nice,43.70808,7.2817,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,120 | Promenade de la Plage | Cagnes-sur-Mer,43.65646,7.17792,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,122 | Avenue des Alpes | Cagnes-sur-Mer,43.66395,7.13005,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,53 | Avenue des Alpes | Cagnes-sur-Mer,43.66,7.13712,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,99 | Promenade de la Plage | Cagnes-sur-Mer,43.65765,7.16866,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,73 | Promenade de la Plage | Cagnes-sur-Mer,43.6571,7.16465,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,25 | Promenade de la Plage | Cagnes-sur-Mer,43.65446,7.15779,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Rue Maraldi | Nice,43.70651,7.28314,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,33 | Boulevard J. F. Kennedy | Cagnes-sur-Mer,43.65061,7.15139,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue du Loup | Villeneuve-Loubet,43.64375,7.14433,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,24 | Avenue de Nice | Cagnes-sur-Mer,43.65622,7.15527,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,École Élémentaire De La Pinède | Cagnes-sur-Mer,43.65766,7.15913,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Passage du Lido | Cagnes-sur-Mer,43.65887,7.16982,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,32 | Rue Auguste Gal | Nice,43.70514,7.28645,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,55 | Boulevard Maréchal Juin | Cagnes-sur-Mer,43.6575,7.15137,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,48 | Boulevard du Maréchal Alphonse Juin | Cagnes-sur-Mer,43.65784,7.15088,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,12 | Boulevard du Maréchal Alphonse Juin | Cagnes-sur-Mer,43.66129,7.15076,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5 | Place Gabriel Péri | Cagnes-sur-Mer,43.66317,7.14825,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Allée des Platanes | Cagnes-sur-Mer,43.66486,7.15123,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,29 Rue Delille | Nice,43.7025,7.27347,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Rue Louis Négro | Cagnes-sur-Mer,43.66349,7.15255,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,48 | Chemin du Val Fleuri | Cagnes-sur-Mer,43.66485,7.17145,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,40bis | Avenue Anatole France | Cagnes-sur-Mer,43.66393,7.15193,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,43 | Boulevard Dubouchage | Nice,43.700847,7.268573,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,57 | Rue Arson | Nice,43.70557,7.28976,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Léon Bertrand | Nice,43.67345,7.22539,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,147 | Boulevard du Mercantour | Nice,43.67549,7.19928,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,143 | Boulevard René Cassin | Nice,43.66944,7.21422,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,58 | Avenue Saint-Augustin | Nice,43.67467,7.22303,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_410_zid1K1E7ZNW,43.7231721797418,7.285715388499459,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Escoffier | Nice,43.72066,7.29213,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,6 | Avenue de la Bornala | Nice,43.69424,7.23841,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7 | Chemin de la Madonette de Terron | Nice,43.69049,7.22677,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,93 | Boulevard Edouard Herriot | Nice,43.69188,7.23671,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_419_zidUDM2RIDK,43.70917,7.25939,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Sainte-Marguerite | Nice,43.67722,7.22553,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7 | Rue Général Hoche | Nice,43.70966,7.26392,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Rue Gabriel Hanotaux | Nice,43.707528,7.252009,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Jean Aicard | Nice,43.70514,7.25154,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Durante | Nice,43.70052,7.26222,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Boulevard Pasteur | Nice,43.72339,7.28175,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,34 | Avenue de Flirey | Nice,43.72516,7.27543,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,25 | Boulevard de Cimiez | Nice,43.70938,7.27039,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,51bis | Avenue Cap de Croix | Nice,43.73031,7.27601,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Avenue du Monastère | Nice,43.72075,7.27705,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Ernest Lairolle | Nice,43.72218,7.26048,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,203 | Route de Saint-Pierre de Féric | Nice,43.71728,7.23685,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,286 | Route de Saint-Antoine | Nice,43.70791,7.21588,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,76 | Boulevard Jean Behra | Nice,43.729,7.24429,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1954 | Ancien Chemin de l'Abadie | Nice,43.75259,7.29699,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Boulevard Jean Jaurès | Nice,43.70035,7.27842,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,13 | Rue Monseigneur Alfred Daumas | Nice,43.70996,7.28909,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Saint-Isidore | Nice,43.7105,7.19484,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,19 | Avenue Auguste Vérola | Nice,43.71093,7.19404,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,297 | Promenade des Anglais | Nice,43.67998,7.23091,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,333 | Promenade des Anglais | Nice,43.675419,7.228143,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,230 | Avenue Simone Veil | Nice,43.70479,7.19691,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,303 | Avenue Sainte-Marguerite | Nice,43.69225,7.19977,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,110 Promande des Angalsi | Nice,43.69046,7.2454,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,147 | Avenue Simone Veil | Nice,43.69215,7.19935,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,253 | Boulevard du Mercantour | Nice,43.69041,7.19513,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,221 | Promenade des Anglais | Nice,43.68496,7.23614,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,27 | Avenue de Fabron | Nice,43.68724,7.23227,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,227 | Avenue de la Lanterne | Nice,43.68659,7.2129,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Saint-Augustin | Nice,43.68007,7.22985,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,38 | Avenue Pierre Isnard | Nice,43.68497,7.19822,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,258 | Avenue de la Lanterne | Nice,43.68794,7.21233,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,57 | Avenue de la Californie | Nice,43.68915932321879,7.240712044625146,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,133 | Avenue de la Californie | Nice,43.68601,7.23628,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,198 | Promenade des Anglais | Nice,43.68651,7.23797,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2bis | Rue Henri Cordier | Nice,43.69287,7.2488,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,17 | Rue Alexis Mossa | Nice,43.69604,7.25194,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,65 | Boulevard Victor Hugo | Nice,43.6978,7.25718,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Rue Andrioli | Nice,43.69442,7.25445,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,27 | Avenue des Fleurs | Nice,43.69799,7.25152,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,26 | Rue Frédéric Passy | Nice,43.69953,7.25223,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,61 | Avenue Georges Clemenceau | Nice,43.70219,7.25778,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Rue François Aune | Nice,43.70106,7.25505,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,52 | Rue de France | Nice,43.69564,7.2587,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,43 | Boulevard Victor Hugo | Nice,43.6983,7.26015,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,26 | Rue Rossini | Nice,43.70056,7.26034,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Port de Plaisance | Saint-Jean-Cap-Ferrat,43.68866,7.33484,100.0,06121,Saint-Jean-Cap-Ferrat
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_601_zidNX5QGANG,43.68675488505971,7.339962016595144,100.0,06121,Saint-Jean-Cap-Ferrat
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Boulevard du Général de Gaulle | Saint-Jean-Cap-Ferrat,43.68891,7.32925,100.0,06121,Saint-Jean-Cap-Ferrat
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,25 | Rue d'Italie | Nice,43.70257,7.26272,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_64_zidP9QUYO8D,43.69757,7.26294,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_65_zid0NG1PXEU,43.6992,7.26988,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,25 | Avenue Virgile Barel | Drap,43.77039,7.3316,100.0,06054,Drap
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,221 | Montée du Grec | Drap,43.75159,7.32133,100.0,06054,Drap
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5bis | Rue de Verdun | Drap,43.75488,7.32002,100.0,06054,Drap
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,6 | Allée Sandro Pertini | Nice,43.70042,7.27289,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Descente Crotti | Nice,43.69734,7.27353,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Espace Père Ambroise Steve | Nice,43.7007,7.27576,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,30 | Rue Edouard Beri | Nice,43.70384,7.27359,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,29 | Quai de la Banquière | Saint-André-de-la-Roche,43.73719,7.28702,100.0,06114,Saint-André-de-la-Roche
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Quai de la Banquière | Saint-André-de-la-Roche,43.73961,7.28736,100.0,06114,Saint-André-de-la-Roche
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,21 | Boulevard du 8 Mai 1945 | Saint-André-de-la-Roche,43.73853,7.28759,100.0,06114,Saint-André-de-la-Roche
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,127 | Quai de la Banquière | Saint-André-de-la-Roche,43.74333,7.28784,100.0,06114,Saint-André-de-la-Roche
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Boulevard Raimbaldi | Nice,43.70712,7.2693,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,32 | Boulevard Stalingrad | Nice,43.69719,7.28692,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Rue de Foresta | Nice,43.69718,7.28298,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,49 | Rue Bonaparte | Nice,43.70052,7.28595,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Boyer | Nice,43.70194,7.28204,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,29 | Rue Scaliéro | Nice,43.70222,7.28641,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,153 | Boulevard René Cassin | Nice,43.66894,7.21267,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,15 | Boulevard Général de Gaulle | La Trinité,43.74137,7.31125,100.0,06149,La Trinité
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,50 | Rue Smollett | Nice,43.70221,7.28855,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,23 | Rue Georges Ville | Nice,43.70386,7.28394,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,32 | Rue des Ponchettes | Nice,43.69508,7.27758,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,20 | Boulevard Jean Jaurès | Nice,43.69845,7.27671,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,45 | Rue Berlioz | Nice,43.70249,7.25965,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,45 | Promenade des Anglais | Nice,43.69365,7.25619,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,89 | Promenade des Anglais | Nice,43.69168,7.2489,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,400 | Promenade des Anglais | Nice,43.66902,7.22068,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,190 | Avenue de la Californie | Nice,43.68265,7.2323,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Square Roger Boyer | Nice,43.71678,7.25681,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7ter | Rue Emmanuel-Philibert | Nice,43.70022,7.28327,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,24 | Avenue des Diables Bleus | Nice,43.70837,7.28833,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Port de Beaulieu | Beaulieu-sur-Mer,43.708827,7.33521,100.0,06011,Beaulieu-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue du Maréchal Foch | Beaulieu-sur-Mer,43.70707,7.33141,100.0,06011,Beaulieu-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Boulevard du Mont-Boron | Nice,43.687884,7.297116,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2067 | Avenue Marcel Pagnol | La Gaude,43.70104,7.16472,100.0,06065,La Gaude
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2431bis | Route de Cagnes | Vence,43.70535,7.13298,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1260 | Chemin de la Sine | Vence,43.71362,7.08881,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2475 | Route de Grasse | Vence,43.72296,7.08216,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,326 | Avenue Rhin et Danube | Vence,43.72411,7.10306,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,39 | Avenue Victor Tuby | Vence,43.72309,7.10685,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,28 | Place du Grand Jardin | Vence,43.72252,7.11141,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,111 | Avenue Alphonse Toreille | Vence,43.72224,7.11682,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,11 | Rue du Pontis | La Gaude,43.71947,7.15025,100.0,06065,La Gaude
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5 | Rue Louis Michel Feraud | La Gaude,43.7217,7.15305,100.0,06065,La Gaude
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,78 | Route de Saint-Laurent | La Gaude,43.73231,7.15626,100.0,06065,La Gaude
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2380 | Route de Gattières | Saint-Jeannet,43.74364,7.14563,100.0,06122,Saint-Jeannet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Parking René Veyssi | Saint-Jeannet,43.74991,7.14459,100.0,06122,Saint-Jeannet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,37 | Route de la ZA de la Grave | Carros,43.76678,7.20261,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,11 | Boulevard de La Colle Belle | Carros,43.76909,7.19673,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Rue de la Vésubie | Carros,43.769579,7.193234,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Parking rue des Arbousiers | Carros,43.77357,7.19157,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Giratoire Louis Frescolini | Carros,43.77496,7.19929,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1038 | Route des Plans | Carros,43.78343,7.20473,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Carriero Fernand Barbary | Carros,43.79214,7.18598,100.0,06033,Carros
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,54 | Boulevard Général de Gaulle | La Trinité,43.73846,7.30962,100.0,06149,La Trinité
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue Micheo | La Trinité,43.73578540558525,7.3077837560188765,100.0,06149,La Trinité
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,36 | Avenue de la Gare | Cagnes-sur-Mer,43.65855,7.14832,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,57 | Avenue de Nice | Cagnes-sur-Mer,43.65815,7.15983,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue François Guisol | Nice,43.7013,7.28433,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1292bis | Chemin du Pioulier | Vence,43.7231,7.13185,100.0,06157,Vence
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Robert Bineau | Roquebrune-Cap-Martin,43.75813,7.47912,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,42 | Avenue Winston Churchill | Roquebrune-Cap-Martin,43.75123,7.48746,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,23 | Promenade du Cap | Roquebrune-Cap-Martin,43.75859,7.48244,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,52 | Avenue Winston Churchill | Roquebrune-Cap-Martin,43.75686,7.4818,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,33 | Promenade du Cap | Roquebrune-Cap-Martin,43.75985,7.48327,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,51 | Promenade Robert Schuman | Roquebrune-Cap-Martin,43.76221,7.4846,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,63b | Promenade Robert Schuman | Roquebrune-Cap-Martin,43.76342,7.48769,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,71b | Promenade Robert Schuman | Roquebrune-Cap-Martin,43.76515,7.48799,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,189 | Avenue Aristide Briand | Roquebrune-Cap-Martin,43.76492,7.48274,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,213 | Avenue Aristide Briand | Roquebrune-Cap-Martin,43.76502,7.4855,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Profondeville | Roquebrune-Cap-Martin,43.76211,7.48146,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Rue du Moulin | Roquebrune-Cap-Martin,43.76498,7.48111,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,19 | Avenue Profondeville | Roquebrune-Cap-Martin,43.76268,7.48202,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,45 | Avenue Paul Doumer | Roquebrune-Cap-Martin,43.75779,7.47419,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,69 | Montée du Stade | Roquebrune-Cap-Martin,43.76332,7.47867,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10bis | Avenue le Corbusier | Roquebrune-Cap-Martin,43.7602,7.45638,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,32 | Avenue Paul Doumer | Roquebrune-Cap-Martin,43.75649,7.47618,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,129 | Avenue de Verdun | Roquebrune-Cap-Martin,43.76099,7.47056,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5 | Quai de Monléon | Menton,43.77497,7.50521,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,24 | Rue de la République | Menton,43.77555,7.50333,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,9 | Rue Loredan Larchey | Menton,43.77637,7.5034,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Promenade de la Mer | Menton,43.77868,7.50758,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Promenade de la Mer | Menton,43.78153,7.5103,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,17 | Avenue Laurenti | Menton,43.77929,7.50681,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,39 | Boulevard de Garavan | Menton,43.78618,7.5123,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Carnot | Menton,43.7707,7.49487,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1bis | Promenade Reine Astrid | Menton,43.78503526070046,7.523422277056178,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5 | Rue Paul Morillot | Menton,43.76768,7.48919,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,18 | Rue Albert 1er | Menton,43.774824,7.494188,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2bis | Boulevard de Garavan | Menton,43.77893,7.50575,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Avenue Cochrane | Menton,43.7715,7.49331,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,30 | Avenue Général de Gaulle | Menton,43.76944,7.49266,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,21 | Avenue de Verdun | Menton,43.77416,7.49696,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Cours George V | Menton,43.77327,7.4956,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Avenue Général de Gaulle | Menton,43.76746,7.48978,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Général de Gaulle | Menton,43.76592,7.48779,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,14 | Rue Paul Morillot | Menton,43.76652,7.48496,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,48 | Route du Val de Gorbio | Menton,43.76927,7.48006,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,55 | Route du Val de Gorbio | Menton,43.77139,7.47871,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,85 | Route du Val de Gorbio | Menton,43.7752,7.47439,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,95bis | Route du Val de Gorbio | Menton,43.77746,7.47231,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,97b | Avenue Cernuschi | Menton,43.77739,7.48685,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,73 | Avenue Cernuschi | Menton,43.77558,7.48846,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,33 | Avenue des Acacias | Menton,43.7827,7.48504,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,55 | Avenue de Sospel | Menton,43.77955,7.49359,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,55b | Avenue de Sospel | Menton,43.77814,7.49374,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,60bis | Val du Carei | Menton,43.7864,7.49441,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,95 | Avenue de Sospel | Menton,43.78287,7.49421,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,57 | Route de Sospel | Menton,43.79097,7.49204,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,85 | Route de Sospel | Menton,43.79329,7.49127,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,76 | Val du Carei | Menton,43.78724,7.49379,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,33 | Route de Sospel | Menton,43.78926,7.49215,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,32 | Rue des Etoiles | Menton,43.799687,7.488419,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,254 | Avenue Saint-roman | Menton,43.80127,7.48814,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,39 | Rue du Val des Castagnins | Menton,43.77911,7.48404,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,99 | Avenue de Pradès | Menton,43.78143,7.48049,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,21bis | Chemin du Suillet | Menton,43.78028,7.48344,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Quai Gordon Bennett | Menton,43.77666,7.50827,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Avenue de Nice | Cagnes-sur-Mer,43.65839,7.16372,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,5 | Avenue des Hellènes | Beaulieu-sur-Mer,43.70459,7.33297,100.0,06011,Beaulieu-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,955 | Chemin de la Garoupe | Antibes,43.554571,7.135443,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,370 | Rue des Cistes | Antibes,43.60988,7.07354,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Square du 8 Mai 1945 | Antibes,43.58367,7.1253,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,60 | Chemin des Sables | Antibes,43.56804,7.11575,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,711 | Chemin des Eucalyptus | Antibes,43.58028,7.08962,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Promenade Pierre Merli | Antibes,43.5737,7.12475,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,15 | Boulevard Général Vautrin | Antibes,43.5863,7.11878,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,13 | Impasse du Jardin des Roses | Antibes,43.59998,7.12213,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Chemin des Frères Garbero | Antibes,43.59962,7.12514,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,43 | Rue Dulys Prolongée | Antibes,43.57154,7.09664,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Boulevard James Wyllie | Antibes,43.57158,7.12761,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,28 | Boulevard James Wyllie | Antibes,43.57118,7.12785,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,38 | Boulevard James Wyllie | Antibes,43.57039,7.12862,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,44bis | Boulevard James Wyllie | Antibes,43.56981,7.12915,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,6 | Place Amiral Barnaud | Antibes,43.57948,7.12384,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,41 | Boulevard Albert 1er | Antibes,43.57673,7.12494,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,23 | Rue Sade | Antibes,43.58112,7.12601,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1bis | Avenue de l'Estérel | Antibes,43.57075,7.11179,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,410 | Allée de la Roselière | Antibes,43.57133,7.09079,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Maréchal Reille | Antibes,43.57929,7.12371,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,48 | Avenue de Cannes | Antibes,43.57331,7.08754,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,645 | Route du Phare | Antibes,43.5637,7.13194,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,14 | Avenue Robert Soleau | Antibes,43.58165,7.12068,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,22 | Chemin des Frères Garbero | Antibes,43.59941,7.12558,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,61 | Avenue du 11 Novembre | Antibes,43.59044,7.12373,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Boulevard Charles Guillaumont | Antibes,43.5703,7.1051,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,21 | Avenue Pasteur | Antibes,43.58225,7.12152,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Rue Line Renaud et Loulou Gasté | Antibes,43.59087,7.11859,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,54 | Avenue Robert Soleau | Antibes,43.58509,7.11978,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,990 | Boulevard Guillaume Apollinaire | Antibes,43.59723,7.06789,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,116bis | Boulevard Raymond Poincaré | Antibes,43.57246,7.1025,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,73 | Boulevard Raymond Poincaré | Antibes,43.57227,7.10341,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Square Louis Pretazzini | Antibes,43.57853,7.12607,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,294 | Avenue de la Mer | Vallauris,43.57015,7.08696,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,9 | Rue Saint Honorat | Antibes,43.57118,7.1071,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,45 | Boulevard Charles Guillaumont | Antibes,43.56934,7.10762,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,14 | Boulevard Maréchal Leclerc | Antibes,43.57545,7.12436,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue Barquier | Antibes,43.57677,7.12585,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Boulevard Baptistin Ardisson | Antibes,43.56917,7.11458,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,701 | Chemin des Quatre Chemins | Antibes,43.60282,7.11476,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Cours Masséna | Antibes,43.58038,7.1274,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,10 | Boulevard Dugommier | Antibes,43.58163,7.11934,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,25 | Boulevard d'Aguillon | Antibes,43.58316,7.12585,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1747 | Boulevard Maréchal Juin | Antibes,43.54953,7.11855,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,21bis | Avenue Thiers | Antibes,43.58291,7.1223,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,83 | Chemin des Liserons | Antibes,43.57283,7.10034,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Route de Chateauneuf | Opio,43.66837,6.98503,100.0,06089,Opio
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,14 | Route de Cannes | Opio,43.66139,6.98743,100.0,06089,Opio
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Avenue Georges Pompidou | Valbonne,43.62304,7.05116,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Place des Anciens Combattants | Valbonne,43.64168,7.01043,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,925b | Route de Cannes | Valbonne,43.63323,7.00005,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,8 | Avenue Saint Roch | Valbonne,43.64055,7.00758,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,20b | Avenue Saint Roch | Valbonne,43.64024125757747,7.005947696699331,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1855 | Route des Dolines | Valbonne,43.62372,7.04522,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,92 | Chemin de Peidessalle | Valbonne,43.64171,7.02515,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,112 | Rue de la Vigne Haute | Valbonne,43.6213,7.04403,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Place Mejane | Valbonne,43.6226,7.04668,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,704 | Route d’Antibes | Valbonne,43.62353,7.00765,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,399 | Route des Cretes | Valbonne,43.62362,7.02953,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,235 | Chemin du Val Martin | Valbonne,43.63206,7.00839,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,502 | Rue Albert Caquot | Valbonne,43.62049,7.05538,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,974 | Route de la Valmasque | Valbonne,43.60713,7.0573,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Rue du Vallon | Valbonne,43.62527,7.05375,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1300 | Route des Cretes | Valbonne,43.62839,7.03621,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,720 | Rue Albert Einstein | Valbonne,43.61554,7.05493,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,947 | Route des Dolines | Valbonne,43.62406,7.03686,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,15 | Place Joseph Bermond | Valbonne,43.621764851310026,7.040298708384412,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3935 | Route du Parc | Valbonne,43.61585,7.04134,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,444 | Route des Dolines | Valbonne,43.62059,7.03571,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,650 | Route des Lucioles | Valbonne,43.61782,7.05168,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,4 | Rue Albert Einstein | Valbonne,43.61084,7.05141,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,355 | Rue Dostoievski | Valbonne,43.61432,7.05988,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1047 | Route des Dolines | Valbonne,43.62673,7.04064,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1306 | Route de Biot | Valbonne,43.64287,7.03637,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,412 | Chemin de la Verriere | Valbonne,43.64109,7.0352,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,17 | Chemin du Darbousson | Valbonne,43.64452,7.04898,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2720 | Chemin de Saint-Bernard | Vallauris,43.60064,7.05973,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,109 | Avenue des Frères Roustan | Vallauris,43.56908,7.08293,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,294 | Avenue de la Mer | Vallauris,43.57032,7.08628,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,18 | Avenue des Frères Roustan | Vallauris,43.56507,7.07275,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue de la Liberté | Vallauris,43.56222,7.06724,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,12 | Avenue de la Liberté | Vallauris,43.56393,7.06744,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,176 | Avenue des Mimosas | Vallauris,43.57179,7.07806,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,34 | Avenue des Frères Roustan | Vallauris,43.5684,7.08228,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,20 | Rue Gilbert Portanier | Vallauris,43.57575,7.05528,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,71 | Avenue Jérôme Massier | Vallauris,43.57565,7.05383,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,12 | Avenue de l'Hopital | Vallauris,43.57952,7.0558,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Rue Etienne Lieutaud | Vallauris,43.57988,7.05413,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,16 | Avenue de la Gare | Vallauris,43.56685,7.07447,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Avenue des Martyrs de la Résistance | Vallauris,43.57358,7.0568,100.0,06155,Vallauris
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,161 | Avenue de Nice | Cagnes-sur-Mer,43.6606,7.17542,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Rond point Robert Schuman | Cagnes-sur-Mer,43.67115,7.16336,100.0,06027,Cagnes-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3 | Rue Gaston Mouton | La Trinité,43.73762,7.31938,100.0,06149,La Trinité
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,7 | Rue Vernier | Nice,43.70722,7.26253,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,30c | Avenue de Saint Philippe | Biot,43.61689,7.08037,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1000 | Route des Colles | Biot,43.6168,7.0733,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1520a | Route de la Mer | Biot,43.61854,7.11118,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Route des Clausonnes | Biot,43.62284,7.09902,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Route d'Antibes | Biot,43.62603,7.09692,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2bis | Chemin Neuf | Biot,43.6279,7.09583,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Jardin Escoffier | Villeneuve-Loubet,43.65773,7.1219,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,431 | Avenue Antony Fabre | Villeneuve-Loubet,43.66592,7.11671,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,87 | Allée des Bugadières | Villeneuve-Loubet,43.6568,7.12191,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue des Rives | Villeneuve-Loubet,43.6423,7.13422,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Rond-Point France d'Outre Mer | Villeneuve-Loubet,43.64256,7.13837,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Avenue de la Mer | Villeneuve-Loubet,43.641432,7.141881,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,385 | Boulevard des Italiens | Villeneuve-Loubet,43.64066,7.14114,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Avenue de la Batterie | Villeneuve-Loubet,43.63628,7.13872,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,157 | Boulevard des Italiens | Villeneuve-Loubet,43.64194,7.14298,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Plage de la Fighière | Villeneuve-Loubet,43.63738,7.1403,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1902 | Boulevard Nationale 7 | Villeneuve-Loubet,43.62501,7.13136,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Parking d'Ecomobilité | Villeneuve-Loubet,43.62913762330058,7.133667226294212,100.0,06161,Villeneuve-Loubet
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,3a | Chemin des Bachettes | Biot,43.62875,7.09617,100.0,06018,Biot
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,60 | Rue Line Renaud et Loulou Gasté | Antibes,43.5899,7.11818,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,75 | Avenue du 11 Novembre | Antibes,43.59255,7.1249,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1 | Rue Championnet | Antibes,43.58143,7.12355,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,165 | Avenue Mozart | Antibes,43.61302,7.12462,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,1260 | Route de Nice | Antibes,43.6111,7.12616,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,539 | Chemin des Quatre Chemins | Antibes,43.60245,7.11667,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,2 | Avenue Doyen Louis Trotabas | Nice,43.69603,7.24567,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,Vieux Chemin de Fabron | Nice,43.68763,7.22767,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Hopital_L_archet_zidLPBCN963,43.69737,7.22696,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Demontzey_zidUVEHSDMT,43.70469,7.2997,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___27___ALGER_zidR485NSVD,43.58153,7.11876,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___37___PASTEUR_zidYWZNNSL3,43.58139,7.12169,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___15___Avenue_du_Docteur_FABRE_zidWL1L3VQ6,43.56979,7.11261,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___31___Rue_Honnore_FERRARE_zidLOHXYC8Y,43.58439,7.12009,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___8___Avenue_Robert_SOLEAU_zid67NOJQTZ,43.58234,7.12042,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___36___Avenue_MEISSONNIER_zidTTC81XH4,43.57929,7.12355,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___10___Boulevard_FOCH___Carrefour_GAZAN_zid4D7WFZKU,43.57763,7.12207,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___9___Boulevard_FOCH_zid6WWFDGM5,43.57728,7.12265,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___20___Avenue_GAZAN_zidSNGOIWU9,43.57672,7.12013,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___17___Avenue_Edmond_zid1PLK3YYL,43.56759,7.11808,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___17BIS___Avenue_Edmond_zidHXHRE8I8,43.56745,7.11814,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___22___Avenue_Docteur_HOCHET_zidCQ6RF2JW,43.56986,7.11238,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___23___Avenue_JOFFRE_zidRI69G33R,43.56932,7.11103,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___14___Avenue_Louis_GALLET_zidGC0Q31DF,43.56956,7.1101,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___11___Rue_DULYS_zid01VYFEJR,43.57185,7.09898,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___12___Rue_BRICKA_zidQB7MDXKW,43.57171,7.10274,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___34___Avenue_de_l_ILETTE_zidHD5B57N0,43.57609,7.12352,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___21___Avenue_Frederic_MISTRAL_zid99WUH74J,43.58318,7.12325,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Antibes___27___ALGER_zid2B0WHNSM,43.58073,7.11869,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Arceau_Gare_d_antibes_zidNLZADOPA,43.58617,7.11991,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Pavillon_Nord_zidB2NH8RB8,43.585,7.12964,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Gravette_zid82K9WTVS,43.58314,7.12956,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Esplanade_Jean_Moulin_zidDLRI1CLF,43.58386,7.12711,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Capitainerie_zidDYW10Q26,43.58528,7.12714,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Mole_Sud_zid0ZKU0ZBY,43.58411,7.12492,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Fort_carre_zidOFLNUHU0,43.58856,7.12489,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Port_Galice_1_zidQZEIR4UQ,43.56336,7.11703,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Port_Galice_2_zid1REWO9CY,43.56326,7.11598,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Gare_Roquebrune_Nord_zid5JCZ4TGX,43.76076,7.45736,100.0,06104,Roquebrune-Cap-Martin
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Raverse_Garibaldi___Av_Saint_Jean_Baptiste_zidWA940730,43.70146,7.27809,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_2_avenue_Gallieni_zid45QZUBBF,43.7066,7.28127,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_6_avenue_Baquis_zid89JR8MDB,43.69959,7.26239,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_136_boulevard_du_Mont_Boron_zidEH8D4HWZ,43.70293,7.29665,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Parking_avenue_des_Hesperides___route_forestiere_du_Mont_Boron_zidM3HA7T7G,43.69199,7.30007,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Marquage_Joseph_Garnier_zidAXKJA70K,43.71007,7.25827,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Jardin_secret__zidRU6KUV8V,43.57921,7.1235,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Louis_Gallet__zid3EBJ5F12,43.56943,7.11087,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Docteur_Hochet__zid1Q8V2NXW,43.56985,7.11236,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Jardin_secret_2___zid3USDDXI8,43.57353,7.09461,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Avenue_de_l_Esterel__zidRD9GYRVJ,43.56979,7.10795,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Esterel2__zid43ZV389C,43.57027,7.10971,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Louis_Gallet__zidHX9H8AUV,43.56966,7.10949,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_25_Dr_Hochet___zidBFODCH3R,43.56921,7.11153,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Chemin_des_Sables__zidIZC8SXTS,43.56986,7.12259,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Boulevard_du_Cap__zidQWEN1OLW,43.57223,7.12481,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_5_Marechal_Foch__zidCZJATAC5,43.57903,7.1198,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Gairaut_zidHC67WF1W,43.73916,7.26149,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Orangini_zidMDKI0YRB,43.723816,7.271745,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Gravier_zid5TQ0BLBA,43.72509,7.26269,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Cernuschi_zidLPIXK4O1,43.72849,7.25068,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Francois_aune_zidLH2WDS14,43.6985,7.25534,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Clement_Ader_zidYB24NNLY,43.716065,7.253716,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Sacre_coeur_zidD3J463SS,43.70246,7.30903,100.0,06159,Villefranche-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Corderie_zid9U1ZWAIS,43.69956,7.30842,100.0,06159,Villefranche-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Parking_Wilson_zidL8EPJ438,43.70241,7.31226,100.0,06159,Villefranche-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Ange_Gardien_zidVHG6PULF,43.7035,7.32216,100.0,06159,Villefranche-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Mariniere_zidFS1H0GHJ,43.70647,7.31351,100.0,06159,Villefranche-sur-Mer
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Carabacel_zidCQXY8VHZ,43.70353,7.27608,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Primerose_zidTWB5M058,43.70296,7.24831,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Alphonse_Karr_zidKATJF6CX,43.69999,7.26457,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Italie_zidXNNP2DH4,43.70319,7.26622,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Canavese_zid20EPGEXU,43.72384838282355,7.247941736820847,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Castel_zidI5TE44CO,43.71001,7.25871,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Lycee_Honore_D_Estienne_zidCSHRM04J,43.70013,7.2483,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Marquage_Jardin_secret_zid558JNJ4D,43.57283,7.092,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Musee_Jean_Coctene_zidHNKJKQZU,43.77496,7.50878,100.0,06083,Menton
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Virtual_CC_Isidore_zid79NCZQND,43.72893,7.18805,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Virtual_CC_isidore_2_zidOLAUKXZZ,43.72704,7.18847,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Marquage_Andrioli_zidR271K1NV,43.69363,7.25491,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Marquage_Fedor_zidNLEZQ5US,43.61397,7.05566,100.0,06152,Valbonne
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Arceau_Maupassant_zidC8CUBN4P,43.56873,7.11061,100.0,06004,Antibes
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_spot_parking_rue_dabray_zidR89CNBKY,43.70968,7.257,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_Marquage_Raymond_Comboul_zidEXD13XAI,43.70958,7.26534,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_TMP_Aeroport_Est_zidI7NUIQT3,43.66643,7.21103,100.0,06088,Nice
+Pony,Vélos et trottinettes Pony Nice,zone de stationnement free-floating,nice_parking_TMP_Aeroport_Ouest_zidMT4OJFQA,43.66651,7.2116,100.0,06088,Nice
+Lime,Vélos Lime Communauté d’Agglomération Sophia Antipolis (CASA),zone de stationnement free-floating,CASA,43.5439,6.9369,,06079,Mandelieu-la-Napoule
