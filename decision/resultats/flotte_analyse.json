@@ -1,0 +1,255 @@
+{
+  "pratique_citiz": {
+    "reseau": {
+      "stations": 1491,
+      "vehicules_par_station": 1.74,
+      "repartition": {
+        "1": 0.485,
+        "2": 0.376,
+        "3 et plus": 0.14
+      }
+    },
+    "villes": {
+      "Marseille": {
+        "stations": 74,
+        "vehicules_par_station": 2.41,
+        "repartition": {
+          "1": 0.027,
+          "2": 0.77,
+          "3 et plus": 0.203
+        }
+      },
+      "Toulouse": {
+        "stations": 89,
+        "vehicules_par_station": 1.97,
+        "repartition": {
+          "1": 0.101,
+          "2": 0.843,
+          "3 et plus": 0.056
+        }
+      },
+      "Bordeaux": {
+        "stations": 68,
+        "vehicules_par_station": 2.06,
+        "repartition": {
+          "1": 0.176,
+          "2": 0.691,
+          "3 et plus": 0.132
+        }
+      },
+      "Lyon": {
+        "stations": 144,
+        "vehicules_par_station": 2.53,
+        "repartition": {
+          "1": 0.16,
+          "2": 0.41,
+          "3 et plus": 0.431
+        }
+      },
+      "Strasbourg": {
+        "stations": 128,
+        "vehicules_par_station": 1.66,
+        "repartition": {
+          "1": 0.555,
+          "2": 0.297,
+          "3 et plus": 0.148
+        }
+      },
+      "Grenoble": {
+        "stations": 111,
+        "vehicules_par_station": 2.0,
+        "repartition": {
+          "1": 0.495,
+          "2": 0.234,
+          "3 et plus": 0.27
+        }
+      },
+      "Lille": {
+        "stations": 39,
+        "vehicules_par_station": 2.62,
+        "repartition": {
+          "1": 0.026,
+          "2": 0.59,
+          "3 et plus": 0.385
+        }
+      },
+      "Rennes": {
+        "stations": 58,
+        "vehicules_par_station": 1.72,
+        "repartition": {
+          "1": 0.569,
+          "2": 0.259,
+          "3 et plus": 0.172
+        }
+      },
+      "Nantes": {
+        "stations": 20,
+        "vehicules_par_station": 1.4,
+        "repartition": {
+          "1": 0.65,
+          "2": 0.3,
+          "3 et plus": 0.05
+        }
+      }
+    },
+    "selon_habitants_400m": {
+      "<3 000": {
+        "stations": 592,
+        "vehicules_par_station": 1.35,
+        "part_1_vehicule": 0.71
+      },
+      "3-6 000": {
+        "stations": 546,
+        "vehicules_par_station": 1.62,
+        "part_1_vehicule": 0.54
+      },
+      "6-9 000": {
+        "stations": 164,
+        "vehicules_par_station": 1.87,
+        "part_1_vehicule": 0.39
+      },
+      "9-12 000": {
+        "stations": 80,
+        "vehicules_par_station": 1.85,
+        "part_1_vehicule": 0.39
+      },
+      ">12 000": {
+        "stations": 20,
+        "vehicules_par_station": 2.2,
+        "part_1_vehicule": 0.25
+      }
+    }
+  },
+  "disponibilite_selon_taille": {
+    "1": {
+      "stations": 825,
+      "rupture_part_du_temps": 0.213,
+      "part_stations_vides_plus_15pct": 0.473
+    },
+    "2": {
+      "stations": 448,
+      "rupture_part_du_temps": 0.057,
+      "part_stations_vides_plus_15pct": 0.156
+    },
+    "3": {
+      "stations": 99,
+      "rupture_part_du_temps": 0.037,
+      "part_stations_vides_plus_15pct": 0.111
+    },
+    "4": {
+      "stations": 42,
+      "rupture_part_du_temps": 0.005,
+      "part_stations_vides_plus_15pct": 0.024
+    }
+  },
+  "flotte": {
+    "reseau": {
+      "motorisation": {
+        "hybride": 46.7,
+        "thermique": 45.5,
+        "électrique": 6.6,
+        "autre": 1.1
+      },
+      "categorie": {
+        "citadine": 73.2,
+        "compacte / berline / SUV": 13.9,
+        "grand volume / utilitaire": 13.0
+      },
+      "modeles": {
+        "Toyota Yaris": 422,
+        "Suzuki Swift": 243,
+        "Renault Twingo": 199,
+        "Citroën C3": 88,
+        "Renault Clio Hybride": 86,
+        "Smart ForFour": 80
+      }
+    },
+    "provence": {
+      "motorisation": {
+        "thermique": 68.4,
+        "hybride": 28.9,
+        "électrique": 2.0,
+        "autre": 0.7
+      },
+      "categorie": {
+        "citadine": 92.1,
+        "compacte / berline / SUV": 5.3,
+        "grand volume / utilitaire": 2.6
+      },
+      "modeles": {
+        "Fiat 500": 42,
+        "Renault Clio": 29,
+        "Toyota Aygo": 26,
+        "Dacia Sandero": 19,
+        "Toyota Yaris": 15,
+        "Fiat Panda": 8
+      }
+    }
+  },
+  "ecart_occupation_intra_station": {
+    "motorisation": {
+      "hybride": {
+        "ecart_pts": 2.5,
+        "ic95": [
+          0.8,
+          4.2
+        ],
+        "n": 424
+      },
+      "thermique": {
+        "ecart_pts": -2.6,
+        "ic95": [
+          -4.3,
+          -0.9
+        ],
+        "n": 423
+      },
+      "électrique": {
+        "ecart_pts": 0.9,
+        "ic95": [
+          -3.7,
+          5.5
+        ],
+        "n": 51
+      }
+    },
+    "categorie": {
+      "citadine": {
+        "ecart_pts": 3.7,
+        "ic95": [
+          1.9,
+          5.6
+        ],
+        "n": 392
+      },
+      "compacte / berline / SUV": {
+        "ecart_pts": -1.9,
+        "ic95": [
+          -4.5,
+          0.6
+        ],
+        "n": 222
+      },
+      "grand volume / utilitaire": {
+        "ecart_pts": -5.1,
+        "ic95": [
+          -7.2,
+          -3.0
+        ],
+        "n": 204
+      }
+    }
+  },
+  "recommandation": {
+    "vehicules_par_station": 2,
+    "regle": "2 au lancement ; +1 si la station est entièrement réservée plus de 15 % du temps de journée pendant 2 semaines ; −1 si l'occupation par véhicule reste sous 15 %",
+    "type_socle": "citadine hybride (catégorie Toyota Yaris / Renault Clio hybride)",
+    "electrique": "test dans 1 ou 2 stations proches de bornes publiques (ex-Mobilize Share), non généralisé : écart non significatif",
+    "grand_volume": "pas au lancement ; à réévaluer avec des relevés de week-end"
+  },
+  "limites": [
+    "Citiz place déjà plus de véhicules là où la demande est forte : comparaison non contrôlée.",
+    "22 h de relevés en semaine, sans week-end ni été.",
+    "L'âge des véhicules n'est pas publié : les hybrides, plus récents, peuvent être préférés pour cette raison."
+  ]
+}

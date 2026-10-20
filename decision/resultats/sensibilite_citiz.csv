@@ -1,9 +1,9 @@
 scenario,stations,vehicules,budget_utilise_eur,habitants_nouveaux,potentiel_moyen,part_quartiers_modestes,communes,sites_communs_avec_reference_400m
-référence,20,43,494100,158884,0.935,0.6,5,20
-sans quota d'équité,20,43,494100,158884,0.935,0.6,5,20
-population seule (ancien score),19,43,488100,167194,0.768,0.68,5,9
-potentiel renforcé,20,43,494100,159190,0.941,0.7,5,18
-budget 250 k€,9,21,236700,89548,0.956,0.56,2,9
-budget 1 M€,41,85,985500,271958,0.872,0.63,13,20
-coûts bas,34,71,494000,237593,0.893,0.62,12,20
-coûts hauts,15,33,496500,130389,0.931,0.6,4,15
+référence,21,42,491400,175573,0.912,0.67,6,21
+sans quota d'équité,21,42,491400,175573,0.912,0.67,6,21
+population seule (ancien score),21,42,491400,182725,0.781,0.71,5,15
+potentiel renforcé,21,42,491400,171299,0.928,0.76,7,20
+budget 250 k€,10,20,234000,106562,0.933,0.7,2,10
+budget 1 M€,42,84,982800,284145,0.856,0.62,13,21
+coûts bas,35,70,490000,251320,0.872,0.63,12,21
+coûts hauts,16,32,496000,145846,0.918,0.69,4,16

@@ -98,7 +98,7 @@ pc = PAR["citiz"]
 def scenario_citiz(budget=None, cout_niveau="centrale", poids_potentiel=1.0, quota=None, nom="référence"):
     budget = pc["budget_annee1_eur"]["centrale"] if budget is None else budget
     quota = pc["quota_equite_part_min"]["centrale"] if quota is None else quota
-    veh = np.where(c.pop_400m >= 9000, 3, 2)
+    veh = np.full(len(c), pc["vehicules_par_station"]["centrale"])   # 2 au lancement (étape 6b) ; le 3e après rupture observée
     cout = (pc["installation_station_eur"][cout_niveau]
             + veh * (pc["exploitation_vehicule_eur_an"][cout_niveau] + pc["stationnement_vehicule_eur_an"][cout_niveau]))
     pot = c.potentiel.to_numpy() ** poids_potentiel
@@ -124,13 +124,14 @@ for k, col in [("bas", "occupation_bas"), ("centrale", "occupation_attendue"), (
 charges = r.vehicules * (pc["exploitation_vehicule_eur_an"]["centrale"] + pc["stationnement_vehicule_eur_an"]["centrale"])
 for k in ["bas", "centrale", "haut"]:
     r[f"resultat_eur_an_{k}"] = (r[f"recettes_eur_an_{k}"] - charges).round(-2)
+r["composition"] = pc["composition_station"]["centrale"]
 pco = PAR["carbone"]
 co2 = lambda n, a: n * pco["voitures_personnelles_remplacees_par_vehicule"][a] * pco["km_annuels_voiture_personnelle"]["centrale"] \
     * pco["part_km_voiture_evites"][a] * pco["facteur_emission_kgco2e_km"][a] / 1000
 r["co2_evite_t_an_bas"] = co2(r.vehicules, "bas").round(1)
 r["co2_evite_t_an_haut"] = co2(r.vehicules, "haut").round(1)
 cols = ["rang", "vague", "commune", "arret_proche", "lat", "lon", "x", "y", "pop_400m", "habitants_nouveaux", "potentiel",
-        "percentile_vs_stations_citiz", "occupation_bas", "occupation_attendue", "occupation_haut", "vehicules",
+        "percentile_vs_stations_citiz", "occupation_bas", "occupation_attendue", "occupation_haut", "vehicules", "composition",
         "cout_annee1_eur", "recettes_eur_an_centrale", "resultat_eur_an_bas", "resultat_eur_an_centrale",
         "resultat_eur_an_haut", "co2_evite_t_an_bas", "co2_evite_t_an_haut", "quartier_modeste", "niveau_vie_k",
         "part_sans_voiture_commune", "part_res_secondaires_commune", "passages_tc_jour_400m", "n_voiture Getaround",

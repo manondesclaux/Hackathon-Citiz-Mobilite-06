@@ -27,6 +27,7 @@ Les GTFS du 06, les projections Omphale et le réseau OSM sont téléchargés au
 | 4 | `04_modele_implantation.py` | Modèle de potentiel d'implantation, validé hors échantillon et contre l'usage observé | `resultats/modele_implantation.json` |
 | 5 | `05_accessibilite_06.py` | Objectifs 1 et 2 : options à 5 min par habitant, habitants desservis par chaque point d'accès | `resultats/population_par_point_acces_06.csv`, `resultats/equite_acces_06.json` |
 | 6 | `06_projections.py` | Projections INSEE Omphale (2030-2040, trois scénarios) | `resultats/projections_06.csv` |
+| 6b | `06b_flotte.py` | Nombre et type de véhicules par station : pratique Citiz, ruptures mesurées dans Fabric, occupation par type à lieu égal | `resultats/flotte_analyse.json`, `resultats/flotte_types.csv` |
 | 7 | `07_optimisation.py` | Objectif 3 : listes priorisées sous budget (Citiz, arrêts de bus, stations vélo), sensibilité | `resultats/stations_citiz_recommandees.csv`, `resultats/synthese_decision.json` |
 | 8 | `08_isochrones.py` | Habitants à 400 m **à pied** sur le réseau OSM, pour chaque site retenu | `resultats/isochrones_sites.csv` |
 | 9 | `09_carte.py` | Carte unique de démonstration (3 objectifs, couches activables) | `resultats/carte_decision_06.html` |
@@ -58,30 +59,41 @@ Question posée : « ce carreau ressemble-t-il aux lieux où Citiz tient une sta
 
 ### Recommandation Citiz (budget de 500 k€ la première année)
 
-20 stations, 43 véhicules, environ 159 000 habitants nouvellement desservis à 400 m à vol d'oiseau, soit
-**environ 67 000 à 5 minutes à pied** sur le réseau OSM (42 %). Les sites en hauteur de Nice (Costabella, Denis Semeria,
-Valrose, Gravier) ne touchent à pied que 11 à 22 % des habitants comptés à vol d'oiseau, contre 50 à 75 %
-pour les sites du centre de Nice et d'Antibes : ils sont à revoir en priorité. Les stations sont en majorité à Nice, avec quelques-unes à Antibes,
-Cagnes-sur-Mer, Cannes et Menton.
+21 stations, 42 véhicules (491 k€ la première année), environ 176 000 habitants nouvellement desservis à 400 m à
+vol d'oiseau, soit **environ 81 000 à 5 minutes à pied** sur le réseau OSM (46 %). Trois sites ne touchent à pied que
+11 à 29 % des habitants comptés à vol d'oiseau (Costabella, Mirasol / Pessicart, Carlone) : ils sont à revoir en
+priorité. Les stations sont en majorité à Nice (15), avec Antibes (2), Cagnes-sur-Mer, Cannes, Menton et Grasse.
+
+**Flotte** (`06b_flotte.py`) : **2 véhicules par station au lancement**, un 3e seulement si la station est
+entièrement réservée plus de 15 % du temps de journée pendant 2 semaines. C'est la pratique de Citiz dans les grandes
+villes du Sud (77 % des stations à 2 véhicules à Marseille, 84 % à Toulouse). Dans Fabric, une station est
+entièrement réservée 21 % du temps avec 1 véhicule, 5,7 % avec 2 et 3,7 % avec 3 : le 3e véhicule apporte peu.
+Type : **2 citadines hybrides** (catégorie Toyota Yaris / Renault Clio hybride, les modèles les plus courants de la
+flotte). À lieu égal, les citadines sont réservées 3,7 points de plus que la moyenne de leur station, les hybrides
+2,5 points de plus (l'âge des véhicules, non publié, peut en expliquer une part). Électrique : à tester dans 1 ou 2
+stations proches de bornes publiques, l'écart n'étant pas significatif. Grand volume : pas au lancement (−5,1 points
+en semaine, week-end non mesuré). La règle de l'équipe (3 véhicules au-delà de 9 000 habitants) est abandonnée : elle
+ne correspondait pas à la pratique de Citiz et reposait sur des taux de rupture mal lus.
 **Rentabilité : un seuil, pas une prédiction.** Sans les recettes ni les réservations par station, le résultat
-d'exploitation n'est pas prédictible : selon les coûts et l'occupation retenus (`parametres.json`), il va de −84 k€ à
-+180 k€ par an pour les 43 véhicules. L'information utile est le seuil : avec 8 700 € de charges par véhicule et
+d'exploitation n'est pas prédictible : selon les coûts et l'occupation retenus (`parametres.json`), il va de −93 k€ à
++164 k€ par an pour les 42 véhicules. L'information utile est le seuil : avec 8 700 € de charges par véhicule et
 par an (central), une station est à l'équilibre à **21 % d'occupation**, la moyenne actuelle du réseau Citiz ; à
 15 % si la Métropole offre le stationnement (6 000 €), à 26 % avec des coûts hauts (10 500 €).
-De 150 à 370 t de CO₂ évitées par an (ordre de grandeur). 60 % des stations sont dans les quartiers des 40 %
+De 140 à 360 t de CO₂ évitées par an (ordre de grandeur). 67 % des stations sont dans les quartiers des 40 %
 d'habitants les plus modestes.
 
-**Sensibilité** (`resultats/sensibilite_citiz.csv`) : avec l'ancien critère « population seule », seuls 9 des 20
-sites sont communs. Le potentiel change donc réellement la décision, en échange d'environ 5 % d'habitants desservis
-en moins. Doubler le budget garde les 20 premiers sites.
+**Sensibilité** (`resultats/sensibilite_citiz.csv`) : avec l'ancien critère « population seule », seuls 15 des 21
+sites sont communs. Le potentiel change donc réellement la décision, en échange d'environ 4 % d'habitants desservis
+en moins. Doubler le budget garde les 21 premiers sites.
 
 ### Arrêts de bus et stations vélo
 
-- **Arrêts de bus** : 10 arrêts sur des lignes existantes (150 k€), environ 9 000 habitants qui gagnent un arrêt
-  actif à 400 m, pour 12 à 21 € par habitant. Le reste des 97 000 habitants sans arrêt actif vit trop loin d'une
+- **Arrêts de bus** : 10 arrêts sur des lignes existantes (142 k€), environ 9 000 habitants qui gagnent un arrêt
+  actif à 400 m à vol d'oiseau, environ 2 800 à pied (valeur pessimiste : le point testé est le centre d'un carreau
+  périurbain, pas un arrêt placé sur la ligne). Le reste des 97 000 habitants sans arrêt actif vit trop loin d'une
   ligne : il faudrait une nouvelle ligne, ce qui est hors périmètre.
 - **Stations vélo** : 9 stations en réseau dans le centre de Nice, rabattues sur les pôles les plus desservis
-  (280 k€/an). Le 06 n'a plus de vélos en libre-service en station, seulement du free-floating.
+  (281 k€/an), environ 100 600 habitants à 400 m à vol d'oiseau, 40 300 à pied. Le 06 n'a plus de vélos en libre-service en station, seulement du free-floating.
 
 ### Accès aujourd'hui (objectifs 1 et 2)
 
@@ -93,9 +105,9 @@ denses et plus motorisés. L'enjeu d'équité principal est donc la densité, pa
 
 - **Usage** : moins d'une journée de relevés, sans week-end ni saison touristique ; `is_reserved` n'est pas un trajet.
   Le potentiel décrit où Citiz réussit à s'implanter, pas un nombre de locations.
-- **Extrapolation** : 7 des 20 stations sont hors du domaine d'apprentissage. Trois sites niçois sont plus denses que
-  toutes les stations Citiz existantes, et quatre sites de Cannes, Antibes et Menton ont plus de résidences
-  secondaires. Ils sont signalés dans la carte et le CSV.
+- **Extrapolation** : 9 des 21 stations sont hors du domaine d'apprentissage. Quatre sites niçois sont plus denses que
+  toutes les stations Citiz existantes, quatre sites de Cannes, Antibes et Menton ont plus de résidences
+  secondaires, et le site de Grasse a une desserte inhabituelle. Ils sont signalés dans la carte et le CSV.
 - **Biais du modèle** : il apprend aussi les contraintes de Citiz (stationnement, partenariats). Les stations fermées
   ne sont pas observées.
 - **Coûts et recettes** : fiabilité faible à moyenne (`parametres.json`), à remplacer par les chiffres réels de Citiz

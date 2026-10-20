@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 PY="${PYTHON:-../.venv/bin/python}"
 for etape in 00_frequences_gtfs 01_cible_usage 02_variables 03_modele_usage 04_modele_implantation \
-             05_accessibilite_06 06_projections 07_optimisation 08_isochrones 09_carte; do
+             05_accessibilite_06 06_projections 06b_flotte 07_optimisation 08_isochrones 09_carte; do
   echo "=== $etape"
   "$PY" -W ignore "$etape.py"
 done

@@ -8,8 +8,8 @@ Citiz est absent des Alpes-Maritimes (1,1 million d'habitants). Deux opérateurs
 2018, Mobilize Share en 2026. Question : **où ouvrir, pour qui, à quel coût, sans répéter ces échecs ?**
 
 ## 2. Notre réponse en une phrase
-20 stations et 43 véhicules pour 500 k€ la première année, d'abord à Nice. Environ 67 000 habitants nouvellement
-à 5 minutes à pied d'une voiture partagée (réseau piéton OSM ; 159 000 à vol d'oiseau).
+21 stations et 42 véhicules (2 par station) pour 491 k€ la première année, d'abord à Nice. Environ 81 000 habitants
+nouvellement à 5 minutes à pied d'une voiture partagée (réseau piéton OSM ; 176 000 à vol d'oiseau).
 
 ## 3. Objectif 1 : qui a accès à quoi aujourd'hui (carte, couche 1)
 - 8,7 % des habitants n'ont aucun arrêt de transport actif à 400 m.
@@ -36,27 +36,30 @@ Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floa
 ## 7. Objectif 3 : la liste sous budget (carte, couche 3)
 - Méthode : glouton sur « habitants nouveaux × potentiel / coût ». Un habitant ne compte qu'une fois. 800 m entre
   deux stations, plafond par commune, quota d'équité.
-- Trois vagues : 5 sites au centre de Nice ; puis Nice, Cagnes-sur-Mer et Antibes ; puis Nice, Cannes, Menton et
-  Antibes.
-- Distances à pied (OSM) : 42 % des habitants comptés à vol d'oiseau sont réellement à 5 minutes. Les sites en
-  hauteur (Costabella, Denis Semeria, Valrose, Gravier) tombent à 11-22 % : ce sont les premiers à remplacer.
-- Pour l'autorité organisatrice : 10 arrêts de bus (150 k€, 12 à 21 € par habitant desservi) et 9 stations vélo à
-  Nice (280 k€/an).
+- Trois vagues de 7 stations : centre de Nice ; puis Nice, Cagnes-sur-Mer, Antibes et Cannes ; puis Nice, Antibes,
+  Menton et Grasse.
+- Distances à pied (OSM) : 46 % des habitants comptés à vol d'oiseau sont réellement à 5 minutes. Costabella,
+  Mirasol / Pessicart et Carlone tombent à 11-29 % : ce sont les premiers à revoir.
+- Flotte (slide 18) : 2 citadines hybrides par station, comme 77 % des stations Citiz à Marseille et 84 % à Toulouse.
+  Rupture mesurée dans Fabric : 21 % du temps à 1 véhicule, 5,7 % à 2, 3,7 % à 3. Le 3e véhicule seulement après
+  rupture observée. Électrique en test près des bornes ex-Mobilize ; pas de grand volume au lancement.
+- Pour l'autorité organisatrice : 10 arrêts de bus (142 k€ ; 9 000 habitants à vol d'oiseau, environ 2 800 à pied)
+  et 9 stations vélo à Nice (281 k€/an ; 100 600 habitants à vol d'oiseau, 40 300 à pied).
 
 ## 8. Ce que cela rapporte à Citiz
-- Pas de résultat chiffré : sans les réservations et recettes par station, il n'est pas prédictible (de −84 k€ à
-  +180 k€ par an selon les hypothèses).
+- Pas de résultat chiffré : sans les réservations et recettes par station, il n'est pas prédictible (de −93 k€ à
+  +164 k€ par an selon les hypothèses).
 - Le seuil de rentabilité : une station est à l'équilibre à **21 % d'occupation**, la moyenne actuelle du réseau
   (8 700 € de charges par véhicule et par an). À 15 % si la Métropole offre le stationnement, à 26 % avec des coûts
   hauts. Nos sites ressemblent à vos stations qui atteignent ce niveau ailleurs.
-- Sensibilité : seuls 9 sites sur 20 seraient retenus avec la population seule. Le modèle change donc réellement la
+- Sensibilité : seuls 15 sites sur 21 seraient retenus avec la population seule. Le modèle change donc réellement la
   décision.
 - Pourquoi Citiz réussirait là où d'autres ont échoué : modèle coopératif en boucle, flotte hybride, quartiers
   denses et peu motorisés plutôt que toute la métropole.
 
 ## 9. Éthique et société
-- **Carbone** : 150 à 370 t de CO₂ évitées par an (ordre de grandeur, hypothèses 6t-ADEME).
-- **Équité** : 60 % des stations dans les quartiers des 40 % d'habitants les plus modestes. Le quota de 30 % est
+- **Carbone** : 140 à 360 t de CO₂ évitées par an (ordre de grandeur, hypothèses 6t-ADEME).
+- **Équité** : 67 % des stations dans les quartiers des 40 % d'habitants les plus modestes. Le quota de 30 % est
   dépassé sans contrainte.
 - **Risque de « servir les déjà servis »** : assumé pour Citiz (la densité est la condition de survie, comme
   l'ont montré les échecs). Pour le transport public, les arrêts de bus proposés ciblent au contraire les zones
@@ -66,7 +69,8 @@ Habitants à 400 m de chacun des 5 830 pôles d'arrêts, des 475 zones free-floa
 ## 10. Limites et suite
 - Relevés Fabric à prolonger 4 à 8 semaines, week-ends et été compris, puis réentraîner le modèle d'usage
   (`decision/03_modele_usage.py`, prêt).
-- 7 sites sur 20 sont hors du domaine d'apprentissage (densité record ou tourisme) : à valider sur le terrain.
+- 9 sites sur 21 sont hors du domaine d'apprentissage (densité record, tourisme ou desserte inhabituelle) : à
+  valider sur le terrain.
 - Coûts à remplacer par ceux de Citiz et de la Métropole (`decision/parametres.json`).
 - Extension au Var et à Monaco : changer `DEP` et relancer.
 

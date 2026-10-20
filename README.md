@@ -12,7 +12,7 @@ que deux opérateurs y ont déjà échoué (Auto Bleue, Mobilize Share).
 |---|---|---|
 | 1. Carte de l'accès à la mobilité | `decision/05_accessibilite_06.py`, couche 1 de la carte | Options à 5 min de marche pour 1 000 habitants, du plus froid au plus chaud ; passages TC par jour (GTFS) |
 | 2. Qui est concerné | `decision/resultats/population_par_point_acces_06.csv`, couche 2 | Habitants à 400 m de chaque arrêt, gare, zone free-floating, véhicule partagé |
-| 3. Où s'implanter, à quel coût | `decision/07_optimisation.py`, couche 3 | 20 stations Citiz (500 k€), 10 arrêts de bus (150 k€), 9 stations vélo (280 k€/an), sous budget |
+| 3. Où s'implanter, à quel coût | `decision/07_optimisation.py`, couche 3 | 21 stations Citiz à 2 véhicules (491 k€), 10 arrêts de bus (142 k€), 9 stations vélo (281 k€/an), sous budget |
 
 La méthode, les résultats chiffrés et les limites sont détaillés dans **[decision/README.md](decision/README.md)**.
 

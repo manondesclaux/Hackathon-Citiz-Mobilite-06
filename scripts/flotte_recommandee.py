@@ -6,7 +6,9 @@ produite par decision/ (modèle de potentiel validé hors échantillon, coûts e
 
 Réseau existant : 49 % des stations ont 1 voiture, 37 % en ont 2, seulement 14 % en ont 3 ou plus et 5 % en ont 4 ou plus.
 Règle : 2 véhicules par site, 3 si la population à 400 m dépasse 9 000 habitants, jamais 4 au démarrage.
-(À 2 véhicules la rupture de disponibilité en journée est ≈14 %, à 3 ≈10 %.) À ajuster ensuite avec l'usage réel :
+(Correction : 14 % et 10 % étaient la part de stations vides plus de 15 % du temps, pas le taux de rupture.
+Ruptures mesurées dans Fabric : 5,7 % du temps de journée à 2 véhicules, 3,7 % à 3 ; voir decision/06b_flotte.py,
+qui retient 2 véhicules partout au lancement.) À ajuster ensuite avec l'usage réel :
 +1 véhicule si la station est vide (tout réservé) plus de 15 % de la journée sur 2 semaines, −1 si l'occupation par véhicule < 15 %.
 Types : modèles à plus fort taux de véhicules actifs (sorties/vehicules_succes.csv).
 
