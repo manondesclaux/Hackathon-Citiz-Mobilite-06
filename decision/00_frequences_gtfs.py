@@ -1,7 +1,7 @@
 """Étape 0 — Fréquence de desserte des arrêts des Alpes-Maritimes (GTFS), pour ne plus compter un arrêt à 1 bus par
 jour comme une station de tram.
 
-Réseaux : ceux déjà identifiés par citiz_azur (Lignes d'Azur, Envibus, Palmbus, Sillages, Zest, ZOU, trains régionaux).
+Réseaux : ceux identifiés par le premier prototype (donnees/collection_log_gtfs.json) (Lignes d'Azur, Envibus, Palmbus, Sillages, Zest, ZOU, trains régionaux).
 Pour chaque flux : jour ouvré type = premier mardi couvert par le calendrier du flux ; services actifs d'après
 calendar.txt et calendar_dates.txt ; départs = nombre de passages (stop_times) ce jour-là.
 Les arrêts de plusieurs réseaux ou quais à moins de 30 m sont regroupés en un « pôle » (départs additionnés).
@@ -22,7 +22,7 @@ from communs import DONNEES, ROOT, xy
 
 CACHE = ROOT / "data" / "raw" / "gtfs_06"
 CACHE.mkdir(parents=True, exist_ok=True)
-log = json.loads((ROOT / "citiz_azur" / "data" / "collection_log.json").read_text())
+log = json.loads((ROOT / "donnees" / "collection_log_gtfs.json").read_text())
 flux = [(s["title"], s["url"]) for s in log["sources"] if s["type"] == "gtfs" and s["status"] == "ok"]
 
 

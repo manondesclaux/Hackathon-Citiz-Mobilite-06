@@ -31,18 +31,16 @@ Données nationales à placer dans `data_insee/` (non versionnées, voir `decisi
 
 | Dossier | Rôle |
 |---|---|
-| `decision/` | **Pipeline de référence** : cible d'usage, modèles validés, objectifs 1-2-3, carte finale |
-| `fabric/`, `releves_fabric/` | Collecte toutes les 15 min des flux Citiz dans Microsoft Fabric (Lakehouse, Delta) et relevés exportés |
-| `citiz_azur/` | Premier prototype autonome (score explicable, KMeans, top 10) ; garde son propre README |
-| `scripts/` | Collecte, nettoyage et analyses exploratoires (France entière, âges, motorisation, concurrence) |
-| `DATA clean/` | Données nettoyées (Citiz, concurrents, communes, secteur Côte d'Azur, arrêts et stations vélo nationaux) |
-| `sorties/` | Cartes et tableaux des analyses exploratoires |
-| `01_*.ipynb`, `02_*.ipynb` | Notebooks d'analyse de marché (implantation, concurrence, démographie du Sud) |
+| `decision/` | **Pipeline de référence** : cible d'usage, modèles validés, objectifs 1-2-3, carte finale (`resultats/`) |
+| `fabric/` | Collecte toutes les 15 min des flux Citiz dans Microsoft Fabric (Lakehouse, Delta) et relevés exportés (`citiz_releves.parquet`) |
+| `donnees/` | Données nettoyées lues par le pipeline : stations Citiz, secteur Côte d'Azur (`cote_azur/`, avec son dictionnaire), arrêts et stations vélo nationaux (`model/`), motorisation et plafonds par commune |
+| `collecte/` | Scripts de collecte et de nettoyage qui produisent `donnees/` |
+| `docs/` | Support de soutenance |
 | `SOURCES.md` | Liste des sources utilisées, licences, dates |
 
-Les scripts `scripts/vingt_stations_azur.py`, `ordre_installation.py` et `flotte_recommandee.py` sont conservés pour
-l'historique. Leur modèle d'usage (R² = 0,03, sans validation) ne permet pas de distinguer les sites ; la
-recommandation de référence est celle de `decision/`.
+`donnees/anciens_classements/` garde les deux premières listes de l'équipe, seulement pour la comparaison faite par
+`decision/07_optimisation.py`. Les analyses exploratoires (notebooks de marché, prototype `citiz_azur`, cartes
+`sorties/`) ont été retirées du dépôt ; elles restent dans l'historique Git.
 
 ## Pourquoi Microsoft Fabric, et pourquoi Python en local
 

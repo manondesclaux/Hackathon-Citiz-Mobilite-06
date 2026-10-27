@@ -1,6 +1,6 @@
 """Étape 6b — Combien de véhicules par station, et lesquels ? D'après la pratique de Citiz et l'usage mesuré.
 
-1. Pratique du réseau (GBFS, DATA clean/citiz_stations.csv) : véhicules par station, par réseau, dans les grandes
+1. Pratique du réseau (GBFS, donnees/citiz_stations.csv) : véhicules par station, par réseau, dans les grandes
    villes comparables et selon la densité autour de la station.
 2. Disponibilité (relevés Fabric, 7 h - 21 h) : part du temps où TOUTES les voitures d'une station sont réservées,
    selon le nombre de véhicules. Véhicules « toujours réservés » écartés (comme à l'étape 1).
@@ -86,7 +86,7 @@ pratique["selon_habitants_400m"] = {str(k): {"stations": int(len(g)), "vehicules
                                     for k, g in st.groupby("classe", observed=True)}
 
 # ---------------------------------------------------------------- 2. disponibilité selon la taille de station
-d = pd.read_parquet(ROOT / "releves_fabric" / "citiz_releves.parquet")
+d = pd.read_parquet(ROOT / "fabric" / "citiz_releves.parquet")
 d["releve_utc"] = pd.to_datetime(d.releve_utc, utc=True)
 d = d[d.groupby("releve_utc").vehicle_id.transform("size") >= 2600]
 occ_tot = d.groupby(["jeu", "vehicle_id"]).is_reserved.transform("mean")

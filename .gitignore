@@ -1,29 +1,15 @@
 env
 .venv/
 __pycache__/
-# données volumineuses ou régénérables
-Filosofi2021_carreaux_200m_csv/
-data_citiz/
+.DS_Store
+
+# Données nationales volumineuses (voir decision/README.md)
 data_insee/
-data_concurrents/
-releves_citiz/
-sorties/*
-!sorties/carte_citiz.html
-!sorties/carte_citiz_filosofi.html
-!sorties/carte_citiz_ages.html
-!sorties/carte_citiz_concurrents.html
+Filosofi2021_carreaux_200m_csv/
 
 # Téléchargements bruts et caches des scripts de collecte (volumineux, régénérables)
 data/raw/
 
-# Fichiers système macOS
-.DS_Store
-!sorties/ordre_installation.csv
-!sorties/ordre_installation.html
-!sorties/flotte_recommandee.csv
-!sorties/vingt_stations_azur.csv
-!sorties/vingt_stations_azur.html
-!sorties/top10_azur_vs_usage.csv
-!sorties/motorisation_communes.csv
-!sorties/plafonds_communes.csv
-!sorties/stations_usage_motorisation.csv
+# Sorties secondaires des scripts de collecte, non utilisées par le pipeline
+donnees/getaround_vehicles.csv
+donnees/stations_usage_motorisation.csv

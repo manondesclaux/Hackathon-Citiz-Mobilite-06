@@ -1,6 +1,6 @@
 """Étape 1 — Cible d'usage par station Citiz, nettoyée, à partir des relevés GBFS collectés dans Microsoft Fabric.
 
-Entrée : releves_fabric/citiz_releves.parquet (un relevé toutes les 15 min, vehicle_status de tous les flux Citiz)
+Entrée : fabric/citiz_releves.parquet (un relevé toutes les 15 min, vehicle_status de tous les flux Citiz)
 Sortie : decision/donnees/usage_stations.csv, decision/resultats/qualite_cible.json
 
 Ce que mesure le flux : `is_reserved` vaut vrai quand le véhicule est réservé (location en cours ou imminente).
@@ -19,7 +19,7 @@ import pandas as pd
 
 from communs import DONNEES, RESULTATS, ROOT
 
-d = pd.read_parquet(ROOT / "releves_fabric" / "citiz_releves.parquet")
+d = pd.read_parquet(ROOT / "fabric" / "citiz_releves.parquet")
 d["releve_utc"] = pd.to_datetime(d.releve_utc, utc=True)
 n_brut = d.releve_utc.nunique()
 complet = d.groupby("releve_utc").vehicle_id.transform("size") >= 2600

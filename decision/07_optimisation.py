@@ -2,7 +2,7 @@
 
 1. Stations Citiz (payeur : Citiz). Valeur d'un site = habitants NOUVELLEMENT desservis à 400 m (jamais comptés deux
    fois) × potentiel d'implantation (modèle validé de l'étape 4). Coût = installation + véhicules la 1re année.
-   Contraintes : budget, 800 m entre deux stations, plafond par commune (scripts/plafonds_communes.py), quota
+   Contraintes : budget, 800 m entre deux stations, plafond par commune (collecte/plafonds_communes.py), quota
    d'équité (part minimale de stations dans les quartiers modestes), population à 400 m >= 1 500.
    Pour chaque site : occupation attendue (avec intervalle), recettes, résultat d'exploitation, CO2 évité.
 2. Arrêts de bus (payeur : autorité organisatrice). Trous de desserte sur le réseau existant : carreaux entre 400 et
@@ -47,7 +47,7 @@ c["dist_pole_actif_m"] = cKDTree(P_actif).query(C)[0]
 pf = poles[poles.departs >= 240]
 c["dist_pole_fort_m"] = cKDTree(xy(pf.lon, pf.lat)).query(C)[0]
 
-plaf = pd.read_csv(ROOT / "sorties" / "plafonds_communes.csv", dtype={"code_commune": str}).set_index("code_commune").plafond
+plaf = pd.read_csv(ROOT / "donnees" / "plafonds_communes.csv", dtype={"code_commune": str}).set_index("code_commune").plafond
 c["plafond_commune"] = c.commune_carreau.map(plaf).fillna(2).astype(int)
 
 u = pd.read_csv(DONNEES / "usage_stations.csv")
@@ -165,7 +165,7 @@ print("\n", sens.to_string(index=False))
 
 # comparaison avec les anciennes listes de l'équipe
 anciens = {}
-for nom, f in [("vingt_stations_azur", ROOT / "sorties" / "vingt_stations_azur.csv"), ("citiz_azur_top10", ROOT / "citiz_azur" / "results" / "top10.csv")]:
+for nom, f in [("vingt_stations_azur", ROOT / "donnees" / "anciens_classements" / "vingt_stations_azur.csv"), ("citiz_azur_top10", ROOT / "donnees" / "anciens_classements" / "citiz_azur_top10.csv")]:
     a = pd.read_csv(f)
     a[["x", "y"]] = xy(a.lon, a.lat)
     anciens[nom] = {"sites": len(a), "repris_a_moins_de_400m": proches(a, ref)}

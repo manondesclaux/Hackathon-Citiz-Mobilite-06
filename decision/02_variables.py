@@ -24,7 +24,7 @@ c = c[["idcar_200m", "lat", "lon", "x", "y", "ind", "men", "men_pauv", "i_est_20
     columns={"ind": "pop_carreau", "men": "men_carreau", "men_pauv": "men_pauv_carreau", "code_commune": "commune_carreau"})
 c = c.reset_index(drop=True)
 c = c.join(variables(c, **ctx))
-noms = pd.read_csv(DONNEES.parent.parent / "DATA clean" / "cote_azur" / "communes_cote_azur.csv", dtype={"code": str})
+noms = pd.read_csv(DONNEES.parent.parent / "donnees" / "cote_azur" / "communes_cote_azur.csv", dtype={"code": str})
 c["commune"] = c.commune_carreau.map(noms.set_index("code").nom)
 c.round(5).to_csv(DONNEES / "candidats_06.csv.gz", index=False)
 print(f"Candidats 06 : {len(c):,} carreaux, {c.pop_carreau.sum():,.0f} habitants")

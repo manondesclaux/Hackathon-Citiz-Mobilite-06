@@ -1,7 +1,7 @@
 # Pipeline de décision : où ajouter de la mobilité partagée dans les Alpes-Maritimes ?
 
 Ce dossier est **la référence** pour les trois objectifs du sujet. Il remplace, pour la recommandation finale, les
-classements exploratoires de `scripts/vingt_stations_azur.py`, `scripts/ordre_installation.py` et `citiz_azur/top10`.
+classements exploratoires de l'équipe (`vingt_stations_azur` et `citiz_azur/top10`, gardés dans `donnees/anciens_classements/`).
 Il les reprend et les corrige : modèle validé hors échantillon, coûts différenciés, budget, équité, distances à pied.
 
 ```bash

@@ -18,7 +18,7 @@ DEC = ROOT / "decision"
 DONNEES = DEC / "donnees"            # tables dérivées, légères, versionnées
 RESULTATS = DEC / "resultats"        # sorties lisibles (CSV, JSON, cartes)
 INSEE = ROOT / "data_insee"          # archives INSEE nationales (non versionnées, voir README)
-CLEAN = ROOT / "DATA clean"
+CLEAN = ROOT / "donnees"
 for d in (DONNEES, RESULTATS):
     d.mkdir(parents=True, exist_ok=True)
 
@@ -84,7 +84,7 @@ def logement_communes():
 
 
 def motorisation_communes():
-    m = pd.read_csv(ROOT / "sorties" / "motorisation_communes.csv", dtype={"code_commune": str})
+    m = pd.read_csv(CLEAN / "motorisation_communes.csv", dtype={"code_commune": str})
     return m.set_index("code_commune").part_sans_voiture / 100
 
 

@@ -43,7 +43,7 @@ principales sources :
 - effets de l'autopartage : Enquête nationale sur l'autopartage, 6t-bureau de recherche pour l'ADEME ;
 - facteurs d'émission : ADEME, Base Empreinte.
 
-## Contexte de marché (notebooks, `etudes/`)
+## Contexte de marché
 
 Presse économique et institutionnelle sur Auto Bleue, Mobilize Share, Getaround et la Métropole Nice Côte d'Azur,
-Modulauto : liens dans les notebooks `01` et `02` et dans `citiz_azur/SOURCES.md`.
+Modulauto : liens dans les notebooks d'analyse de marché (retirés du dépôt, disponibles dans l'historique Git).
